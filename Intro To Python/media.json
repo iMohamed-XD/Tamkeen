@@ -1,0 +1,98 @@
+[
+    {
+        "title": "Interstellar",
+        "type": "movie",
+        "genre": "Sci-Fi",
+        "year": 2014,
+        "rating": 9.0,
+        "watched": true
+    },
+    {
+        "title": "Breaking Bad",
+        "type": "series",
+        "genre": "Drama",
+        "year": 2008,
+        "rating": 9.5,
+        "watched": true
+    },
+    {
+        "title": "The Dark Knight",
+        "type": "movie",
+        "genre": "Action",
+        "year": 2008,
+        "rating": 9.0,
+        "watched": true
+    },
+    {
+        "title": "Inception",
+        "type": "movie",
+        "genre": "Sci-Fi",
+        "year": 2010,
+        "rating": 8.8,
+        "watched": true
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "type": "movie",
+        "genre": "Drama",
+        "year": 1994,
+        "rating": 9.3,
+        "watched": true
+    },
+    {
+        "title": "Stranger Things",
+        "type": "series",
+        "genre": "Sci-Fi",
+        "year": 2016,
+        "rating": 8.7,
+        "watched": false
+    },
+    {
+        "title": "The Godfather",
+        "type": "movie",
+        "genre": "Crime",
+        "year": 1972,
+        "rating": 9.2,
+        "watched": true
+    },
+    {
+        "title": "The Office",
+        "type": "series",
+        "genre": "Comedy",
+        "year": 2005,
+        "rating": 8.9,
+        "watched": true
+    },
+    {
+        "title": "Parasite",
+        "type": "movie",
+        "genre": "Thriller",
+        "year": 2019,
+        "rating": 8.5,
+        "watched": false
+    },
+    {
+        "title": "The Crown",
+        "type": "series",
+        "genre": "Historical Drama",
+        "year": 2016,
+        "rating": 8.6,
+        "watched": false
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "type": "movie",
+        "genre": "Animation",
+        "year": 2018,
+        "rating": 8.4,
+        "watched": true
+    },
+    {
+        "title": "Friends",
+        "type": "series",
+        "genre": "Comedy",
+        "year": 1994,
+        "rating": 8.9,
+        "watched": true
+    }
+]
