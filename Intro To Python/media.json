@@ -45,7 +45,7 @@
         "genre": "Sci-Fi",
         "year": 2016,
         "rating": 8.7,
-        "watched": false
+        "watched": true
     },
     {
         "title": "The Godfather",
@@ -76,7 +76,7 @@
         "type": "series",
         "genre": "Historical Drama",
         "year": 2016,
-        "rating": 8.6,
+        "rating": 9.7,
         "watched": false
     },
     {

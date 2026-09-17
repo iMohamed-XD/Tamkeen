@@ -2,11 +2,11 @@
                     ===== MEDIA REPORT =====
 
                     Total media: 12
-                    Watched: 9
-                    Unwatched: 3
+                    Watched: 10
+                    Unwatched: 2
 
                     Movies: 7
                     Series: 5
 
-                    Average rating: 8.9
+                    Average rating: 8.991666666666669
                     
