@@ -1,0 +1,1 @@
+this section uses a venv python kernel, set the kernel to **"\.venv\Scripts\python.exe"**

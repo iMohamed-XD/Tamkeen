@@ -1,5 +1,4 @@
 .env
 *.pdf
 *.docx
-media_report.txt
-media.json
+*.xlsx
