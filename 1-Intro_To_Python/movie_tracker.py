@@ -95,7 +95,6 @@ class TXTReportManger:
 
     def create_report(
         self,
-        media_list: list[Media],
         total_media: int,
         watched: int,
         unwatched: int,
@@ -119,7 +118,7 @@ class TXTReportManger:
                     """)
         except PermissionError:
             print(f"[Denied access]: can't access {self.file_path}")
-        except Exception as e:
+        except OSError as e:
             print(f"[Error]: something gone wrong, error = {e}")
 
 
@@ -166,7 +165,7 @@ class MediaClient:
 
 
 class MediaEngine:
-    def __init__(self, path: str = "media.json", api_key: str = API_KEY):
+    def __init__(self, path: str = "media.json", api_key: str | None = API_KEY):
         self.repo = MediaRepository(path)
         self.repository: list[Media] = self.repo.load()
         self.dirty: bool = False
@@ -235,7 +234,6 @@ class MediaEngine:
             total_ratings += Rating
         Average_rating: float = (total_ratings) / total_media if total_media else 0.0
         self.report.create_report(
-            media_list=media_list,
             total_media=total_media,
             watched=watched,
             unwatched=unwatched,
