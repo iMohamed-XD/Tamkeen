@@ -3,3 +3,5 @@
 *.docx
 *.xlsx
 .venv
+.vscode
+.mypy_cache
