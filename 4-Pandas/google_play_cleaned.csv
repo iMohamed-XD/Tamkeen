@@ -1,0 +1,1201 @@
+App,Category,Rating,Reviews,Size_MB,Installs,Type,Price_$,Content_Rating,Genres,Last_Updated,Android_Version
+App_1,HEALTH,3.7,401077,2.5,"1,000,000+",Paid,1.99,Teen,Education,2024-06-05,8.0 and up
+App_2,LIFESTYLE,5.0,460806,2.5,"10,000+",Free,0.99,Mature 17+,Education,2024-09-14,8.0 and up
+App_3,ENTERTAINMENT,2.5,4989914,2.5,"10,000,000+",Free,2.99,Teen,Health,2024-06-12,5.0 and up
+App_4,TOOLS,3.0,1004011,2.5,"1,000+",Free,0.0,Everyone,Action,2024-05-26,4.1 and up
+App_5,HEALTH,3.5,312033,2.5,"1,000,000+",Free,2.99,Everyone,Health,2024-06-02,4.1 and up
+App_6,EDUCATION,4.8,3205609,2.5,"1,000+",Free,0.0,Teen,Health,2024-02-07,4.1 and up
+App_7,HEALTH,2.7,4686176,2.5,"10,000+",Free,4.99,Everyone,Music,2024-05-10,6.0 and up
+App_8,ENTERTAINMENT,2.5,3177912,2.5,"10,000+",Paid,4.99,Mature 17+,Health,2024-12-23,6.0 and up
+App_9,TOOLS,2.6,755121,2.5,"10,000,000+",Free,0.0,Mature 17+,Tools,2024-09-11,8.0 and up
+App_10,LIFESTYLE,2.7,2320725,2.5,"10,000,000+",Free,2.99,Teen,Health,2024-07-26,6.0 and up
+App_11,ENTERTAINMENT,2.6,2234815,2.5,"10,000+",Free,0.0,Everyone,Music,2024-04-04,4.1 and up
+App_12,ENTERTAINMENT,3.7,4304469,2.5,"1,000,000+",Paid,0.99,Mature 17+,Tools,2024-12-13,5.0 and up
+App_13,EDUCATION,4.0,1899064,2.5,"1,000+",Free,4.99,Mature 17+,Education,2024-11-22,6.0 and up
+App_14,FINANCE,3.2,3457560,2.5,"100,000+",Paid,0.99,Mature 17+,Puzzle,2024-06-19,6.0 and up
+App_15,TOOLS,3.5,1550194,2.5,"10,000,000+",Free,4.99,Teen,Business,2024-09-06,4.1 and up
+App_16,BUSINESS,2.7,4174492,2.5,"100,000+",Free,4.99,Teen,Health,2024-07-08,6.0 and up
+App_17,ENTERTAINMENT,3.3,3273533,2.5,"1,000,000+",Free,1.99,Mature 17+,Tools,2024-07-17,8.0 and up
+App_18,FINANCE,3.8,88678,2.5,"10,000,000+",Free,0.99,Mature 17+,Puzzle,2024-08-08,5.0 and up
+App_19,BUSINESS,4.3,2834847,2.5,"100,000+",Free,0.99,Everyone,Music,2024-01-24,4.1 and up
+App_20,TOOLS,2.5,3619358,2.5,"1,000,000+",Free,1.99,Everyone,Puzzle,2024-08-31,8.0 and up
+App_21,GAME,3.7,1924924,2.5,"1,000+",Free,2.99,Everyone,Business,2024-11-19,4.1 and up
+App_22,FINANCE,3.2,4010172,2.5,"1,000,000+",Free,0.99,Teen,Puzzle,2024-05-07,8.0 and up
+App_23,PRODUCTIVITY,4.6,4747405,2.5,"10,000,000+",Free,0.0,Mature 17+,Tools,2024-04-02,5.0 and up
+App_24,GAME,4.3,2770752,2.5,"10,000+",Paid,1.99,Teen,Puzzle,2024-10-26,5.0 and up
+App_25,EDUCATION,4.0,2770384,2.5,"1,000+",Free,0.99,Mature 17+,Puzzle,2024-05-12,8.0 and up
+App_26,HEALTH,3.2,3582309,2.5,"100,000+",Free,2.99,Everyone,Puzzle,2024-02-24,8.0 and up
+App_27,LIFESTYLE,4.8,3045925,2.5,"10,000,000+",Free,0.99,Everyone,Action,2024-06-06,8.0 and up
+App_28,PRODUCTIVITY,2.6,270924,2.5,"10,000+",Free,4.99,Everyone,Health,2024-01-29,8.0 and up
+App_29,EDUCATION,2.8,4109813,2.5,"1,000,000+",Free,0.0,Everyone,Music,2024-07-29,8.0 and up
+App_30,TOOLS,3.5,362465,2.5,"10,000+",Free,1.99,Mature 17+,Business,2024-06-02,8.0 and up
+App_31,EDUCATION,2.8,4474027,2.5,"10,000,000+",Free,4.99,Everyone,Music,2024-10-19,5.0 and up
+App_32,HEALTH,4.9,1034596,2.5,"10,000,000+",Free,2.99,Mature 17+,Action,2024-08-09,8.0 and up
+App_33,TOOLS,4.5,1746698,2.5,"10,000+",Free,4.99,Mature 17+,Action,2024-04-24,6.0 and up
+App_34,PRODUCTIVITY,3.1,3100591,2.5,"1,000,000+",Free,4.99,Teen,Tools,2024-06-06,5.0 and up
+App_35,HEALTH,4.0,2661647,2.5,"10,000+",Free,2.99,Everyone,Action,2024-09-15,4.1 and up
+App_36,BUSINESS,5.0,3672287,2.5,"10,000,000+",Free,4.99,Everyone,Health,2024-09-07,5.0 and up
+App_37,LIFESTYLE,4.7,2084514,2.5,"10,000,000+",Free,1.99,Teen,Action,2024-05-01,4.1 and up
+App_38,PRODUCTIVITY,4.0,4157147,2.5,"100,000+",Free,0.99,Mature 17+,Puzzle,2024-10-25,4.1 and up
+App_39,BUSINESS,4.8,2254746,2.5,"100,000+",Free,4.99,Everyone,Music,2024-09-19,6.0 and up
+App_40,PRODUCTIVITY,5.0,3021382,2.5,"1,000+",Paid,1.99,Mature 17+,Education,2024-02-18,8.0 and up
+App_41,TOOLS,4.4,2388239,2.5,"10,000,000+",Free,0.99,Teen,Business,2024-11-24,8.0 and up
+App_42,BUSINESS,2.7,3121891,2.5,"100,000+",Free,0.99,Mature 17+,Action,2024-10-23,5.0 and up
+App_43,LIFESTYLE,3.5,4854052,2.5,"10,000+",Free,4.99,Everyone,Music,2024-12-27,8.0 and up
+App_44,HEALTH,4.6,2471388,2.5,"1,000,000+",Free,1.99,Mature 17+,Tools,2024-03-17,6.0 and up
+App_45,ENTERTAINMENT,3.1,3830131,2.5,"10,000+",Free,4.99,Mature 17+,Action,2024-05-06,5.0 and up
+App_46,EDUCATION,4.6,3562954,2.5,"1,000,000+",Free,2.99,Everyone,Health,2024-07-15,5.0 and up
+App_47,GAME,2.8,1353334,2.5,"100,000+",Free,0.99,Everyone,Action,2024-08-08,5.0 and up
+App_48,LIFESTYLE,2.6,3372465,2.5,"1,000+",Free,4.99,Mature 17+,Action,2024-03-31,8.0 and up
+App_49,BUSINESS,3.5,4268183,2.5,"10,000+",Free,0.99,Mature 17+,Action,2024-01-08,8.0 and up
+App_50,ENTERTAINMENT,2.6,869817,2.5,"10,000+",Free,1.99,Teen,Tools,2024-02-01,8.0 and up
+App_51,LIFESTYLE,4.9,4396730,2.5,"10,000+",Free,0.0,Everyone,Action,2024-11-15,5.0 and up
+App_52,BUSINESS,4.6,4070038,2.5,"1,000,000+",Free,4.99,Mature 17+,Business,2024-09-25,5.0 and up
+App_53,FINANCE,4.5,2664506,2.5,"100,000+",Free,4.99,Everyone,Music,2024-07-09,4.1 and up
+App_54,FINANCE,4.1,2872186,2.5,"10,000+",Free,0.99,Teen,Health,2024-12-14,4.1 and up
+App_55,LIFESTYLE,3.0,1369287,2.5,"10,000+",Free,1.99,Mature 17+,Action,2024-06-11,8.0 and up
+App_56,FINANCE,3.8,749981,2.5,"1,000+",Free,2.99,Mature 17+,Action,2024-03-01,5.0 and up
+App_57,BUSINESS,4.0,2593669,2.5,"1,000+",Free,1.99,Mature 17+,Action,2024-09-20,8.0 and up
+App_58,BUSINESS,3.8,4166243,2.5,"100,000+",Free,4.99,Everyone,Action,2024-10-11,8.0 and up
+App_59,LIFESTYLE,3.2,4460286,2.5,"100,000+",Free,2.99,Teen,Puzzle,2024-04-04,4.1 and up
+App_60,ENTERTAINMENT,3.8,4075847,2.5,"10,000,000+",Free,1.99,Everyone,Puzzle,2024-02-10,6.0 and up
+App_61,HEALTH,3.7,1342067,2.5,"1,000+",Free,0.0,Mature 17+,Education,2024-05-28,8.0 and up
+App_62,PRODUCTIVITY,5.0,2233716,2.5,"10,000,000+",Free,0.99,Teen,Action,2024-07-22,6.0 and up
+App_63,ENTERTAINMENT,4.7,485767,2.5,"1,000,000+",Free,1.99,Mature 17+,Education,2024-09-23,6.0 and up
+App_64,TOOLS,3.7,2054386,2.5,"10,000,000+",Free,1.99,Mature 17+,Business,2024-01-02,5.0 and up
+App_65,BUSINESS,4.1,2279186,2.5,"10,000+",Free,0.0,Everyone,Education,2024-06-26,5.0 and up
+App_66,TOOLS,4.4,1185121,2.5,"10,000,000+",Free,4.99,Mature 17+,Music,2024-07-12,8.0 and up
+App_67,ENTERTAINMENT,2.6,4961838,2.5,"100,000+",Free,0.99,Teen,Puzzle,2024-12-01,4.1 and up
+App_68,PRODUCTIVITY,4.7,2392929,2.5,"1,000,000+",Free,1.99,Mature 17+,Puzzle,2024-07-14,4.1 and up
+App_69,PRODUCTIVITY,4.7,1500958,2.5,"10,000+",Free,2.99,Mature 17+,Action,2024-12-08,8.0 and up
+App_70,GAME,3.6,4107844,2.5,"10,000,000+",Free,1.99,Everyone,Action,2024-09-05,8.0 and up
+App_71,PRODUCTIVITY,3.5,2408640,2.5,"1,000,000+",Paid,0.99,Teen,Business,2024-07-30,4.1 and up
+App_72,HEALTH,3.2,1594928,2.5,"1,000,000+",Free,1.99,Everyone,Health,2024-06-01,6.0 and up
+App_73,PRODUCTIVITY,3.7,4668180,2.5,"10,000+",Paid,0.0,Mature 17+,Business,2024-06-06,8.0 and up
+App_74,ENTERTAINMENT,2.6,2703004,2.5,"10,000,000+",Free,1.99,Everyone,Music,2024-12-27,6.0 and up
+App_75,GAME,4.6,2704726,2.5,"1,000,000+",Free,1.99,Everyone,Action,2024-05-18,8.0 and up
+App_76,ENTERTAINMENT,2.6,4902454,2.5,"1,000,000+",Free,2.99,Everyone,Action,2024-08-08,8.0 and up
+App_77,ENTERTAINMENT,3.3,192522,2.5,"1,000+",Free,0.0,Everyone,Business,2024-09-29,6.0 and up
+App_78,EDUCATION,4.8,3714389,2.5,"1,000,000+",Free,0.0,Mature 17+,Business,2024-06-02,6.0 and up
+App_79,GAME,4.3,4385734,2.5,"1,000+",Free,1.99,Mature 17+,Business,2024-09-05,4.1 and up
+App_80,ENTERTAINMENT,3.2,4904958,2.5,"10,000,000+",Free,2.99,Teen,Puzzle,2024-10-05,8.0 and up
+App_81,EDUCATION,3.1,1549430,2.5,"10,000,000+",Paid,1.99,Everyone,Education,2024-10-30,5.0 and up
+App_82,EDUCATION,2.5,2075925,2.5,"10,000,000+",Free,1.99,Everyone,Education,2024-10-02,5.0 and up
+App_83,GAME,4.2,3348934,2.5,"100,000+",Free,0.99,Teen,Action,2024-01-02,8.0 and up
+App_84,TOOLS,2.6,3345657,2.5,"10,000,000+",Free,0.99,Everyone,Puzzle,2024-03-28,8.0 and up
+App_85,HEALTH,3.8,3900389,2.5,"1,000,000+",Free,2.99,Teen,Business,2024-10-13,8.0 and up
+App_86,PRODUCTIVITY,4.9,3804419,2.5,"10,000+",Free,4.99,Mature 17+,Action,2024-05-09,6.0 and up
+App_87,HEALTH,2.8,2964942,2.5,"1,000+",Free,0.99,Teen,Puzzle,2024-03-18,5.0 and up
+App_88,PRODUCTIVITY,4.7,647351,2.5,"100,000+",Free,4.99,Everyone,Music,2024-09-16,5.0 and up
+App_89,ENTERTAINMENT,5.0,1520992,2.5,"10,000,000+",Free,0.0,Teen,Health,2024-08-28,5.0 and up
+App_90,BUSINESS,2.7,3329703,2.5,"10,000,000+",Free,0.99,Mature 17+,Puzzle,2024-05-20,8.0 and up
+App_91,GAME,4.7,3998432,2.5,"10,000+",Paid,0.99,Everyone,Tools,2024-08-15,6.0 and up
+App_92,HEALTH,3.8,1201848,2.5,"10,000+",Free,2.99,Mature 17+,Action,2024-06-11,8.0 and up
+App_93,HEALTH,4.8,2164573,2.5,"100,000+",Paid,4.99,Mature 17+,Education,2024-08-23,4.1 and up
+App_94,ENTERTAINMENT,3.9,4479835,2.5,"1,000+",Free,0.99,Teen,Tools,2024-05-07,4.1 and up
+App_95,TOOLS,4.2,3585691,2.5,"10,000,000+",Free,0.99,Mature 17+,Business,2024-07-18,5.0 and up
+App_96,EDUCATION,3.9,4408295,2.5,"100,000+",Free,2.99,Everyone,Health,2024-01-31,8.0 and up
+App_97,ENTERTAINMENT,4.7,4975240,2.5,"1,000,000+",Free,2.99,Mature 17+,Music,2024-05-17,4.1 and up
+App_98,FINANCE,4.3,2384301,2.5,"1,000,000+",Free,4.99,Mature 17+,Health,2024-01-21,4.1 and up
+App_99,EDUCATION,3.8,2095598,2.5,"100,000+",Free,0.0,Teen,Health,2024-08-21,8.0 and up
+App_100,GAME,4.7,2655992,2.5,"10,000,000+",Free,0.0,Mature 17+,Puzzle,2024-07-20,6.0 and up
+App_101,EDUCATION,3.1,4204965,2.5,"100,000+",Free,1.99,Teen,Action,2024-10-05,8.0 and up
+App_102,TOOLS,2.9,3244977,2.5,"10,000,000+",Free,0.99,Teen,Action,2024-05-10,8.0 and up
+App_103,EDUCATION,2.9,2985706,2.5,"10,000+",Free,4.99,Everyone,Health,2024-05-27,6.0 and up
+App_104,GAME,3.3,437635,2.5,"100,000+",Free,0.99,Everyone,Business,2024-01-29,5.0 and up
+App_105,TOOLS,3.1,3301116,2.5,"10,000,000+",Free,4.99,Everyone,Action,2024-12-26,5.0 and up
+App_106,HEALTH,4.8,1372080,2.5,"100,000+",Free,4.99,Everyone,Health,2024-11-03,5.0 and up
+App_107,HEALTH,2.8,2430731,2.5,"100,000+",Free,4.99,Teen,Action,2024-06-10,6.0 and up
+App_108,PRODUCTIVITY,4.2,2593736,2.5,"10,000,000+",Paid,0.99,Mature 17+,Business,2024-12-22,4.1 and up
+App_109,EDUCATION,3.0,4018290,2.5,"10,000,000+",Free,2.99,Everyone,Music,2024-12-05,6.0 and up
+App_110,HEALTH,4.7,2542027,2.5,"1,000+",Free,0.99,Everyone,Tools,2024-03-01,8.0 and up
+App_111,GAME,4.9,4450262,2.5,"100,000+",Free,4.99,Everyone,Health,2024-05-04,6.0 and up
+App_112,LIFESTYLE,3.7,1570067,2.5,"1,000,000+",Free,1.99,Mature 17+,Education,2024-03-11,4.1 and up
+App_113,LIFESTYLE,4.7,861079,2.5,"100,000+",Free,0.0,Everyone,Education,2024-11-21,4.1 and up
+App_114,TOOLS,2.5,856636,2.5,"100,000+",Free,4.99,Mature 17+,Health,2024-12-29,8.0 and up
+App_115,HEALTH,4.5,2161362,2.5,"10,000,000+",Free,1.99,Teen,Puzzle,2024-08-30,5.0 and up
+App_116,HEALTH,3.1,106032,2.5,"100,000+",Free,2.99,Teen,Music,2024-09-05,4.1 and up
+App_117,LIFESTYLE,4.8,2799141,2.5,"100,000+",Free,4.99,Teen,Puzzle,2024-08-08,4.1 and up
+App_118,HEALTH,2.5,4975055,2.5,"1,000,000+",Free,1.99,Mature 17+,Tools,2024-01-21,4.1 and up
+App_119,EDUCATION,3.9,3207806,2.5,"10,000,000+",Free,4.99,Everyone,Education,2024-03-22,8.0 and up
+App_120,FINANCE,4.4,470539,2.5,"100,000+",Paid,0.99,Everyone,Business,2024-12-09,4.1 and up
+App_121,BUSINESS,3.1,2983526,2.5,"10,000+",Free,1.99,Everyone,Health,2024-01-10,5.0 and up
+App_122,PRODUCTIVITY,3.0,161455,2.5,"1,000+",Free,0.99,Everyone,Tools,2024-01-12,8.0 and up
+App_123,TOOLS,2.7,3834252,2.5,"1,000,000+",Free,0.99,Everyone,Action,2024-09-19,5.0 and up
+App_124,FINANCE,3.3,3282841,2.5,"100,000+",Free,1.99,Mature 17+,Education,2024-05-24,4.1 and up
+App_125,LIFESTYLE,3.9,4418919,2.5,"10,000+",Paid,0.0,Teen,Music,2024-07-10,4.1 and up
+App_126,HEALTH,2.8,684039,2.5,"100,000+",Free,1.99,Everyone,Education,2024-09-06,5.0 and up
+App_127,PRODUCTIVITY,3.4,510380,2.5,"100,000+",Paid,0.0,Teen,Music,2024-04-23,8.0 and up
+App_128,HEALTH,2.5,1752384,2.5,"10,000,000+",Free,4.99,Mature 17+,Music,2024-01-26,8.0 and up
+App_129,GAME,4.5,4415286,2.5,"10,000,000+",Free,4.99,Mature 17+,Health,2024-09-27,5.0 and up
+App_130,GAME,2.8,3999704,2.5,"10,000,000+",Free,1.99,Everyone,Music,2024-02-02,4.1 and up
+App_131,PRODUCTIVITY,3.2,3308515,2.5,"10,000+",Free,4.99,Mature 17+,Puzzle,2024-03-02,6.0 and up
+App_132,PRODUCTIVITY,2.5,208954,2.5,"100,000+",Paid,2.99,Teen,Tools,2024-08-16,5.0 and up
+App_133,LIFESTYLE,3.6,2825504,2.5,"1,000+",Free,0.99,Everyone,Business,2024-10-29,5.0 and up
+App_134,PRODUCTIVITY,4.6,1361313,2.5,"1,000,000+",Free,0.99,Everyone,Education,2024-04-04,5.0 and up
+App_135,EDUCATION,3.5,4201775,2.5,"10,000,000+",Free,0.0,Teen,Business,2024-02-04,4.1 and up
+App_136,HEALTH,2.9,2894110,2.5,"10,000,000+",Free,4.99,Everyone,Tools,2024-07-11,8.0 and up
+App_137,FINANCE,4.4,4666815,2.5,"100,000+",Free,0.0,Everyone,Action,2024-03-16,4.1 and up
+App_138,ENTERTAINMENT,4.5,1197172,2.5,"100,000+",Free,0.99,Teen,Tools,2024-09-05,5.0 and up
+App_139,PRODUCTIVITY,2.9,1046171,2.5,"10,000+",Free,0.99,Everyone,Education,2024-03-23,4.1 and up
+App_140,TOOLS,4.4,4688492,2.5,"10,000+",Free,4.99,Everyone,Business,2024-01-25,4.1 and up
+App_141,GAME,4.9,1779695,2.5,"10,000,000+",Paid,2.99,Teen,Business,2024-02-26,5.0 and up
+App_142,EDUCATION,2.9,1897511,2.5,"100,000+",Free,2.99,Mature 17+,Health,2024-02-01,4.1 and up
+App_143,ENTERTAINMENT,4.4,4754629,2.5,"1,000+",Free,4.99,Teen,Health,2024-11-14,6.0 and up
+App_144,FINANCE,4.3,673228,2.5,"1,000,000+",Free,4.99,Everyone,Tools,2024-01-12,4.1 and up
+App_145,ENTERTAINMENT,3.7,3885260,2.5,"100,000+",Free,0.0,Teen,Tools,2024-11-14,4.1 and up
+App_146,PRODUCTIVITY,2.6,603301,2.5,"100,000+",Free,4.99,Everyone,Action,2024-11-28,8.0 and up
+App_147,LIFESTYLE,2.7,4902069,2.5,"10,000+",Free,2.99,Everyone,Music,2024-04-01,8.0 and up
+App_148,GAME,4.6,2661208,2.5,"1,000,000+",Free,4.99,Teen,Education,2024-01-01,5.0 and up
+App_149,GAME,5.0,2179441,2.5,"10,000,000+",Paid,0.0,Everyone,Health,2024-11-21,5.0 and up
+App_150,LIFESTYLE,4.2,4209748,2.5,"100,000+",Free,0.0,Mature 17+,Education,2024-05-15,8.0 and up
+App_151,HEALTH,3.6,719417,2.5,"10,000,000+",Free,0.0,Everyone,Action,2024-07-14,6.0 and up
+App_152,BUSINESS,4.1,2538153,2.5,"100,000+",Free,0.0,Teen,Health,2024-05-12,4.1 and up
+App_153,EDUCATION,4.0,337923,2.5,"10,000,000+",Free,1.99,Mature 17+,Health,2024-03-26,6.0 and up
+App_154,GAME,3.5,3915780,2.5,"1,000,000+",Free,4.99,Mature 17+,Music,2024-10-21,6.0 and up
+App_155,TOOLS,2.7,328831,2.5,"10,000+",Paid,0.99,Everyone,Education,2024-10-05,8.0 and up
+App_156,GAME,4.6,2180717,2.5,"1,000,000+",Paid,4.99,Teen,Education,2024-11-19,5.0 and up
+App_157,ENTERTAINMENT,3.4,1701253,2.5,"1,000+",Paid,1.99,Everyone,Education,2024-06-28,4.1 and up
+App_158,GAME,4.5,3887018,2.5,"10,000+",Paid,0.0,Everyone,Music,2024-01-04,5.0 and up
+App_159,GAME,3.1,1812385,2.5,"1,000,000+",Free,1.99,Teen,Health,2024-05-05,6.0 and up
+App_160,BUSINESS,2.5,3627457,2.5,"1,000+",Free,2.99,Teen,Action,2024-06-23,6.0 and up
+App_161,BUSINESS,2.9,3615662,2.5,"100,000+",Free,2.99,Everyone,Education,2024-09-07,5.0 and up
+App_162,FINANCE,3.7,68813,2.5,"100,000+",Free,4.99,Mature 17+,Business,2024-01-21,5.0 and up
+App_163,HEALTH,4.9,807754,2.5,"10,000,000+",Free,4.99,Everyone,Music,2024-04-14,8.0 and up
+App_164,TOOLS,2.8,748746,2.5,"10,000+",Free,0.99,Mature 17+,Puzzle,2024-03-06,5.0 and up
+App_165,GAME,4.6,699549,2.5,"100,000+",Free,0.99,Everyone,Action,2024-09-19,5.0 and up
+App_166,GAME,3.8,245414,2.5,"10,000+",Free,2.99,Teen,Business,2024-02-18,8.0 and up
+App_167,EDUCATION,4.6,17307,2.5,"100,000+",Free,0.0,Mature 17+,Education,2024-01-16,5.0 and up
+App_168,BUSINESS,3.2,788453,2.5,"10,000,000+",Free,1.99,Teen,Puzzle,2024-05-24,6.0 and up
+App_169,TOOLS,4.6,3655084,2.5,"1,000,000+",Free,0.99,Teen,Action,2024-12-05,5.0 and up
+App_170,FINANCE,4.4,3265972,2.5,"10,000,000+",Free,0.99,Teen,Music,2024-09-06,4.1 and up
+App_171,HEALTH,3.1,4762616,2.5,"1,000+",Free,0.0,Teen,Puzzle,2024-12-08,6.0 and up
+App_172,LIFESTYLE,2.8,3026404,2.5,"100,000+",Free,0.0,Teen,Health,2024-12-19,8.0 and up
+App_173,HEALTH,4.7,1227156,2.5,"1,000+",Free,4.99,Everyone,Tools,2024-03-15,6.0 and up
+App_174,ENTERTAINMENT,4.9,2880314,2.5,"1,000+",Free,1.99,Mature 17+,Puzzle,2024-10-16,8.0 and up
+App_175,GAME,2.6,1333582,2.5,"10,000+",Free,0.0,Everyone,Tools,2024-10-08,4.1 and up
+App_176,FINANCE,4.3,4705917,2.5,"100,000+",Free,0.99,Everyone,Business,2024-03-06,4.1 and up
+App_177,ENTERTAINMENT,4.8,615873,2.5,"1,000+",Free,0.99,Everyone,Action,2024-05-04,6.0 and up
+App_178,TOOLS,4.6,4701679,2.5,"1,000,000+",Free,2.99,Teen,Business,2024-11-14,5.0 and up
+App_179,LIFESTYLE,4.9,3765066,2.5,"1,000+",Free,0.0,Everyone,Business,2024-03-27,6.0 and up
+App_180,BUSINESS,4.4,3325325,2.5,"1,000,000+",Free,4.99,Mature 17+,Education,2024-02-10,6.0 and up
+App_181,FINANCE,3.6,828801,2.5,"10,000+",Free,1.99,Everyone,Music,2024-07-04,4.1 and up
+App_182,FINANCE,3.3,3820897,2.5,"1,000+",Free,4.99,Teen,Puzzle,2024-12-19,8.0 and up
+App_183,GAME,3.3,2846284,2.5,"10,000,000+",Free,0.99,Mature 17+,Action,2024-11-30,6.0 and up
+App_184,PRODUCTIVITY,4.3,4839508,2.5,"10,000+",Free,4.99,Mature 17+,Health,2024-09-22,5.0 and up
+App_185,FINANCE,4.4,4395574,2.5,"1,000,000+",Free,0.99,Mature 17+,Music,2024-09-27,4.1 and up
+App_186,EDUCATION,3.0,376804,2.5,"10,000+",Free,0.99,Mature 17+,Music,2024-02-11,6.0 and up
+App_187,LIFESTYLE,4.7,3878460,2.5,"1,000+",Free,0.99,Everyone,Action,2024-04-02,6.0 and up
+App_188,LIFESTYLE,4.3,3033359,2.5,"100,000+",Free,0.99,Teen,Music,2024-07-03,5.0 and up
+App_189,EDUCATION,3.9,1521476,2.5,"100,000+",Free,0.99,Mature 17+,Education,2024-08-02,6.0 and up
+App_190,EDUCATION,3.7,2480262,2.5,"1,000,000+",Free,2.99,Mature 17+,Music,2024-01-17,6.0 and up
+App_191,EDUCATION,3.9,782887,2.5,"1,000,000+",Free,4.99,Teen,Education,2024-09-21,6.0 and up
+App_192,LIFESTYLE,2.9,4902835,2.5,"100,000+",Free,2.99,Everyone,Puzzle,2024-04-23,6.0 and up
+App_193,HEALTH,3.0,3885190,2.5,"1,000,000+",Free,2.99,Mature 17+,Puzzle,2024-10-18,5.0 and up
+App_194,LIFESTYLE,2.7,3610803,2.5,"10,000+",Free,0.0,Everyone,Business,2024-10-18,6.0 and up
+App_195,PRODUCTIVITY,2.9,3299983,2.5,"10,000,000+",Free,0.0,Everyone,Education,2024-02-17,6.0 and up
+App_196,GAME,3.6,3080987,2.5,"10,000,000+",Paid,0.0,Everyone,Health,2024-11-02,6.0 and up
+App_197,ENTERTAINMENT,3.8,2299909,2.5,"10,000+",Free,1.99,Everyone,Puzzle,2024-04-06,4.1 and up
+App_198,HEALTH,2.5,1972434,2.5,"10,000,000+",Free,0.0,Mature 17+,Music,2024-04-04,5.0 and up
+App_199,BUSINESS,4.5,1336102,2.5,"1,000+",Free,4.99,Mature 17+,Action,2024-11-21,4.1 and up
+App_200,ENTERTAINMENT,3.2,850360,2.5,"10,000+",Free,2.99,Everyone,Action,2024-03-14,4.1 and up
+App_201,GAME,4.8,3479037,2.5,"1,000,000+",Free,4.99,Everyone,Tools,2024-12-01,5.0 and up
+App_202,PRODUCTIVITY,4.9,3205238,2.5,"10,000+",Free,0.0,Teen,Education,2024-03-08,4.1 and up
+App_203,PRODUCTIVITY,3.0,167657,2.5,"100,000+",Free,1.99,Teen,Health,2024-09-02,4.1 and up
+App_204,BUSINESS,3.7,2333689,2.5,"1,000,000+",Paid,1.99,Teen,Business,2024-03-17,4.1 and up
+App_205,HEALTH,2.5,435487,2.5,"100,000+",Free,2.99,Mature 17+,Music,2024-07-26,5.0 and up
+App_206,EDUCATION,4.0,1683533,2.5,"1,000,000+",Free,4.99,Teen,Education,2024-09-10,6.0 and up
+App_207,HEALTH,4.0,4196666,2.5,"10,000,000+",Paid,0.99,Mature 17+,Tools,2024-08-08,8.0 and up
+App_208,PRODUCTIVITY,3.1,4327318,2.5,"10,000+",Free,4.99,Mature 17+,Action,2024-09-18,8.0 and up
+App_209,LIFESTYLE,3.9,2960043,2.5,"1,000+",Paid,0.0,Mature 17+,Education,2024-11-26,5.0 and up
+App_210,GAME,3.1,1581430,2.5,"1,000,000+",Free,0.99,Mature 17+,Music,2024-12-09,8.0 and up
+App_211,BUSINESS,2.9,786271,2.5,"1,000,000+",Free,1.99,Teen,Health,2024-09-15,5.0 and up
+App_212,GAME,4.1,3494718,2.5,"100,000+",Free,2.99,Everyone,Health,2024-11-03,5.0 and up
+App_213,TOOLS,3.3,2828640,2.5,"10,000,000+",Free,2.99,Everyone,Puzzle,2024-03-14,8.0 and up
+App_214,TOOLS,4.0,4244412,2.5,"100,000+",Paid,1.99,Everyone,Music,2024-05-04,4.1 and up
+App_215,HEALTH,3.6,3079052,2.5,"100,000+",Free,0.0,Teen,Tools,2024-07-06,6.0 and up
+App_216,PRODUCTIVITY,5.0,2762091,2.5,"10,000,000+",Free,1.99,Everyone,Puzzle,2024-09-10,8.0 and up
+App_217,PRODUCTIVITY,2.9,126070,2.5,"1,000+",Free,0.0,Teen,Puzzle,2024-11-16,8.0 and up
+App_218,EDUCATION,3.7,4324858,2.5,"100,000+",Free,0.99,Teen,Puzzle,2024-11-03,8.0 and up
+App_219,EDUCATION,4.2,2796471,2.5,"100,000+",Free,1.99,Teen,Education,2024-08-22,8.0 and up
+App_220,EDUCATION,3.5,3077109,2.5,"1,000,000+",Free,0.0,Everyone,Tools,2024-09-06,5.0 and up
+App_221,LIFESTYLE,4.9,2844190,2.5,"10,000,000+",Free,0.99,Everyone,Action,2024-11-27,5.0 and up
+App_222,ENTERTAINMENT,4.3,2621588,2.5,"10,000+",Free,1.99,Everyone,Health,2024-12-10,6.0 and up
+App_223,FINANCE,4.1,4587888,2.5,"1,000+",Free,2.99,Mature 17+,Education,2024-03-12,6.0 and up
+App_224,ENTERTAINMENT,4.4,1672805,2.5,"1,000+",Free,1.99,Teen,Action,2024-08-22,8.0 and up
+App_225,GAME,4.9,4093896,2.5,"10,000,000+",Free,4.99,Mature 17+,Health,2024-11-19,8.0 and up
+App_226,ENTERTAINMENT,4.8,2254113,2.5,"1,000,000+",Free,1.99,Teen,Tools,2024-06-04,8.0 and up
+App_227,LIFESTYLE,4.3,2939372,2.5,"1,000,000+",Free,4.99,Everyone,Tools,2024-04-24,6.0 and up
+App_228,GAME,4.4,562070,2.5,"10,000,000+",Free,0.99,Teen,Music,2024-11-08,8.0 and up
+App_229,ENTERTAINMENT,2.9,1506155,2.5,"1,000,000+",Free,1.99,Teen,Health,2024-08-15,4.1 and up
+App_230,LIFESTYLE,2.8,2648212,2.5,"1,000+",Free,0.99,Mature 17+,Health,2024-11-17,6.0 and up
+App_231,FINANCE,3.9,1192941,2.5,"1,000+",Free,0.99,Teen,Tools,2024-12-11,4.1 and up
+App_232,ENTERTAINMENT,2.5,4889094,2.5,"10,000+",Free,0.0,Everyone,Health,2024-09-01,8.0 and up
+App_233,LIFESTYLE,3.7,871532,2.5,"10,000,000+",Free,0.99,Teen,Business,2024-11-01,5.0 and up
+App_234,EDUCATION,3.0,1542257,2.5,"100,000+",Free,0.99,Teen,Music,2024-01-14,4.1 and up
+App_235,PRODUCTIVITY,3.4,4372226,2.5,"100,000+",Free,1.99,Teen,Education,2024-01-16,6.0 and up
+App_236,EDUCATION,4.4,2181916,2.5,"10,000+",Free,1.99,Mature 17+,Education,2024-02-11,4.1 and up
+App_237,PRODUCTIVITY,4.9,602286,2.5,"10,000+",Paid,2.99,Teen,Action,2024-04-19,6.0 and up
+App_238,BUSINESS,2.7,1500144,2.5,"1,000,000+",Free,0.0,Teen,Education,2024-10-04,8.0 and up
+App_239,BUSINESS,3.8,2604894,2.5,"10,000+",Free,0.99,Mature 17+,Puzzle,2024-11-19,4.1 and up
+App_240,BUSINESS,4.7,1705253,2.5,"10,000+",Paid,0.0,Mature 17+,Health,2024-01-19,5.0 and up
+App_241,FINANCE,2.7,4274702,2.5,"100,000+",Free,4.99,Mature 17+,Education,2024-03-06,4.1 and up
+App_242,EDUCATION,4.6,4022938,2.5,"1,000,000+",Free,0.99,Mature 17+,Action,2024-06-15,5.0 and up
+App_243,PRODUCTIVITY,3.4,239789,2.5,"10,000+",Free,0.0,Everyone,Action,2024-03-13,6.0 and up
+App_244,LIFESTYLE,3.3,2975615,2.5,"10,000+",Free,2.99,Everyone,Puzzle,2024-11-05,8.0 and up
+App_245,GAME,4.9,4888649,2.5,"1,000,000+",Paid,2.99,Teen,Action,2024-04-21,8.0 and up
+App_246,LIFESTYLE,3.0,788150,2.5,"10,000,000+",Paid,0.99,Everyone,Tools,2024-09-30,5.0 and up
+App_247,GAME,4.2,3558549,2.5,"1,000,000+",Free,4.99,Teen,Business,2024-03-25,6.0 and up
+App_248,TOOLS,4.6,3746047,2.5,"100,000+",Free,2.99,Everyone,Tools,2024-05-18,8.0 and up
+App_249,LIFESTYLE,2.6,2123248,2.5,"10,000,000+",Paid,2.99,Mature 17+,Health,2024-02-08,6.0 and up
+App_250,ENTERTAINMENT,4.2,4726286,2.5,"1,000+",Free,4.99,Mature 17+,Health,2024-04-14,5.0 and up
+App_251,ENTERTAINMENT,4.9,4588737,2.5,"1,000,000+",Free,0.0,Everyone,Health,2024-11-19,5.0 and up
+App_252,HEALTH,2.8,1618973,2.5,"100,000+",Paid,2.99,Everyone,Music,2024-10-07,4.1 and up
+App_253,EDUCATION,4.7,590391,2.5,"10,000,000+",Free,1.99,Teen,Education,2024-05-02,8.0 and up
+App_254,GAME,4.0,2932245,2.5,"1,000,000+",Free,2.99,Teen,Business,2024-08-05,8.0 and up
+App_255,GAME,4.0,3683919,2.5,"10,000+",Free,0.0,Teen,Education,2024-03-01,4.1 and up
+App_256,EDUCATION,4.0,1539610,2.5,"1,000,000+",Paid,0.0,Mature 17+,Business,2024-04-09,5.0 and up
+App_257,FINANCE,3.2,2227513,2.5,"1,000+",Free,0.99,Mature 17+,Education,2024-11-02,5.0 and up
+App_258,HEALTH,4.8,4232949,2.5,"1,000,000+",Free,1.99,Mature 17+,Puzzle,2024-12-19,5.0 and up
+App_259,FINANCE,4.9,3070781,2.5,"10,000,000+",Free,0.0,Mature 17+,Tools,2024-07-22,5.0 and up
+App_260,FINANCE,4.1,1143657,2.5,"10,000,000+",Free,4.99,Teen,Action,2024-09-14,6.0 and up
+App_261,FINANCE,4.5,3611656,2.5,"1,000,000+",Free,1.99,Mature 17+,Action,2024-01-05,8.0 and up
+App_262,EDUCATION,4.0,1416963,2.5,"10,000,000+",Free,1.99,Mature 17+,Tools,2024-07-15,8.0 and up
+App_263,FINANCE,3.7,2694255,2.5,"10,000+",Free,4.99,Mature 17+,Puzzle,2024-06-28,5.0 and up
+App_264,ENTERTAINMENT,4.2,4122196,2.5,"1,000,000+",Free,2.99,Mature 17+,Business,2024-12-07,5.0 and up
+App_265,BUSINESS,3.9,421290,2.5,"10,000+",Paid,4.99,Everyone,Tools,2024-05-12,5.0 and up
+App_266,TOOLS,4.0,909255,2.5,"10,000+",Free,4.99,Teen,Music,2024-11-19,8.0 and up
+App_267,GAME,4.5,341217,2.5,"100,000+",Paid,2.99,Teen,Business,2024-09-09,8.0 and up
+App_268,GAME,3.7,1230756,2.5,"1,000,000+",Free,2.99,Mature 17+,Action,2024-09-21,5.0 and up
+App_269,TOOLS,2.6,3289801,2.5,"10,000,000+",Free,2.99,Everyone,Music,2024-04-02,6.0 and up
+App_270,EDUCATION,2.9,592642,2.5,"10,000+",Free,2.99,Teen,Education,2024-05-29,4.1 and up
+App_271,LIFESTYLE,3.6,4037116,2.5,"100,000+",Free,2.99,Teen,Music,2024-05-17,4.1 and up
+App_272,EDUCATION,4.3,4755195,2.5,"1,000,000+",Paid,4.99,Mature 17+,Business,2024-07-26,4.1 and up
+App_273,GAME,4.0,4754906,2.5,"1,000,000+",Free,0.99,Mature 17+,Puzzle,2024-05-04,8.0 and up
+App_274,GAME,4.1,1472188,2.5,"1,000+",Free,0.99,Teen,Education,2024-08-21,8.0 and up
+App_275,TOOLS,3.7,1162199,2.5,"1,000+",Free,0.0,Teen,Business,2024-03-01,4.1 and up
+App_276,FINANCE,4.0,3870436,2.5,"10,000+",Free,0.99,Everyone,Education,2024-11-02,4.1 and up
+App_277,EDUCATION,3.3,414309,2.5,"1,000+",Free,0.99,Teen,Music,2024-09-22,6.0 and up
+App_278,PRODUCTIVITY,3.7,2381496,2.5,"10,000+",Free,4.99,Teen,Action,2024-05-13,8.0 and up
+App_279,TOOLS,4.4,3676168,2.5,"10,000,000+",Free,2.99,Mature 17+,Business,2024-11-13,8.0 and up
+App_280,ENTERTAINMENT,4.7,4161910,2.5,"10,000+",Free,2.99,Teen,Puzzle,2024-04-22,4.1 and up
+App_281,GAME,3.6,125448,2.5,"1,000+",Free,4.99,Mature 17+,Tools,2024-07-09,6.0 and up
+App_282,TOOLS,2.6,3770193,2.5,"10,000,000+",Free,0.99,Teen,Music,2024-07-05,6.0 and up
+App_283,EDUCATION,2.9,1917053,2.5,"1,000+",Free,4.99,Teen,Business,2024-11-14,4.1 and up
+App_284,GAME,2.6,2199401,2.5,"10,000+",Free,0.0,Teen,Puzzle,2024-03-29,4.1 and up
+App_285,LIFESTYLE,4.1,635729,2.5,"100,000+",Free,2.99,Everyone,Business,2024-07-05,8.0 and up
+App_286,TOOLS,3.3,2801455,2.5,"1,000,000+",Free,1.99,Mature 17+,Music,2024-11-02,4.1 and up
+App_287,HEALTH,3.9,808268,2.5,"1,000+",Free,0.0,Everyone,Business,2024-05-11,5.0 and up
+App_288,GAME,3.7,4524484,2.5,"10,000+",Free,0.0,Teen,Education,2024-12-25,6.0 and up
+App_289,EDUCATION,2.7,2864150,2.5,"10,000,000+",Paid,4.99,Everyone,Music,2024-05-02,4.1 and up
+App_290,BUSINESS,3.5,3564472,2.5,"1,000+",Free,0.99,Mature 17+,Business,2024-02-17,5.0 and up
+App_291,PRODUCTIVITY,3.1,181958,2.5,"1,000+",Free,2.99,Teen,Tools,2024-10-14,6.0 and up
+App_292,FINANCE,3.5,2582824,2.5,"1,000,000+",Paid,1.99,Everyone,Action,2024-06-27,5.0 and up
+App_293,EDUCATION,3.0,3769467,2.5,"10,000+",Free,0.0,Everyone,Business,2024-06-28,5.0 and up
+App_294,ENTERTAINMENT,4.6,1206761,2.5,"100,000+",Free,1.99,Mature 17+,Education,2024-04-08,4.1 and up
+App_295,ENTERTAINMENT,2.9,953702,2.5,"10,000,000+",Paid,0.99,Everyone,Puzzle,2024-11-25,6.0 and up
+App_296,BUSINESS,4.9,217780,2.5,"10,000+",Free,0.99,Mature 17+,Tools,2024-02-03,5.0 and up
+App_297,FINANCE,3.5,4099916,2.5,"10,000,000+",Free,1.99,Teen,Puzzle,2024-03-10,8.0 and up
+App_298,HEALTH,4.6,4836927,2.5,"1,000+",Free,2.99,Teen,Tools,2024-06-19,6.0 and up
+App_299,BUSINESS,4.1,2437255,2.5,"1,000,000+",Free,0.99,Everyone,Puzzle,2024-09-28,8.0 and up
+App_300,BUSINESS,4.3,2702892,2.5,"1,000,000+",Free,1.99,Teen,Action,2024-02-28,4.1 and up
+App_301,GAME,4.4,1790018,2.5,"100,000+",Free,0.0,Teen,Education,2024-06-29,8.0 and up
+App_302,ENTERTAINMENT,3.8,1826535,2.5,"1,000,000+",Free,1.99,Everyone,Music,2024-01-19,6.0 and up
+App_303,GAME,3.9,4513080,2.5,"1,000+",Free,1.99,Teen,Puzzle,2024-08-13,5.0 and up
+App_304,PRODUCTIVITY,3.8,1338540,2.5,"100,000+",Paid,4.99,Everyone,Tools,2024-04-04,5.0 and up
+App_305,FINANCE,4.0,4466961,2.5,"10,000+",Free,0.99,Mature 17+,Education,2024-10-23,6.0 and up
+App_306,HEALTH,2.6,2181923,2.5,"1,000,000+",Paid,2.99,Mature 17+,Business,2024-03-21,5.0 and up
+App_307,HEALTH,3.5,1478778,2.5,"100,000+",Paid,2.99,Mature 17+,Action,2024-06-23,8.0 and up
+App_308,EDUCATION,4.0,1565223,2.5,"1,000+",Free,4.99,Everyone,Education,2024-08-09,5.0 and up
+App_309,BUSINESS,4.0,2763408,2.5,"10,000,000+",Free,2.99,Everyone,Education,2024-04-12,5.0 and up
+App_310,PRODUCTIVITY,4.5,688162,2.5,"10,000,000+",Free,1.99,Teen,Music,2024-02-23,8.0 and up
+App_311,ENTERTAINMENT,4.1,402990,2.5,"1,000+",Paid,4.99,Teen,Education,2024-07-01,8.0 and up
+App_312,HEALTH,5.0,1038346,2.5,"1,000+",Free,0.0,Teen,Music,2024-12-16,8.0 and up
+App_313,PRODUCTIVITY,3.2,2878360,2.5,"10,000,000+",Free,0.99,Teen,Action,2024-11-13,4.1 and up
+App_314,LIFESTYLE,3.4,1168942,2.5,"100,000+",Free,0.99,Teen,Action,2024-12-20,8.0 and up
+App_315,LIFESTYLE,3.5,1449097,2.5,"10,000,000+",Free,0.99,Everyone,Business,2024-12-14,8.0 and up
+App_316,GAME,3.7,2531538,2.5,"1,000+",Free,1.99,Everyone,Music,2024-11-16,4.1 and up
+App_317,ENTERTAINMENT,4.6,2108552,2.5,"1,000,000+",Free,0.0,Mature 17+,Music,2024-03-08,5.0 and up
+App_318,EDUCATION,3.1,937645,2.5,"10,000+",Free,4.99,Mature 17+,Puzzle,2024-01-28,8.0 and up
+App_319,HEALTH,4.4,3502636,2.5,"1,000,000+",Free,4.99,Mature 17+,Puzzle,2024-09-30,6.0 and up
+App_320,BUSINESS,3.5,1386699,2.5,"1,000,000+",Paid,0.99,Mature 17+,Business,2024-10-08,8.0 and up
+App_321,BUSINESS,4.0,3816136,2.5,"1,000+",Free,0.0,Everyone,Action,2024-12-25,8.0 and up
+App_322,HEALTH,4.1,3066993,2.5,"10,000,000+",Paid,0.0,Everyone,Health,2024-11-06,4.1 and up
+App_323,FINANCE,3.4,2846240,2.5,"100,000+",Free,0.0,Everyone,Puzzle,2024-04-28,6.0 and up
+App_324,EDUCATION,3.8,2118443,2.5,"1,000,000+",Free,2.99,Teen,Education,2024-05-13,5.0 and up
+App_325,PRODUCTIVITY,3.5,4456407,2.5,"10,000,000+",Free,2.99,Teen,Action,2024-05-08,5.0 and up
+App_326,FINANCE,2.7,3678631,2.5,"100,000+",Free,0.99,Mature 17+,Health,2024-01-08,6.0 and up
+App_327,FINANCE,3.6,4556776,2.5,"1,000,000+",Paid,0.0,Teen,Education,2024-02-20,8.0 and up
+App_328,GAME,2.7,1298001,2.5,"100,000+",Free,0.0,Everyone,Tools,2024-12-06,4.1 and up
+App_329,LIFESTYLE,3.5,3731414,2.5,"10,000,000+",Paid,4.99,Mature 17+,Music,2024-10-07,6.0 and up
+App_330,FINANCE,4.0,1814198,2.5,"10,000+",Free,4.99,Mature 17+,Action,2024-06-23,6.0 and up
+App_331,FINANCE,3.9,2107369,2.5,"10,000,000+",Free,0.99,Teen,Tools,2024-07-01,5.0 and up
+App_332,TOOLS,4.2,218411,2.5,"1,000+",Free,0.0,Mature 17+,Business,2024-07-10,4.1 and up
+App_333,GAME,2.7,985142,2.5,"100,000+",Free,0.99,Teen,Music,2024-09-05,6.0 and up
+App_334,ENTERTAINMENT,4.1,159302,2.5,"10,000+",Free,4.99,Teen,Music,2024-08-22,4.1 and up
+App_335,TOOLS,3.3,4691076,2.5,"100,000+",Paid,4.99,Mature 17+,Education,2024-03-23,8.0 and up
+App_336,TOOLS,3.5,3167769,2.5,"100,000+",Free,2.99,Teen,Tools,2024-04-02,5.0 and up
+App_337,HEALTH,4.6,463947,2.5,"1,000,000+",Free,0.99,Teen,Music,2024-11-07,8.0 and up
+App_338,LIFESTYLE,2.5,2964401,2.5,"1,000+",Free,0.99,Teen,Puzzle,2024-09-24,4.1 and up
+App_339,FINANCE,4.0,2681216,2.5,"100,000+",Free,0.0,Teen,Action,2024-04-29,8.0 and up
+App_340,LIFESTYLE,4.0,1192107,2.5,"10,000,000+",Free,0.0,Mature 17+,Puzzle,2024-03-11,5.0 and up
+App_341,EDUCATION,3.5,187781,2.5,"10,000,000+",Free,2.99,Everyone,Education,2024-01-17,4.1 and up
+App_342,HEALTH,3.1,237209,2.5,"1,000,000+",Free,1.99,Everyone,Health,2024-09-09,6.0 and up
+App_343,ENTERTAINMENT,3.1,2857291,2.5,"1,000+",Free,1.99,Teen,Education,2024-05-01,8.0 and up
+App_344,LIFESTYLE,4.7,2732491,2.5,"1,000+",Free,1.99,Teen,Action,2024-01-10,5.0 and up
+App_345,BUSINESS,3.6,4834787,2.5,"10,000,000+",Free,0.99,Teen,Music,2024-10-13,6.0 and up
+App_346,EDUCATION,3.3,2274326,2.5,"10,000+",Free,0.99,Everyone,Tools,2024-11-11,5.0 and up
+App_347,GAME,3.6,3602625,2.5,"1,000,000+",Free,4.99,Teen,Tools,2024-11-21,4.1 and up
+App_348,ENTERTAINMENT,4.2,1583224,2.5,"1,000,000+",Free,0.99,Mature 17+,Business,2024-09-29,4.1 and up
+App_349,EDUCATION,2.9,751528,2.5,"10,000,000+",Free,0.99,Mature 17+,Education,2024-11-01,8.0 and up
+App_350,HEALTH,3.6,513323,2.5,"10,000,000+",Free,0.99,Mature 17+,Action,2024-10-19,5.0 and up
+App_351,TOOLS,4.0,3931596,2.5,"10,000+",Free,2.99,Everyone,Business,2024-07-28,5.0 and up
+App_352,TOOLS,4.9,3214225,2.5,"10,000+",Free,0.99,Teen,Music,2024-08-05,5.0 and up
+App_353,HEALTH,3.1,3460999,2.5,"1,000+",Free,0.0,Teen,Health,2024-08-28,4.1 and up
+App_354,PRODUCTIVITY,3.4,2332224,2.5,"1,000,000+",Free,0.0,Teen,Education,2024-07-18,8.0 and up
+App_355,TOOLS,3.4,2330239,2.5,"1,000,000+",Free,4.99,Everyone,Health,2024-08-03,5.0 and up
+App_356,GAME,4.0,1863472,2.5,"10,000,000+",Free,2.99,Everyone,Action,2024-07-23,5.0 and up
+App_357,GAME,3.4,654234,2.5,"1,000+",Free,0.0,Everyone,Health,2024-08-03,6.0 and up
+App_358,BUSINESS,3.8,2250407,2.5,"1,000,000+",Paid,2.99,Everyone,Health,2024-03-20,5.0 and up
+App_359,FINANCE,4.5,1999294,2.5,"1,000+",Free,2.99,Mature 17+,Action,2024-09-23,8.0 and up
+App_360,PRODUCTIVITY,4.3,2001686,2.5,"1,000+",Free,4.99,Everyone,Action,2024-02-04,6.0 and up
+App_361,ENTERTAINMENT,3.6,1684542,2.5,"10,000,000+",Free,2.99,Everyone,Education,2024-10-15,6.0 and up
+App_362,TOOLS,4.7,454428,2.5,"1,000+",Paid,0.99,Everyone,Health,2024-01-18,6.0 and up
+App_363,GAME,3.9,1472552,2.5,"10,000+",Free,2.99,Teen,Business,2024-06-13,4.1 and up
+App_364,HEALTH,3.8,4473024,2.5,"10,000+",Paid,4.99,Teen,Action,2024-01-13,6.0 and up
+App_365,TOOLS,2.6,4856864,2.5,"100,000+",Free,4.99,Teen,Music,2024-07-20,5.0 and up
+App_366,FINANCE,5.0,562631,2.5,"10,000,000+",Free,4.99,Mature 17+,Health,2024-08-16,4.1 and up
+App_367,HEALTH,2.8,3529811,2.5,"100,000+",Free,0.0,Mature 17+,Action,2024-12-11,4.1 and up
+App_368,EDUCATION,3.1,4808173,2.5,"10,000+",Free,0.99,Everyone,Business,2024-01-01,4.1 and up
+App_369,EDUCATION,2.6,1598109,2.5,"100,000+",Paid,0.0,Teen,Tools,2024-11-14,4.1 and up
+App_370,TOOLS,4.1,4194473,2.5,"10,000,000+",Free,1.99,Mature 17+,Education,2024-08-04,4.1 and up
+App_371,FINANCE,3.1,3813243,2.5,"10,000,000+",Free,0.99,Teen,Health,2024-02-03,4.1 and up
+App_372,PRODUCTIVITY,3.0,1211579,2.5,"1,000+",Free,2.99,Mature 17+,Tools,2024-12-24,4.1 and up
+App_373,TOOLS,2.7,4561317,2.5,"1,000,000+",Free,4.99,Mature 17+,Action,2024-09-22,6.0 and up
+App_374,GAME,2.8,1195895,2.5,"1,000+",Free,1.99,Everyone,Action,2024-05-07,8.0 and up
+App_375,LIFESTYLE,4.0,1156093,2.5,"10,000,000+",Free,0.99,Everyone,Music,2024-07-30,5.0 and up
+App_376,TOOLS,4.2,1974334,2.5,"10,000+",Paid,0.0,Mature 17+,Music,2024-09-19,5.0 and up
+App_377,TOOLS,3.5,3898200,2.5,"10,000+",Free,4.99,Everyone,Health,2024-11-07,6.0 and up
+App_378,HEALTH,3.7,3388455,2.5,"1,000+",Free,0.0,Mature 17+,Tools,2024-03-20,6.0 and up
+App_379,LIFESTYLE,4.2,2742984,2.5,"10,000,000+",Free,0.99,Mature 17+,Tools,2024-06-13,4.1 and up
+App_380,GAME,2.5,3492109,2.5,"10,000+",Free,0.99,Teen,Action,2024-09-08,8.0 and up
+App_381,TOOLS,3.3,1279190,2.5,"10,000,000+",Free,1.99,Everyone,Health,2024-01-12,4.1 and up
+App_382,HEALTH,4.9,3333188,2.5,"10,000+",Paid,2.99,Everyone,Action,2024-10-30,6.0 and up
+App_383,FINANCE,4.0,4531221,2.5,"10,000,000+",Free,0.0,Everyone,Music,2024-07-30,4.1 and up
+App_384,TOOLS,3.1,2584192,2.5,"100,000+",Free,1.99,Teen,Business,2024-10-08,5.0 and up
+App_385,LIFESTYLE,3.8,1808296,2.5,"10,000,000+",Free,4.99,Teen,Puzzle,2024-04-21,5.0 and up
+App_386,BUSINESS,3.4,4599767,2.5,"10,000,000+",Paid,2.99,Teen,Puzzle,2024-07-29,4.1 and up
+App_387,LIFESTYLE,3.8,4865323,2.5,"1,000+",Free,1.99,Everyone,Action,2024-08-26,8.0 and up
+App_388,EDUCATION,2.8,4363099,2.5,"100,000+",Free,0.0,Everyone,Tools,2024-09-24,4.1 and up
+App_389,GAME,2.8,2797931,2.5,"1,000,000+",Free,0.99,Everyone,Music,2024-10-24,4.1 and up
+App_390,ENTERTAINMENT,2.9,4374152,2.5,"1,000+",Free,4.99,Teen,Education,2024-11-12,8.0 and up
+App_391,TOOLS,4.8,269170,2.5,"1,000,000+",Free,0.0,Teen,Education,2024-02-27,8.0 and up
+App_392,LIFESTYLE,4.3,2569941,2.5,"10,000+",Free,2.99,Mature 17+,Puzzle,2024-02-03,8.0 and up
+App_393,ENTERTAINMENT,2.9,441914,2.5,"1,000,000+",Free,2.99,Teen,Business,2024-09-19,5.0 and up
+App_394,HEALTH,3.0,578536,2.5,"10,000,000+",Free,0.99,Mature 17+,Puzzle,2024-12-30,4.1 and up
+App_395,BUSINESS,4.3,837403,2.5,"1,000,000+",Free,0.99,Everyone,Action,2024-02-04,6.0 and up
+App_396,GAME,2.9,3345513,2.5,"1,000+",Free,4.99,Teen,Business,2024-09-27,8.0 and up
+App_397,LIFESTYLE,3.1,814432,2.5,"1,000+",Free,4.99,Everyone,Education,2024-08-14,8.0 and up
+App_398,ENTERTAINMENT,4.9,734993,2.5,"1,000,000+",Free,0.99,Everyone,Tools,2024-01-25,4.1 and up
+App_399,BUSINESS,3.1,2263439,2.5,"1,000+",Free,0.99,Everyone,Music,2024-08-21,6.0 and up
+App_400,EDUCATION,4.2,3135822,2.5,"1,000+",Free,2.99,Everyone,Music,2024-02-28,4.1 and up
+App_401,GAME,4.9,4275125,2.5,"1,000,000+",Free,0.99,Teen,Action,2024-09-07,4.1 and up
+App_402,GAME,3.4,2876290,2.5,"100,000+",Free,1.99,Everyone,Puzzle,2024-11-30,8.0 and up
+App_403,EDUCATION,2.5,2938697,2.5,"100,000+",Free,0.0,Mature 17+,Action,2024-03-26,8.0 and up
+App_404,TOOLS,3.1,1416852,2.5,"10,000+",Paid,0.99,Teen,Music,2024-09-07,5.0 and up
+App_405,EDUCATION,4.6,2331266,2.5,"1,000+",Free,4.99,Everyone,Education,2024-06-28,6.0 and up
+App_406,GAME,4.7,3689034,2.5,"1,000,000+",Paid,1.99,Teen,Music,2024-07-25,6.0 and up
+App_407,GAME,4.4,4396660,2.5,"1,000+",Free,4.99,Mature 17+,Business,2024-12-09,8.0 and up
+App_408,ENTERTAINMENT,2.8,3702428,2.5,"10,000,000+",Free,1.99,Everyone,Tools,2024-05-28,8.0 and up
+App_409,BUSINESS,4.5,2281618,2.5,"1,000+",Free,0.99,Mature 17+,Tools,2024-03-11,8.0 and up
+App_410,EDUCATION,4.8,3930020,2.5,"1,000+",Free,0.0,Everyone,Health,2024-04-30,6.0 and up
+App_411,BUSINESS,4.0,3641781,2.5,"100,000+",Free,4.99,Mature 17+,Music,2024-09-09,5.0 and up
+App_412,EDUCATION,4.9,4079451,2.5,"1,000,000+",Free,1.99,Everyone,Music,2024-04-02,6.0 and up
+App_413,HEALTH,4.6,960662,2.5,"1,000+",Paid,2.99,Teen,Tools,2024-09-12,8.0 and up
+App_414,GAME,4.2,2188380,2.5,"100,000+",Free,0.99,Everyone,Health,2024-09-10,8.0 and up
+App_415,ENTERTAINMENT,3.9,1548495,2.5,"10,000+",Free,0.0,Teen,Business,2024-12-17,5.0 and up
+App_416,BUSINESS,3.4,1567353,2.5,"100,000+",Free,0.99,Everyone,Puzzle,2024-10-14,4.1 and up
+App_417,EDUCATION,2.9,3325505,2.5,"100,000+",Free,2.99,Everyone,Music,2024-11-04,4.1 and up
+App_418,PRODUCTIVITY,4.0,3385754,2.5,"100,000+",Free,0.0,Mature 17+,Tools,2024-02-28,6.0 and up
+App_419,HEALTH,3.3,755622,2.5,"1,000+",Free,2.99,Mature 17+,Action,2024-03-09,4.1 and up
+App_420,LIFESTYLE,4.7,3994538,2.5,"1,000+",Paid,0.99,Mature 17+,Music,2024-03-26,4.1 and up
+App_421,TOOLS,5.0,2076485,2.5,"10,000+",Free,1.99,Everyone,Action,2024-09-30,6.0 and up
+App_422,BUSINESS,4.4,2141922,2.5,"10,000,000+",Free,0.99,Everyone,Business,2024-08-14,8.0 and up
+App_423,ENTERTAINMENT,2.7,3144321,2.5,"10,000,000+",Free,0.99,Everyone,Music,2024-03-21,4.1 and up
+App_424,LIFESTYLE,3.2,285632,2.5,"10,000,000+",Free,0.99,Teen,Tools,2024-04-23,8.0 and up
+App_425,PRODUCTIVITY,2.8,1962899,2.5,"10,000+",Free,4.99,Teen,Business,2024-07-02,6.0 and up
+App_426,TOOLS,4.1,1906872,2.5,"10,000,000+",Free,2.99,Everyone,Business,2024-10-06,8.0 and up
+App_427,PRODUCTIVITY,4.4,4026400,2.5,"10,000,000+",Free,2.99,Mature 17+,Puzzle,2024-11-17,8.0 and up
+App_428,LIFESTYLE,4.8,1396446,2.5,"100,000+",Free,2.99,Mature 17+,Music,2024-11-13,6.0 and up
+App_429,TOOLS,3.6,667550,2.5,"1,000+",Free,4.99,Mature 17+,Action,2024-02-23,8.0 and up
+App_430,PRODUCTIVITY,4.8,2195700,2.5,"1,000+",Paid,1.99,Everyone,Action,2024-07-15,4.1 and up
+App_431,ENTERTAINMENT,4.7,1588246,2.5,"100,000+",Free,0.99,Mature 17+,Music,2024-10-19,4.1 and up
+App_432,EDUCATION,3.3,4705825,2.5,"100,000+",Free,1.99,Everyone,Health,2024-10-19,4.1 and up
+App_433,GAME,4.7,2982420,2.5,"100,000+",Free,4.99,Teen,Puzzle,2024-10-17,4.1 and up
+App_434,EDUCATION,3.4,1404365,2.5,"1,000+",Free,2.99,Mature 17+,Puzzle,2024-06-28,8.0 and up
+App_435,LIFESTYLE,3.2,2675490,2.5,"10,000,000+",Free,0.99,Teen,Puzzle,2024-08-09,4.1 and up
+App_436,BUSINESS,4.1,3424093,2.5,"100,000+",Free,0.0,Mature 17+,Action,2024-09-30,8.0 and up
+App_437,GAME,3.3,2464732,2.5,"10,000+",Free,0.0,Everyone,Business,2024-08-31,5.0 and up
+App_438,HEALTH,4.1,2901102,2.5,"100,000+",Free,1.99,Everyone,Tools,2024-06-02,8.0 and up
+App_439,ENTERTAINMENT,4.0,2250239,2.5,"1,000,000+",Free,2.99,Everyone,Health,2024-10-30,4.1 and up
+App_440,HEALTH,3.9,1522544,2.5,"100,000+",Free,0.0,Everyone,Puzzle,2024-09-29,5.0 and up
+App_441,TOOLS,3.5,1722917,2.5,"1,000+",Paid,1.99,Mature 17+,Action,2024-05-14,6.0 and up
+App_442,GAME,3.9,2515977,2.5,"100,000+",Paid,4.99,Teen,Action,2024-11-08,8.0 and up
+App_443,HEALTH,4.0,4675122,2.5,"1,000,000+",Free,1.99,Everyone,Business,2024-01-08,4.1 and up
+App_444,HEALTH,3.9,2870584,2.5,"10,000+",Free,1.99,Mature 17+,Music,2024-05-07,4.1 and up
+App_445,PRODUCTIVITY,3.6,2888949,2.5,"10,000,000+",Free,1.99,Teen,Music,2024-02-25,4.1 and up
+App_446,EDUCATION,2.5,3986290,2.5,"100,000+",Paid,0.99,Everyone,Tools,2024-05-05,6.0 and up
+App_447,PRODUCTIVITY,4.0,2044950,2.5,"1,000,000+",Free,1.99,Teen,Tools,2024-06-07,5.0 and up
+App_448,GAME,2.9,2099419,2.5,"1,000,000+",Paid,1.99,Everyone,Puzzle,2024-02-28,5.0 and up
+App_449,GAME,4.1,3172392,2.5,"10,000+",Free,0.99,Teen,Tools,2024-02-27,4.1 and up
+App_450,LIFESTYLE,4.4,3881867,2.5,"1,000+",Free,0.99,Teen,Puzzle,2024-05-19,8.0 and up
+App_451,PRODUCTIVITY,3.8,4537881,2.5,"100,000+",Free,4.99,Everyone,Health,2024-06-24,4.1 and up
+App_452,FINANCE,3.9,291474,2.5,"1,000,000+",Paid,2.99,Mature 17+,Tools,2024-04-17,4.1 and up
+App_453,EDUCATION,4.9,4739410,2.5,"10,000+",Paid,0.0,Teen,Business,2024-07-29,8.0 and up
+App_454,GAME,4.6,2673839,2.5,"10,000,000+",Free,0.0,Everyone,Puzzle,2024-03-14,4.1 and up
+App_455,LIFESTYLE,4.8,118591,2.5,"1,000,000+",Free,1.99,Teen,Business,2024-06-15,6.0 and up
+App_456,PRODUCTIVITY,4.5,3852266,2.5,"10,000+",Free,4.99,Teen,Action,2024-12-22,4.1 and up
+App_457,EDUCATION,2.8,338550,2.5,"1,000+",Free,1.99,Mature 17+,Puzzle,2024-10-30,6.0 and up
+App_458,PRODUCTIVITY,2.9,501600,2.5,"1,000+",Free,0.0,Teen,Action,2024-08-20,4.1 and up
+App_459,HEALTH,3.8,1418422,2.5,"1,000,000+",Free,0.99,Teen,Education,2024-11-22,5.0 and up
+App_460,LIFESTYLE,3.1,3360502,2.5,"1,000,000+",Free,2.99,Everyone,Business,2024-06-30,8.0 and up
+App_461,EDUCATION,3.7,1630379,2.5,"100,000+",Free,4.99,Everyone,Education,2024-05-01,5.0 and up
+App_462,TOOLS,3.5,872338,2.5,"10,000+",Free,0.99,Mature 17+,Puzzle,2024-11-29,4.1 and up
+App_463,TOOLS,3.9,4809489,2.5,"1,000,000+",Free,2.99,Teen,Action,2024-07-21,4.1 and up
+App_464,EDUCATION,4.4,3110701,2.5,"100,000+",Free,4.99,Teen,Puzzle,2024-01-29,6.0 and up
+App_465,PRODUCTIVITY,4.3,1358107,2.5,"100,000+",Free,4.99,Teen,Education,2024-07-20,4.1 and up
+App_466,LIFESTYLE,3.8,3300364,2.5,"1,000,000+",Free,0.0,Mature 17+,Puzzle,2024-04-02,4.1 and up
+App_467,TOOLS,4.6,1294325,2.5,"1,000+",Free,0.99,Teen,Health,2024-11-24,4.1 and up
+App_468,LIFESTYLE,3.6,2575518,2.5,"10,000+",Free,4.99,Everyone,Music,2024-12-21,5.0 and up
+App_469,TOOLS,4.7,2376229,2.5,"10,000+",Free,4.99,Mature 17+,Education,2024-06-24,6.0 and up
+App_470,HEALTH,2.7,1358321,2.5,"1,000+",Free,2.99,Everyone,Puzzle,2024-11-25,5.0 and up
+App_471,PRODUCTIVITY,4.9,4510794,2.5,"1,000,000+",Free,0.0,Everyone,Action,2024-07-29,6.0 and up
+App_472,HEALTH,4.1,1289477,2.5,"10,000+",Free,1.99,Mature 17+,Puzzle,2024-07-02,5.0 and up
+App_473,TOOLS,3.5,164084,2.5,"1,000,000+",Paid,0.0,Everyone,Action,2024-04-04,4.1 and up
+App_474,HEALTH,3.0,2570476,2.5,"1,000,000+",Paid,1.99,Teen,Music,2024-09-29,5.0 and up
+App_475,TOOLS,3.7,3655190,2.5,"100,000+",Free,0.99,Mature 17+,Puzzle,2024-05-16,5.0 and up
+App_476,EDUCATION,3.0,4483130,2.5,"1,000+",Free,0.99,Everyone,Tools,2024-08-24,6.0 and up
+App_477,HEALTH,2.9,790655,2.5,"1,000,000+",Free,4.99,Teen,Tools,2024-12-18,6.0 and up
+App_478,BUSINESS,4.0,3287103,2.5,"10,000,000+",Paid,0.99,Teen,Music,2024-09-21,5.0 and up
+App_479,PRODUCTIVITY,3.8,1017491,2.5,"1,000+",Free,4.99,Everyone,Education,2024-05-14,6.0 and up
+App_480,GAME,4.2,3594814,2.5,"10,000+",Free,0.0,Teen,Action,2024-05-23,6.0 and up
+App_481,FINANCE,4.8,62517,2.5,"100,000+",Free,0.99,Mature 17+,Tools,2024-01-19,6.0 and up
+App_482,HEALTH,3.8,1105720,2.5,"10,000+",Free,0.0,Everyone,Health,2024-08-18,8.0 and up
+App_483,ENTERTAINMENT,4.0,2338387,2.5,"10,000+",Free,0.0,Teen,Education,2024-05-13,6.0 and up
+App_484,PRODUCTIVITY,2.7,4387383,2.5,"1,000+",Free,0.99,Teen,Action,2024-04-23,8.0 and up
+App_485,BUSINESS,4.3,806574,2.5,"10,000+",Free,0.0,Everyone,Music,2024-05-18,8.0 and up
+App_486,BUSINESS,3.5,3918959,2.5,"1,000,000+",Free,0.99,Everyone,Tools,2024-05-04,6.0 and up
+App_487,TOOLS,4.9,1609483,2.5,"10,000+",Free,0.99,Everyone,Business,2024-07-22,5.0 and up
+App_488,TOOLS,4.6,1711962,2.5,"100,000+",Free,0.99,Everyone,Puzzle,2024-03-01,6.0 and up
+App_489,FINANCE,3.8,737964,2.5,"100,000+",Paid,1.99,Mature 17+,Music,2024-09-06,4.1 and up
+App_490,EDUCATION,2.8,2908066,2.5,"10,000,000+",Free,0.0,Everyone,Action,2024-10-24,5.0 and up
+App_491,ENTERTAINMENT,4.6,707183,2.5,"100,000+",Free,2.99,Mature 17+,Action,2024-01-13,8.0 and up
+App_492,GAME,4.5,4510589,2.5,"10,000+",Free,0.99,Mature 17+,Action,2024-09-11,8.0 and up
+App_493,FINANCE,3.0,679457,2.5,"100,000+",Free,0.0,Everyone,Action,2024-03-25,5.0 and up
+App_494,LIFESTYLE,3.2,1061414,2.5,"1,000+",Paid,4.99,Mature 17+,Puzzle,2024-01-20,5.0 and up
+App_495,GAME,4.5,2980258,2.5,"100,000+",Free,0.99,Everyone,Education,2024-02-19,6.0 and up
+App_496,HEALTH,3.0,2613997,2.5,"1,000,000+",Paid,0.99,Everyone,Health,2024-06-12,8.0 and up
+App_497,PRODUCTIVITY,4.8,2753923,2.5,"1,000+",Free,2.99,Teen,Business,2024-04-01,4.1 and up
+App_498,LIFESTYLE,3.6,4995939,2.5,"10,000,000+",Paid,1.99,Everyone,Puzzle,2024-03-28,6.0 and up
+App_499,LIFESTYLE,2.7,2535242,2.5,"1,000,000+",Free,1.99,Teen,Action,2024-03-09,5.0 and up
+App_500,FINANCE,4.5,2378917,2.5,"10,000+",Free,0.99,Mature 17+,Puzzle,2024-02-06,8.0 and up
+App_501,EDUCATION,3.4,4532698,2.5,"10,000+",Free,0.0,Teen,Music,2024-09-09,5.0 and up
+App_502,FINANCE,3.8,2829925,2.5,"10,000+",Paid,4.99,Mature 17+,Health,2024-09-08,5.0 and up
+App_503,HEALTH,2.8,2363172,2.5,"1,000,000+",Paid,4.99,Everyone,Action,2024-05-19,5.0 and up
+App_504,EDUCATION,2.5,4881919,2.5,"1,000,000+",Free,0.0,Mature 17+,Business,2024-12-20,6.0 and up
+App_505,HEALTH,4.1,915123,2.5,"1,000,000+",Paid,0.99,Mature 17+,Action,2024-06-16,4.1 and up
+App_506,EDUCATION,3.8,2692804,2.5,"1,000+",Free,4.99,Everyone,Health,2024-02-23,4.1 and up
+App_507,BUSINESS,4.0,2211559,2.5,"1,000+",Free,1.99,Mature 17+,Business,2024-06-26,8.0 and up
+App_508,LIFESTYLE,4.5,2345714,2.5,"10,000+",Free,0.0,Everyone,Health,2024-10-23,5.0 and up
+App_509,ENTERTAINMENT,4.1,4581035,2.5,"100,000+",Free,2.99,Teen,Business,2024-10-27,4.1 and up
+App_510,PRODUCTIVITY,2.9,423342,2.5,"10,000+",Free,0.99,Everyone,Education,2024-12-24,5.0 and up
+App_511,HEALTH,3.4,292585,2.5,"10,000,000+",Free,0.0,Everyone,Tools,2024-04-15,8.0 and up
+App_512,GAME,4.8,1459710,2.5,"1,000+",Free,4.99,Mature 17+,Education,2024-05-16,5.0 and up
+App_513,EDUCATION,4.4,29346,2.5,"1,000,000+",Free,0.99,Teen,Puzzle,2024-07-08,4.1 and up
+App_514,PRODUCTIVITY,3.9,3201088,2.5,"1,000+",Free,1.99,Everyone,Puzzle,2024-05-07,5.0 and up
+App_515,GAME,3.1,1642435,2.5,"1,000,000+",Free,0.99,Teen,Business,2024-12-07,4.1 and up
+App_516,PRODUCTIVITY,3.3,2607632,2.5,"10,000,000+",Free,0.99,Teen,Action,2024-02-16,8.0 and up
+App_517,ENTERTAINMENT,4.3,1886973,2.5,"10,000,000+",Free,1.99,Mature 17+,Tools,2024-01-05,5.0 and up
+App_518,GAME,4.6,2772615,2.5,"1,000+",Free,1.99,Everyone,Music,2024-09-13,4.1 and up
+App_519,FINANCE,4.2,1447957,2.5,"1,000,000+",Free,0.99,Mature 17+,Music,2024-10-26,8.0 and up
+App_520,TOOLS,4.5,4176436,2.5,"10,000,000+",Free,1.99,Everyone,Action,2024-05-29,5.0 and up
+App_521,FINANCE,4.4,3856766,2.5,"10,000+",Free,0.0,Teen,Action,2024-10-20,8.0 and up
+App_522,TOOLS,2.9,1498349,2.5,"10,000+",Free,1.99,Everyone,Education,2024-08-30,4.1 and up
+App_523,FINANCE,3.6,676306,2.5,"1,000,000+",Free,1.99,Everyone,Music,2024-10-01,5.0 and up
+App_524,TOOLS,2.9,379049,2.5,"1,000+",Free,0.99,Teen,Business,2024-07-26,5.0 and up
+App_525,TOOLS,3.1,528724,2.5,"10,000,000+",Free,0.0,Teen,Health,2024-04-24,5.0 and up
+App_526,LIFESTYLE,4.7,2911200,2.5,"1,000+",Free,2.99,Everyone,Puzzle,2024-07-13,8.0 and up
+App_527,EDUCATION,3.7,4635362,2.5,"10,000+",Paid,2.99,Mature 17+,Health,2024-12-08,8.0 and up
+App_528,EDUCATION,3.8,552449,2.5,"10,000,000+",Paid,4.99,Everyone,Education,2024-06-18,4.1 and up
+App_529,LIFESTYLE,2.9,4142545,2.5,"1,000+",Free,1.99,Teen,Music,2024-03-22,6.0 and up
+App_530,PRODUCTIVITY,3.3,273462,2.5,"100,000+",Free,1.99,Mature 17+,Tools,2024-06-02,5.0 and up
+App_531,BUSINESS,3.1,778893,2.5,"1,000,000+",Free,0.0,Teen,Action,2024-05-20,5.0 and up
+App_532,PRODUCTIVITY,3.0,4371057,2.5,"1,000,000+",Free,2.99,Teen,Tools,2024-11-09,4.1 and up
+App_533,GAME,4.1,4943782,2.5,"100,000+",Paid,4.99,Mature 17+,Tools,2024-05-25,5.0 and up
+App_534,GAME,3.1,2189931,2.5,"10,000+",Free,0.0,Teen,Music,2024-11-18,8.0 and up
+App_535,TOOLS,4.1,3198166,2.5,"10,000,000+",Free,1.99,Teen,Business,2024-05-01,8.0 and up
+App_536,FINANCE,2.6,4822149,2.5,"1,000,000+",Free,2.99,Teen,Education,2024-09-08,5.0 and up
+App_537,FINANCE,2.9,4954592,2.5,"100,000+",Paid,4.99,Teen,Action,2024-12-08,5.0 and up
+App_538,EDUCATION,3.2,762381,2.5,"100,000+",Free,0.99,Teen,Health,2024-11-06,8.0 and up
+App_539,HEALTH,4.0,3257955,2.5,"10,000+",Free,2.99,Teen,Business,2024-03-29,5.0 and up
+App_540,PRODUCTIVITY,4.2,3768960,2.5,"10,000+",Free,4.99,Teen,Health,2024-02-27,8.0 and up
+App_541,ENTERTAINMENT,3.6,142990,2.5,"1,000+",Free,0.0,Teen,Puzzle,2024-03-03,6.0 and up
+App_542,FINANCE,3.6,4696681,2.5,"1,000,000+",Free,0.99,Teen,Education,2024-12-12,6.0 and up
+App_543,ENTERTAINMENT,4.3,2434013,2.5,"1,000+",Free,4.99,Everyone,Business,2024-11-03,5.0 and up
+App_544,TOOLS,2.5,257364,2.5,"100,000+",Paid,4.99,Everyone,Business,2024-10-06,5.0 and up
+App_545,ENTERTAINMENT,3.4,3206953,2.5,"10,000,000+",Paid,1.99,Teen,Health,2024-03-12,5.0 and up
+App_546,LIFESTYLE,4.5,1917170,2.5,"10,000,000+",Paid,2.99,Everyone,Action,2024-01-09,8.0 and up
+App_547,ENTERTAINMENT,4.0,3315268,2.5,"10,000+",Free,1.99,Mature 17+,Puzzle,2024-04-03,6.0 and up
+App_548,BUSINESS,3.3,4371555,2.5,"10,000,000+",Free,0.99,Everyone,Health,2024-12-04,6.0 and up
+App_549,TOOLS,4.8,2235893,2.5,"10,000,000+",Free,4.99,Teen,Business,2024-12-01,4.1 and up
+App_550,PRODUCTIVITY,4.4,2550992,2.5,"10,000,000+",Free,1.99,Teen,Education,2024-05-31,4.1 and up
+App_551,LIFESTYLE,3.2,764275,2.5,"100,000+",Free,2.99,Everyone,Business,2024-12-21,5.0 and up
+App_552,FINANCE,4.1,308627,2.5,"10,000,000+",Free,0.99,Teen,Music,2024-02-09,8.0 and up
+App_553,GAME,4.0,2980356,2.5,"10,000,000+",Free,0.0,Mature 17+,Education,2024-12-24,5.0 and up
+App_554,PRODUCTIVITY,3.5,744758,2.5,"10,000,000+",Free,1.99,Mature 17+,Education,2024-03-02,6.0 and up
+App_555,GAME,3.4,3636572,2.5,"1,000+",Free,0.99,Teen,Business,2024-09-10,5.0 and up
+App_556,TOOLS,3.4,2054420,2.5,"100,000+",Free,0.0,Mature 17+,Action,2024-03-09,5.0 and up
+App_557,LIFESTYLE,4.0,2477758,2.5,"10,000+",Free,1.99,Mature 17+,Education,2024-09-01,6.0 and up
+App_558,EDUCATION,3.6,734285,2.5,"1,000+",Free,0.99,Everyone,Music,2024-12-30,6.0 and up
+App_559,FINANCE,4.6,1297829,2.5,"1,000,000+",Free,0.99,Mature 17+,Health,2024-06-18,6.0 and up
+App_560,BUSINESS,4.2,1034196,2.5,"100,000+",Free,1.99,Everyone,Action,2024-06-26,6.0 and up
+App_561,EDUCATION,2.7,598516,2.5,"100,000+",Free,0.99,Teen,Action,2024-07-07,4.1 and up
+App_562,TOOLS,4.1,556728,2.5,"1,000,000+",Free,4.99,Everyone,Action,2024-09-16,8.0 and up
+App_563,PRODUCTIVITY,3.2,1596863,2.5,"1,000,000+",Free,1.99,Teen,Education,2024-03-12,8.0 and up
+App_564,BUSINESS,4.0,352424,2.5,"1,000,000+",Free,0.99,Teen,Action,2024-01-17,6.0 and up
+App_565,ENTERTAINMENT,4.2,2963954,2.5,"10,000+",Free,0.0,Teen,Business,2024-12-06,8.0 and up
+App_566,BUSINESS,3.1,2347703,2.5,"10,000,000+",Free,0.0,Teen,Action,2024-02-26,8.0 and up
+App_567,TOOLS,3.6,2763555,2.5,"100,000+",Free,4.99,Teen,Music,2024-08-05,8.0 and up
+App_568,HEALTH,3.0,3516154,2.5,"10,000,000+",Free,1.99,Everyone,Puzzle,2024-04-16,8.0 and up
+App_569,ENTERTAINMENT,2.6,3948411,2.5,"10,000,000+",Free,0.99,Teen,Music,2024-10-30,6.0 and up
+App_570,GAME,3.4,124942,2.5,"1,000,000+",Free,0.99,Mature 17+,Education,2024-06-21,5.0 and up
+App_571,FINANCE,3.4,268093,2.5,"10,000+",Free,0.0,Mature 17+,Action,2024-08-06,5.0 and up
+App_572,GAME,5.0,1751508,2.5,"1,000+",Paid,4.99,Teen,Action,2024-09-03,5.0 and up
+App_573,BUSINESS,3.6,3877819,2.5,"10,000+",Free,0.0,Mature 17+,Business,2024-08-05,4.1 and up
+App_574,GAME,3.3,4876719,2.5,"10,000,000+",Free,0.0,Everyone,Health,2024-01-31,8.0 and up
+App_575,TOOLS,4.0,1558436,2.5,"10,000+",Free,4.99,Everyone,Action,2024-02-16,6.0 and up
+App_576,PRODUCTIVITY,2.7,3230441,2.5,"1,000,000+",Free,1.99,Teen,Tools,2024-05-13,6.0 and up
+App_577,FINANCE,4.9,2592326,2.5,"1,000+",Free,0.99,Teen,Music,2024-04-17,4.1 and up
+App_578,GAME,4.1,289230,2.5,"1,000,000+",Free,1.99,Teen,Education,2024-03-12,6.0 and up
+App_579,GAME,4.4,3976775,2.5,"1,000+",Free,2.99,Mature 17+,Puzzle,2024-11-22,5.0 and up
+App_580,BUSINESS,2.9,1395295,2.5,"10,000,000+",Free,2.99,Mature 17+,Action,2024-04-17,4.1 and up
+App_581,PRODUCTIVITY,3.5,4676039,2.5,"1,000+",Free,2.99,Everyone,Puzzle,2024-11-04,6.0 and up
+App_582,EDUCATION,3.6,2922715,2.5,"1,000+",Free,4.99,Mature 17+,Action,2024-09-28,4.1 and up
+App_583,GAME,4.6,2664759,2.5,"1,000+",Free,0.0,Everyone,Education,2024-06-19,4.1 and up
+App_584,TOOLS,2.5,3999463,2.5,"10,000+",Free,1.99,Mature 17+,Health,2024-04-25,6.0 and up
+App_585,HEALTH,3.3,1406988,2.5,"10,000+",Free,0.99,Everyone,Music,2024-11-24,5.0 and up
+App_586,FINANCE,5.0,2921999,2.5,"10,000,000+",Paid,2.99,Teen,Education,2024-03-14,6.0 and up
+App_587,GAME,3.7,984166,2.5,"1,000+",Free,1.99,Mature 17+,Puzzle,2024-09-12,8.0 and up
+App_588,TOOLS,3.5,3713553,2.5,"100,000+",Free,2.99,Everyone,Action,2024-03-21,8.0 and up
+App_589,TOOLS,2.8,863669,2.5,"10,000,000+",Free,2.99,Mature 17+,Puzzle,2024-09-24,6.0 and up
+App_590,FINANCE,4.9,4943092,2.5,"1,000+",Free,0.99,Teen,Music,2024-05-07,5.0 and up
+App_591,EDUCATION,2.6,2237045,2.5,"1,000+",Paid,4.99,Everyone,Tools,2024-11-21,8.0 and up
+App_592,TOOLS,4.3,1203930,2.5,"10,000+",Free,0.0,Mature 17+,Education,2024-08-22,8.0 and up
+App_593,HEALTH,4.4,3108601,2.5,"10,000,000+",Paid,4.99,Mature 17+,Puzzle,2024-02-10,6.0 and up
+App_594,TOOLS,3.1,3610964,2.5,"1,000+",Free,1.99,Teen,Puzzle,2024-06-29,6.0 and up
+App_595,TOOLS,4.2,747862,2.5,"1,000+",Free,4.99,Teen,Music,2024-06-05,6.0 and up
+App_596,TOOLS,2.7,1156628,2.5,"10,000,000+",Free,1.99,Everyone,Tools,2024-02-28,4.1 and up
+App_597,EDUCATION,3.1,3911157,2.5,"100,000+",Paid,1.99,Mature 17+,Action,2024-12-10,4.1 and up
+App_598,GAME,4.5,1107820,2.5,"10,000,000+",Free,0.0,Mature 17+,Tools,2024-09-05,4.1 and up
+App_599,TOOLS,4.7,812293,2.5,"10,000,000+",Free,0.99,Teen,Puzzle,2024-07-10,6.0 and up
+App_600,PRODUCTIVITY,4.0,2914873,2.5,"100,000+",Free,0.0,Teen,Music,2024-01-24,5.0 and up
+App_601,GAME,3.8,1821377,2.5,"10,000,000+",Free,4.99,Everyone,Action,2024-03-20,8.0 and up
+App_602,EDUCATION,2.9,3372873,2.5,"1,000+",Paid,1.99,Mature 17+,Tools,2024-05-13,4.1 and up
+App_603,LIFESTYLE,2.7,2899043,2.5,"10,000,000+",Free,2.99,Mature 17+,Tools,2024-07-31,5.0 and up
+App_604,GAME,2.8,4532679,2.5,"100,000+",Free,2.99,Everyone,Tools,2024-12-13,6.0 and up
+App_605,GAME,3.1,1578325,2.5,"1,000,000+",Free,1.99,Everyone,Health,2024-06-14,4.1 and up
+App_606,ENTERTAINMENT,3.4,1349600,2.5,"10,000,000+",Free,0.0,Teen,Action,2024-12-13,6.0 and up
+App_607,BUSINESS,3.5,3504448,2.5,"10,000+",Paid,0.99,Teen,Tools,2024-12-02,5.0 and up
+App_608,ENTERTAINMENT,3.4,4580207,2.5,"1,000+",Free,0.0,Everyone,Health,2024-03-11,4.1 and up
+App_609,HEALTH,3.1,3045539,2.5,"1,000+",Free,1.99,Everyone,Education,2024-08-01,4.1 and up
+App_610,BUSINESS,3.8,2225551,2.5,"10,000+",Paid,1.99,Mature 17+,Music,2024-03-05,4.1 and up
+App_611,FINANCE,4.6,2811149,2.5,"10,000+",Free,0.99,Everyone,Tools,2024-08-08,4.1 and up
+App_612,FINANCE,3.2,1469803,2.5,"10,000,000+",Free,4.99,Everyone,Action,2024-11-03,5.0 and up
+App_613,EDUCATION,4.9,4490522,2.5,"10,000+",Free,4.99,Mature 17+,Health,2024-10-12,4.1 and up
+App_614,BUSINESS,4.7,4944500,2.5,"1,000,000+",Free,0.99,Everyone,Health,2024-07-03,8.0 and up
+App_615,GAME,2.9,2897716,2.5,"100,000+",Free,4.99,Teen,Education,2024-07-25,8.0 and up
+App_616,FINANCE,4.5,3201483,2.5,"10,000+",Paid,2.99,Teen,Business,2024-04-08,6.0 and up
+App_617,TOOLS,3.9,1098667,2.5,"10,000+",Free,4.99,Mature 17+,Music,2024-08-29,4.1 and up
+App_618,PRODUCTIVITY,3.9,926225,2.5,"1,000,000+",Free,4.99,Everyone,Business,2024-06-06,8.0 and up
+App_619,GAME,3.5,3033459,2.5,"1,000+",Paid,4.99,Teen,Action,2024-04-07,8.0 and up
+App_620,HEALTH,3.8,1450001,2.5,"1,000+",Free,2.99,Teen,Music,2024-02-11,8.0 and up
+App_621,TOOLS,3.5,2511920,2.5,"10,000,000+",Free,4.99,Teen,Education,2024-05-18,5.0 and up
+App_622,TOOLS,3.8,424538,2.5,"1,000,000+",Free,2.99,Teen,Action,2024-10-09,4.1 and up
+App_623,BUSINESS,4.1,2535620,2.5,"100,000+",Paid,0.99,Everyone,Music,2024-08-14,5.0 and up
+App_624,EDUCATION,4.2,2715233,2.5,"100,000+",Free,0.0,Everyone,Music,2024-03-12,5.0 and up
+App_625,HEALTH,3.8,612191,2.5,"1,000,000+",Free,0.99,Everyone,Business,2024-08-30,8.0 and up
+App_626,FINANCE,4.3,3645535,2.5,"100,000+",Free,0.0,Everyone,Action,2024-01-18,8.0 and up
+App_627,BUSINESS,2.9,1650834,2.5,"1,000+",Free,0.99,Teen,Education,2024-03-17,6.0 and up
+App_628,FINANCE,3.0,139237,2.5,"100,000+",Free,0.0,Mature 17+,Education,2024-02-14,4.1 and up
+App_629,BUSINESS,4.5,1773065,2.5,"100,000+",Free,0.0,Mature 17+,Action,2024-12-08,4.1 and up
+App_630,BUSINESS,3.3,692147,2.5,"1,000,000+",Free,1.99,Teen,Action,2024-05-19,8.0 and up
+App_631,BUSINESS,2.6,281864,2.5,"1,000,000+",Free,0.0,Teen,Health,2024-06-25,8.0 and up
+App_632,EDUCATION,2.9,4874206,2.5,"100,000+",Paid,0.0,Mature 17+,Puzzle,2024-08-09,4.1 and up
+App_633,BUSINESS,3.1,660337,2.5,"10,000+",Free,1.99,Mature 17+,Business,2024-04-01,6.0 and up
+App_634,LIFESTYLE,4.9,1657163,2.5,"1,000,000+",Free,4.99,Teen,Action,2024-01-22,8.0 and up
+App_635,PRODUCTIVITY,3.9,4345408,2.5,"10,000,000+",Free,4.99,Teen,Action,2024-06-20,6.0 and up
+App_636,FINANCE,4.8,1485265,2.5,"10,000,000+",Free,1.99,Everyone,Puzzle,2024-04-01,5.0 and up
+App_637,GAME,3.9,4156014,2.5,"1,000+",Free,2.99,Everyone,Puzzle,2024-07-10,8.0 and up
+App_638,ENTERTAINMENT,3.7,1806694,2.5,"100,000+",Free,0.0,Mature 17+,Music,2024-03-17,5.0 and up
+App_639,HEALTH,3.3,1809868,2.5,"10,000+",Free,0.0,Teen,Tools,2024-10-07,8.0 and up
+App_640,EDUCATION,4.0,479093,2.5,"1,000+",Free,1.99,Mature 17+,Education,2024-12-29,5.0 and up
+App_641,GAME,2.8,1394326,2.5,"100,000+",Free,1.99,Everyone,Business,2024-06-27,8.0 and up
+App_642,TOOLS,4.7,1901750,2.5,"1,000,000+",Free,2.99,Everyone,Music,2024-08-25,6.0 and up
+App_643,LIFESTYLE,4.6,4262637,2.5,"10,000,000+",Free,4.99,Mature 17+,Action,2024-05-14,6.0 and up
+App_644,ENTERTAINMENT,3.3,4584956,2.5,"10,000+",Free,0.99,Everyone,Puzzle,2024-12-30,6.0 and up
+App_645,GAME,4.9,2295946,2.5,"10,000,000+",Free,4.99,Teen,Health,2024-10-06,5.0 and up
+App_646,GAME,4.6,4301410,2.5,"1,000,000+",Free,0.0,Mature 17+,Education,2024-01-19,6.0 and up
+App_647,LIFESTYLE,4.2,4641104,2.5,"100,000+",Free,1.99,Teen,Music,2024-03-23,5.0 and up
+App_648,ENTERTAINMENT,2.8,2707194,2.5,"1,000,000+",Free,2.99,Teen,Health,2024-08-15,8.0 and up
+App_649,TOOLS,3.7,2912076,2.5,"1,000,000+",Free,4.99,Everyone,Education,2024-09-21,5.0 and up
+App_650,BUSINESS,3.8,3770781,2.5,"10,000,000+",Free,2.99,Teen,Tools,2024-04-21,8.0 and up
+App_651,FINANCE,3.1,1540734,2.5,"10,000+",Free,4.99,Mature 17+,Tools,2024-09-07,4.1 and up
+App_652,TOOLS,2.7,1965740,2.5,"1,000,000+",Free,0.0,Teen,Health,2024-06-12,4.1 and up
+App_653,BUSINESS,4.4,4562540,2.5,"10,000,000+",Paid,0.99,Teen,Puzzle,2024-12-23,4.1 and up
+App_654,EDUCATION,2.8,4320624,2.5,"10,000+",Free,2.99,Teen,Music,2024-06-16,5.0 and up
+App_655,PRODUCTIVITY,4.0,4083300,2.5,"100,000+",Paid,2.99,Teen,Music,2024-08-08,4.1 and up
+App_656,HEALTH,4.8,675683,2.5,"100,000+",Free,0.99,Teen,Tools,2024-10-30,4.1 and up
+App_657,HEALTH,4.7,4062234,2.5,"1,000+",Free,2.99,Everyone,Education,2024-07-09,4.1 and up
+App_658,FINANCE,3.2,1888539,2.5,"10,000,000+",Paid,2.99,Mature 17+,Health,2024-11-20,8.0 and up
+App_659,ENTERTAINMENT,4.6,1094326,2.5,"10,000+",Free,4.99,Everyone,Puzzle,2024-06-18,6.0 and up
+App_660,LIFESTYLE,2.5,4300925,2.5,"1,000,000+",Free,4.99,Mature 17+,Action,2024-02-14,5.0 and up
+App_661,ENTERTAINMENT,2.5,4967524,2.5,"100,000+",Free,0.99,Mature 17+,Music,2024-01-14,4.1 and up
+App_662,LIFESTYLE,4.0,1636685,2.5,"10,000+",Free,0.0,Mature 17+,Action,2024-08-18,8.0 and up
+App_663,ENTERTAINMENT,3.4,706683,2.5,"10,000,000+",Free,2.99,Mature 17+,Puzzle,2024-06-05,6.0 and up
+App_664,PRODUCTIVITY,3.5,801859,2.5,"1,000+",Free,0.0,Mature 17+,Tools,2024-05-13,6.0 and up
+App_665,EDUCATION,3.9,1728675,2.5,"100,000+",Free,0.99,Teen,Music,2024-02-06,6.0 and up
+App_666,EDUCATION,3.0,1161078,2.5,"10,000+",Free,0.99,Everyone,Music,2024-02-22,8.0 and up
+App_667,BUSINESS,3.0,1035901,2.5,"10,000+",Paid,4.99,Everyone,Health,2024-01-18,4.1 and up
+App_668,EDUCATION,3.7,753504,2.5,"10,000+",Free,2.99,Teen,Action,2024-02-07,6.0 and up
+App_669,EDUCATION,4.4,423187,2.5,"10,000,000+",Free,1.99,Mature 17+,Tools,2024-07-05,8.0 and up
+App_670,TOOLS,4.0,642772,2.5,"10,000,000+",Free,0.99,Everyone,Health,2024-07-14,8.0 and up
+App_671,TOOLS,3.2,767886,2.5,"10,000,000+",Free,2.99,Teen,Business,2024-08-30,5.0 and up
+App_672,BUSINESS,3.6,3704707,2.5,"1,000,000+",Free,0.0,Teen,Action,2024-10-26,8.0 and up
+App_673,FINANCE,2.9,1206194,2.5,"10,000+",Free,4.99,Everyone,Action,2024-10-29,6.0 and up
+App_674,TOOLS,2.7,1760521,2.5,"100,000+",Free,0.0,Everyone,Business,2024-02-04,6.0 and up
+App_675,FINANCE,4.5,4584084,2.5,"10,000,000+",Free,0.99,Mature 17+,Puzzle,2024-08-02,8.0 and up
+App_676,GAME,3.2,3541825,2.5,"10,000,000+",Free,0.99,Mature 17+,Puzzle,2024-08-06,6.0 and up
+App_677,TOOLS,2.9,46012,2.5,"10,000+",Paid,0.0,Everyone,Music,2024-11-11,8.0 and up
+App_678,PRODUCTIVITY,4.2,4610156,2.5,"10,000,000+",Free,0.99,Mature 17+,Education,2024-03-30,6.0 and up
+App_679,BUSINESS,4.0,715349,2.5,"1,000,000+",Free,2.99,Teen,Health,2024-11-03,5.0 and up
+App_680,GAME,4.1,4139299,2.5,"1,000,000+",Free,0.99,Mature 17+,Education,2024-09-08,4.1 and up
+App_681,PRODUCTIVITY,3.1,1784016,2.5,"10,000,000+",Free,4.99,Mature 17+,Music,2024-01-08,5.0 and up
+App_682,PRODUCTIVITY,3.1,4913488,2.5,"10,000+",Paid,2.99,Teen,Education,2024-09-12,5.0 and up
+App_683,PRODUCTIVITY,3.1,628899,2.5,"10,000+",Free,1.99,Mature 17+,Action,2024-12-28,4.1 and up
+App_684,FINANCE,2.9,2367118,2.5,"10,000+",Free,0.99,Teen,Action,2024-07-26,6.0 and up
+App_685,ENTERTAINMENT,4.1,4589709,2.5,"1,000+",Free,0.99,Mature 17+,Business,2024-05-10,4.1 and up
+App_686,GAME,4.6,3844896,2.5,"10,000,000+",Free,4.99,Everyone,Business,2024-08-11,8.0 and up
+App_687,LIFESTYLE,4.3,925789,2.5,"10,000+",Free,4.99,Mature 17+,Music,2024-07-15,4.1 and up
+App_688,GAME,4.5,2529842,2.5,"1,000,000+",Free,0.0,Everyone,Music,2024-05-21,5.0 and up
+App_689,ENTERTAINMENT,3.5,3319161,2.5,"100,000+",Paid,0.0,Everyone,Tools,2024-09-08,4.1 and up
+App_690,GAME,4.1,225401,2.5,"100,000+",Free,0.0,Everyone,Music,2024-04-05,6.0 and up
+App_691,EDUCATION,3.4,191397,2.5,"10,000+",Paid,4.99,Everyone,Action,2024-01-26,5.0 and up
+App_692,LIFESTYLE,3.8,3632642,2.5,"100,000+",Free,0.0,Everyone,Education,2024-04-20,8.0 and up
+App_693,ENTERTAINMENT,3.7,4608484,2.5,"100,000+",Free,0.0,Teen,Health,2024-05-02,6.0 and up
+App_694,FINANCE,2.9,2784077,2.5,"1,000+",Free,1.99,Teen,Tools,2024-07-04,5.0 and up
+App_695,HEALTH,3.5,1374083,2.5,"1,000,000+",Free,0.0,Teen,Tools,2024-06-16,8.0 and up
+App_696,ENTERTAINMENT,4.9,2535404,2.5,"1,000,000+",Free,0.99,Everyone,Tools,2024-02-20,6.0 and up
+App_697,BUSINESS,3.1,4557230,2.5,"1,000+",Free,4.99,Mature 17+,Music,2024-01-05,8.0 and up
+App_698,ENTERTAINMENT,2.8,4372362,2.5,"1,000+",Free,2.99,Teen,Music,2024-03-17,4.1 and up
+App_699,EDUCATION,3.5,1424673,2.5,"100,000+",Free,1.99,Mature 17+,Action,2024-06-08,4.1 and up
+App_700,HEALTH,4.5,2469156,2.5,"10,000,000+",Free,4.99,Mature 17+,Health,2024-07-26,8.0 and up
+App_701,EDUCATION,4.0,3291080,2.5,"100,000+",Free,4.99,Everyone,Action,2024-09-13,4.1 and up
+App_702,HEALTH,4.2,686278,2.5,"1,000+",Free,0.99,Everyone,Health,2024-07-23,8.0 and up
+App_703,BUSINESS,3.0,801965,2.5,"1,000,000+",Free,0.0,Everyone,Action,2024-09-11,6.0 and up
+App_704,FINANCE,4.0,1111019,2.5,"100,000+",Free,0.99,Teen,Education,2024-01-11,5.0 and up
+App_705,EDUCATION,3.3,2013158,2.5,"10,000,000+",Free,0.0,Everyone,Music,2024-01-08,8.0 and up
+App_706,EDUCATION,4.6,4467233,2.5,"100,000+",Paid,0.0,Teen,Puzzle,2024-02-01,5.0 and up
+App_707,PRODUCTIVITY,4.1,1519603,2.5,"10,000+",Free,4.99,Teen,Puzzle,2024-01-28,5.0 and up
+App_708,HEALTH,3.0,2444301,2.5,"100,000+",Free,0.0,Teen,Music,2024-07-24,8.0 and up
+App_709,TOOLS,2.7,147755,2.5,"1,000+",Paid,1.99,Teen,Tools,2024-08-15,4.1 and up
+App_710,HEALTH,2.6,3792834,2.5,"1,000,000+",Free,1.99,Everyone,Music,2024-05-07,6.0 and up
+App_711,PRODUCTIVITY,3.4,1731002,2.5,"1,000,000+",Paid,1.99,Teen,Music,2024-09-11,5.0 and up
+App_712,GAME,3.2,137696,2.5,"1,000+",Free,4.99,Everyone,Music,2024-07-30,6.0 and up
+App_713,HEALTH,4.1,2067646,2.5,"10,000+",Free,0.99,Everyone,Tools,2024-08-26,5.0 and up
+App_714,FINANCE,3.7,4151933,2.5,"1,000+",Free,2.99,Teen,Health,2024-07-25,8.0 and up
+App_715,PRODUCTIVITY,3.2,1983054,2.5,"100,000+",Free,0.0,Everyone,Education,2024-11-13,4.1 and up
+App_716,GAME,2.9,3924231,2.5,"1,000+",Free,2.99,Mature 17+,Puzzle,2024-10-09,6.0 and up
+App_717,LIFESTYLE,2.8,3314354,2.5,"1,000+",Free,0.99,Everyone,Business,2024-09-01,5.0 and up
+App_718,PRODUCTIVITY,4.7,49986,2.5,"10,000+",Free,0.99,Everyone,Puzzle,2024-02-14,8.0 and up
+App_719,LIFESTYLE,3.1,2522630,2.5,"100,000+",Free,4.99,Teen,Puzzle,2024-04-14,8.0 and up
+App_720,EDUCATION,4.1,2363138,2.5,"10,000,000+",Free,1.99,Teen,Tools,2024-12-13,5.0 and up
+App_721,PRODUCTIVITY,4.5,3367621,2.5,"10,000,000+",Free,1.99,Everyone,Action,2024-10-07,5.0 and up
+App_722,BUSINESS,4.0,4405823,2.5,"1,000,000+",Free,0.99,Teen,Music,2024-08-21,5.0 and up
+App_723,LIFESTYLE,4.6,3642703,2.5,"1,000+",Free,4.99,Mature 17+,Music,2024-07-07,4.1 and up
+App_724,FINANCE,3.5,2027330,2.5,"1,000,000+",Paid,4.99,Mature 17+,Music,2024-02-13,5.0 and up
+App_725,BUSINESS,4.9,1812115,2.5,"10,000+",Free,0.0,Teen,Action,2024-08-12,5.0 and up
+App_726,ENTERTAINMENT,2.8,1947248,2.5,"10,000,000+",Paid,1.99,Everyone,Tools,2024-05-21,4.1 and up
+App_727,ENTERTAINMENT,2.8,1395806,2.5,"1,000+",Free,0.99,Mature 17+,Education,2024-05-15,8.0 and up
+App_728,GAME,4.1,4809055,2.5,"10,000+",Free,2.99,Mature 17+,Education,2024-06-24,5.0 and up
+App_729,EDUCATION,4.9,3561272,2.5,"10,000+",Free,1.99,Everyone,Tools,2024-05-21,6.0 and up
+App_730,PRODUCTIVITY,4.5,208869,2.5,"1,000+",Free,0.0,Teen,Business,2024-03-20,8.0 and up
+App_731,TOOLS,2.7,4027912,2.5,"10,000+",Free,4.99,Mature 17+,Education,2024-03-22,6.0 and up
+App_732,FINANCE,3.2,45485,2.5,"1,000+",Free,0.99,Everyone,Tools,2024-05-14,5.0 and up
+App_733,LIFESTYLE,4.8,3303374,2.5,"1,000+",Free,1.99,Everyone,Education,2024-07-25,4.1 and up
+App_734,BUSINESS,3.1,3239264,2.5,"100,000+",Free,2.99,Mature 17+,Music,2024-12-09,4.1 and up
+App_735,ENTERTAINMENT,4.5,1099587,2.5,"1,000,000+",Free,0.0,Teen,Health,2024-06-25,4.1 and up
+App_736,FINANCE,4.6,844091,2.5,"10,000+",Free,0.0,Mature 17+,Tools,2024-08-30,5.0 and up
+App_737,TOOLS,3.7,4623047,2.5,"10,000+",Free,1.99,Everyone,Puzzle,2024-02-24,5.0 and up
+App_738,PRODUCTIVITY,3.5,3695737,2.5,"100,000+",Free,2.99,Mature 17+,Education,2024-05-20,6.0 and up
+App_739,GAME,3.6,1602980,2.5,"100,000+",Free,0.0,Teen,Education,2024-02-25,4.1 and up
+App_740,TOOLS,3.1,1531074,2.5,"100,000+",Free,0.99,Everyone,Action,2024-01-15,5.0 and up
+App_741,FINANCE,4.7,4411897,2.5,"10,000,000+",Free,0.0,Teen,Business,2024-07-03,8.0 and up
+App_742,TOOLS,3.6,227199,2.5,"10,000,000+",Free,2.99,Mature 17+,Health,2024-11-09,5.0 and up
+App_743,FINANCE,4.7,2076208,2.5,"10,000,000+",Free,4.99,Mature 17+,Action,2024-03-28,5.0 and up
+App_744,FINANCE,2.8,1468929,2.5,"1,000+",Free,4.99,Teen,Music,2024-04-06,8.0 and up
+App_745,HEALTH,5.0,3281951,2.5,"10,000+",Free,1.99,Mature 17+,Puzzle,2024-05-23,4.1 and up
+App_746,LIFESTYLE,3.6,2650334,2.5,"1,000,000+",Free,2.99,Teen,Business,2024-01-08,8.0 and up
+App_747,ENTERTAINMENT,2.6,3410590,2.5,"1,000+",Paid,0.0,Mature 17+,Action,2024-08-02,4.1 and up
+App_748,HEALTH,2.6,4999121,2.5,"10,000+",Paid,0.0,Teen,Tools,2024-06-21,8.0 and up
+App_749,PRODUCTIVITY,4.4,3685114,2.5,"10,000+",Free,4.99,Teen,Education,2024-08-10,6.0 and up
+App_750,HEALTH,4.1,1420868,2.5,"100,000+",Free,4.99,Everyone,Education,2024-02-09,4.1 and up
+App_751,EDUCATION,4.5,1748992,2.5,"100,000+",Free,0.99,Everyone,Business,2024-06-30,5.0 and up
+App_752,EDUCATION,2.8,1445075,2.5,"1,000+",Free,4.99,Teen,Education,2024-09-26,6.0 and up
+App_753,ENTERTAINMENT,2.6,4896809,2.5,"100,000+",Free,0.99,Mature 17+,Tools,2024-07-05,4.1 and up
+App_754,TOOLS,3.8,78087,2.5,"10,000+",Free,0.0,Mature 17+,Action,2024-09-01,4.1 and up
+App_755,LIFESTYLE,3.5,4509332,2.5,"100,000+",Paid,0.99,Mature 17+,Action,2024-11-04,4.1 and up
+App_756,ENTERTAINMENT,3.7,1641242,2.5,"10,000,000+",Free,0.99,Teen,Education,2024-08-18,8.0 and up
+App_757,FINANCE,5.0,4445828,2.5,"100,000+",Free,1.99,Teen,Education,2024-06-03,4.1 and up
+App_758,BUSINESS,4.9,4095087,2.5,"10,000+",Free,4.99,Teen,Music,2024-06-23,5.0 and up
+App_759,LIFESTYLE,4.9,784202,2.5,"1,000+",Free,0.99,Teen,Puzzle,2024-12-01,4.1 and up
+App_760,LIFESTYLE,4.5,4630242,2.5,"1,000,000+",Free,0.0,Everyone,Business,2024-04-24,5.0 and up
+App_761,FINANCE,3.4,920124,2.5,"100,000+",Paid,2.99,Teen,Action,2024-11-06,5.0 and up
+App_762,FINANCE,3.5,601901,2.5,"10,000+",Free,0.99,Mature 17+,Business,2024-10-26,5.0 and up
+App_763,GAME,3.9,3529931,2.5,"1,000,000+",Free,4.99,Everyone,Music,2024-01-18,6.0 and up
+App_764,ENTERTAINMENT,4.6,2182936,2.5,"1,000,000+",Free,1.99,Mature 17+,Action,2024-09-28,5.0 and up
+App_765,FINANCE,2.7,2485680,2.5,"10,000,000+",Free,0.0,Teen,Music,2024-01-12,8.0 and up
+App_766,EDUCATION,3.6,3344260,2.5,"1,000,000+",Free,1.99,Everyone,Music,2024-10-27,4.1 and up
+App_767,PRODUCTIVITY,2.7,3366095,2.5,"10,000+",Free,2.99,Teen,Health,2024-07-10,8.0 and up
+App_768,BUSINESS,3.8,4606986,2.5,"10,000+",Free,0.99,Everyone,Education,2024-08-19,6.0 and up
+App_769,ENTERTAINMENT,4.7,4023288,2.5,"100,000+",Free,0.99,Mature 17+,Tools,2024-04-02,4.1 and up
+App_770,EDUCATION,4.5,537987,2.5,"100,000+",Free,4.99,Teen,Health,2024-08-05,5.0 and up
+App_771,TOOLS,3.1,1999024,2.5,"100,000+",Free,0.99,Teen,Business,2024-10-04,4.1 and up
+App_772,FINANCE,4.9,3703302,2.5,"1,000,000+",Free,0.0,Everyone,Tools,2024-12-18,6.0 and up
+App_773,FINANCE,4.2,1558151,2.5,"1,000,000+",Free,2.99,Everyone,Business,2024-10-29,6.0 and up
+App_774,LIFESTYLE,2.5,3668290,2.5,"10,000,000+",Free,1.99,Teen,Education,2024-01-29,8.0 and up
+App_775,EDUCATION,3.1,2723418,2.5,"100,000+",Free,2.99,Everyone,Tools,2024-10-27,4.1 and up
+App_776,LIFESTYLE,3.2,1848068,2.5,"1,000+",Free,0.99,Teen,Health,2024-03-17,4.1 and up
+App_777,GAME,2.7,4784818,2.5,"10,000,000+",Free,1.99,Everyone,Business,2024-01-09,4.1 and up
+App_778,LIFESTYLE,4.9,2159183,2.5,"1,000+",Free,4.99,Mature 17+,Health,2024-01-24,8.0 and up
+App_779,GAME,3.7,4654429,2.5,"1,000,000+",Free,2.99,Everyone,Education,2024-01-15,6.0 and up
+App_780,GAME,4.7,42301,2.5,"10,000,000+",Free,1.99,Mature 17+,Tools,2024-06-12,5.0 and up
+App_781,FINANCE,3.3,4622590,2.5,"10,000,000+",Free,1.99,Everyone,Tools,2024-01-13,4.1 and up
+App_782,TOOLS,2.8,4589068,2.5,"10,000+",Free,1.99,Everyone,Action,2024-12-12,8.0 and up
+App_783,LIFESTYLE,3.7,4497978,2.5,"1,000,000+",Free,0.0,Teen,Music,2024-06-20,8.0 and up
+App_784,EDUCATION,2.8,2122837,2.5,"1,000,000+",Free,2.99,Everyone,Music,2024-12-22,5.0 and up
+App_785,GAME,3.7,4867961,2.5,"10,000,000+",Free,1.99,Everyone,Health,2024-11-22,6.0 and up
+App_786,FINANCE,4.8,2068681,2.5,"1,000,000+",Free,2.99,Mature 17+,Tools,2024-07-18,4.1 and up
+App_787,BUSINESS,3.8,708682,2.5,"10,000,000+",Free,1.99,Everyone,Business,2024-03-16,4.1 and up
+App_788,ENTERTAINMENT,4.0,337379,2.5,"10,000+",Free,4.99,Teen,Health,2024-06-12,8.0 and up
+App_789,TOOLS,2.9,3976984,2.5,"10,000,000+",Free,4.99,Mature 17+,Health,2024-03-01,6.0 and up
+App_790,HEALTH,2.6,3492973,2.5,"1,000,000+",Free,4.99,Teen,Puzzle,2024-09-01,4.1 and up
+App_791,BUSINESS,2.8,4507177,2.5,"1,000,000+",Free,0.99,Teen,Tools,2024-06-03,5.0 and up
+App_792,ENTERTAINMENT,4.0,2227049,2.5,"10,000,000+",Free,1.99,Teen,Music,2024-09-13,6.0 and up
+App_793,BUSINESS,2.7,296073,2.5,"10,000,000+",Free,0.99,Teen,Tools,2024-08-31,6.0 and up
+App_794,LIFESTYLE,3.4,1383885,2.5,"10,000,000+",Free,2.99,Mature 17+,Education,2024-06-10,8.0 and up
+App_795,GAME,3.9,1876346,2.5,"100,000+",Free,0.99,Everyone,Health,2024-03-08,8.0 and up
+App_796,TOOLS,3.5,3956788,2.5,"1,000,000+",Paid,2.99,Teen,Puzzle,2024-12-09,4.1 and up
+App_797,PRODUCTIVITY,2.9,4753277,2.5,"1,000,000+",Paid,2.99,Mature 17+,Puzzle,2024-10-03,8.0 and up
+App_798,GAME,3.2,2887767,2.5,"100,000+",Paid,2.99,Teen,Music,2024-06-09,6.0 and up
+App_799,PRODUCTIVITY,4.8,2468675,2.5,"10,000,000+",Free,0.99,Everyone,Music,2024-09-15,4.1 and up
+App_800,ENTERTAINMENT,4.2,2909994,2.5,"10,000+",Free,1.99,Mature 17+,Music,2024-11-02,4.1 and up
+App_801,FINANCE,3.7,692934,2.5,"10,000,000+",Free,0.99,Mature 17+,Education,2024-11-30,6.0 and up
+App_802,HEALTH,2.5,2570125,2.5,"10,000,000+",Free,1.99,Everyone,Puzzle,2024-04-04,4.1 and up
+App_803,EDUCATION,5.0,1661665,2.5,"100,000+",Free,1.99,Mature 17+,Business,2024-09-02,5.0 and up
+App_804,GAME,4.2,4672422,2.5,"1,000,000+",Free,2.99,Everyone,Education,2024-08-08,5.0 and up
+App_805,TOOLS,3.3,3100508,2.5,"10,000,000+",Free,0.99,Mature 17+,Action,2024-05-02,4.1 and up
+App_806,BUSINESS,4.7,4789135,2.5,"1,000,000+",Free,1.99,Mature 17+,Health,2024-07-05,8.0 and up
+App_807,TOOLS,3.1,4670442,2.5,"1,000+",Free,4.99,Everyone,Music,2024-09-18,5.0 and up
+App_808,ENTERTAINMENT,3.9,1023930,2.5,"1,000,000+",Paid,1.99,Everyone,Puzzle,2024-09-29,4.1 and up
+App_809,PRODUCTIVITY,4.1,3811676,2.5,"10,000+",Free,4.99,Mature 17+,Health,2024-02-29,5.0 and up
+App_810,BUSINESS,3.1,3819722,2.5,"10,000+",Free,0.99,Mature 17+,Tools,2024-05-04,8.0 and up
+App_811,EDUCATION,4.9,1033678,2.5,"10,000,000+",Paid,0.99,Everyone,Education,2024-12-02,6.0 and up
+App_812,EDUCATION,4.4,2473209,2.5,"1,000,000+",Free,0.99,Everyone,Action,2024-12-06,4.1 and up
+App_813,GAME,3.9,297685,2.5,"10,000,000+",Free,1.99,Mature 17+,Tools,2024-02-20,4.1 and up
+App_814,ENTERTAINMENT,3.0,708185,2.5,"100,000+",Free,0.0,Mature 17+,Education,2024-06-26,4.1 and up
+App_815,FINANCE,2.6,3675012,2.5,"10,000+",Free,1.99,Mature 17+,Education,2024-05-18,4.1 and up
+App_816,ENTERTAINMENT,3.3,1867316,2.5,"10,000,000+",Paid,1.99,Everyone,Business,2024-11-22,4.1 and up
+App_817,PRODUCTIVITY,4.4,263635,2.5,"100,000+",Free,2.99,Mature 17+,Health,2024-06-18,4.1 and up
+App_818,TOOLS,3.2,842850,2.5,"10,000,000+",Free,2.99,Teen,Business,2024-02-08,8.0 and up
+App_819,EDUCATION,3.8,4394653,2.5,"1,000,000+",Free,1.99,Everyone,Education,2024-03-09,6.0 and up
+App_820,TOOLS,4.3,125365,2.5,"1,000,000+",Free,4.99,Mature 17+,Action,2024-08-23,8.0 and up
+App_821,TOOLS,2.8,4222112,2.5,"1,000,000+",Paid,2.99,Everyone,Puzzle,2024-02-17,8.0 and up
+App_822,TOOLS,4.2,615947,2.5,"1,000,000+",Free,1.99,Teen,Puzzle,2024-02-26,6.0 and up
+App_823,EDUCATION,2.7,1375617,2.5,"1,000+",Free,0.0,Everyone,Tools,2024-10-03,8.0 and up
+App_824,LIFESTYLE,4.9,19487,2.5,"100,000+",Free,4.99,Mature 17+,Health,2024-12-03,5.0 and up
+App_825,PRODUCTIVITY,3.7,3556220,2.5,"100,000+",Free,0.99,Teen,Music,2024-04-08,8.0 and up
+App_826,PRODUCTIVITY,2.9,2487121,2.5,"1,000,000+",Paid,1.99,Teen,Music,2024-01-15,4.1 and up
+App_827,BUSINESS,3.4,2009616,2.5,"1,000+",Free,1.99,Mature 17+,Puzzle,2024-11-20,5.0 and up
+App_828,ENTERTAINMENT,3.5,1559767,2.5,"1,000,000+",Free,4.99,Mature 17+,Education,2024-06-27,5.0 and up
+App_829,ENTERTAINMENT,4.4,4599419,2.5,"1,000+",Free,2.99,Mature 17+,Education,2024-11-27,6.0 and up
+App_830,HEALTH,4.4,3432217,2.5,"1,000,000+",Free,2.99,Everyone,Business,2024-03-02,8.0 and up
+App_831,ENTERTAINMENT,4.0,4467900,2.5,"10,000+",Free,2.99,Everyone,Health,2024-04-28,8.0 and up
+App_832,EDUCATION,2.8,1881307,2.5,"10,000+",Paid,0.99,Everyone,Business,2024-02-06,5.0 and up
+App_833,FINANCE,2.9,823769,2.5,"10,000,000+",Free,4.99,Mature 17+,Music,2024-05-13,8.0 and up
+App_834,GAME,2.7,3030865,2.5,"1,000,000+",Paid,4.99,Mature 17+,Puzzle,2024-01-26,8.0 and up
+App_835,HEALTH,3.9,4529285,2.5,"100,000+",Free,2.99,Everyone,Tools,2024-01-08,6.0 and up
+App_836,GAME,4.7,131194,2.5,"10,000,000+",Free,2.99,Teen,Education,2024-01-04,5.0 and up
+App_837,PRODUCTIVITY,3.6,1135637,2.5,"10,000+",Free,0.0,Everyone,Puzzle,2024-01-21,4.1 and up
+App_838,GAME,2.9,2247815,2.5,"1,000,000+",Free,0.0,Teen,Action,2024-05-28,5.0 and up
+App_839,GAME,3.9,245310,2.5,"10,000,000+",Paid,1.99,Mature 17+,Puzzle,2024-01-25,6.0 and up
+App_840,HEALTH,4.5,584020,2.5,"1,000,000+",Free,1.99,Mature 17+,Action,2024-05-22,6.0 and up
+App_841,BUSINESS,4.4,92046,2.5,"10,000+",Free,4.99,Everyone,Business,2024-09-01,6.0 and up
+App_842,TOOLS,4.7,853402,2.5,"10,000,000+",Free,4.99,Everyone,Business,2024-02-12,8.0 and up
+App_843,ENTERTAINMENT,3.2,281706,2.5,"10,000+",Free,0.99,Mature 17+,Music,2024-10-19,5.0 and up
+App_844,ENTERTAINMENT,3.0,3662350,2.5,"1,000+",Free,0.99,Everyone,Puzzle,2024-07-03,8.0 and up
+App_845,EDUCATION,4.7,1190466,2.5,"10,000+",Free,0.0,Mature 17+,Puzzle,2024-02-11,8.0 and up
+App_846,HEALTH,4.1,4429733,2.5,"1,000,000+",Free,1.99,Mature 17+,Action,2024-04-01,5.0 and up
+App_847,EDUCATION,3.3,990039,2.5,"100,000+",Free,0.0,Teen,Business,2024-11-12,6.0 and up
+App_848,FINANCE,4.4,154702,2.5,"10,000+",Free,0.0,Everyone,Action,2024-11-19,4.1 and up
+App_849,FINANCE,4.5,4457345,2.5,"100,000+",Free,1.99,Mature 17+,Business,2024-02-22,4.1 and up
+App_850,EDUCATION,4.0,2391108,2.5,"1,000+",Free,0.99,Everyone,Action,2024-03-24,5.0 and up
+App_851,HEALTH,4.2,1657898,2.5,"10,000,000+",Free,1.99,Teen,Business,2024-02-03,5.0 and up
+App_852,EDUCATION,3.4,2585927,2.5,"10,000,000+",Paid,2.99,Teen,Action,2024-03-16,6.0 and up
+App_853,ENTERTAINMENT,3.8,4837241,2.5,"100,000+",Free,2.99,Everyone,Tools,2024-12-18,5.0 and up
+App_854,LIFESTYLE,3.8,1824974,2.5,"10,000,000+",Free,2.99,Everyone,Business,2024-07-15,5.0 and up
+App_855,GAME,4.6,1388519,2.5,"10,000+",Free,4.99,Mature 17+,Health,2024-10-12,6.0 and up
+App_856,LIFESTYLE,4.6,3754552,2.5,"100,000+",Free,0.99,Teen,Action,2024-03-28,6.0 and up
+App_857,HEALTH,4.6,2498224,2.5,"1,000,000+",Free,0.99,Teen,Puzzle,2024-08-22,8.0 and up
+App_858,LIFESTYLE,2.5,4678093,2.5,"10,000+",Free,4.99,Teen,Music,2024-08-19,5.0 and up
+App_859,FINANCE,4.4,4764822,2.5,"10,000+",Free,0.0,Everyone,Health,2024-01-07,4.1 and up
+App_860,PRODUCTIVITY,4.4,4573584,2.5,"10,000+",Free,2.99,Mature 17+,Health,2024-10-18,5.0 and up
+App_861,GAME,4.2,4108512,2.5,"1,000,000+",Free,2.99,Everyone,Action,2024-02-07,4.1 and up
+App_862,TOOLS,4.4,1568156,2.5,"1,000+",Free,0.0,Everyone,Music,2024-02-21,4.1 and up
+App_863,HEALTH,4.6,483465,2.5,"10,000,000+",Paid,1.99,Everyone,Puzzle,2024-05-22,4.1 and up
+App_864,GAME,3.7,4036415,2.5,"100,000+",Free,1.99,Mature 17+,Health,2024-08-08,8.0 and up
+App_865,LIFESTYLE,3.8,547229,2.5,"1,000+",Free,0.99,Everyone,Puzzle,2024-08-27,6.0 and up
+App_866,FINANCE,2.8,2186278,2.5,"100,000+",Paid,4.99,Teen,Business,2024-05-22,6.0 and up
+App_867,BUSINESS,3.5,4445985,2.5,"10,000,000+",Free,0.99,Teen,Tools,2024-12-14,8.0 and up
+App_868,TOOLS,4.1,3987803,2.5,"1,000,000+",Free,1.99,Teen,Music,2024-12-28,6.0 and up
+App_869,GAME,4.5,1624787,2.5,"10,000+",Free,0.0,Mature 17+,Tools,2024-02-18,8.0 and up
+App_870,FINANCE,3.0,2871666,2.5,"10,000+",Paid,0.99,Everyone,Education,2024-10-03,5.0 and up
+App_871,FINANCE,2.8,4708579,2.5,"1,000,000+",Free,2.99,Mature 17+,Business,2024-09-27,8.0 and up
+App_872,LIFESTYLE,4.2,3855943,2.5,"1,000+",Paid,2.99,Everyone,Music,2024-01-14,6.0 and up
+App_873,ENTERTAINMENT,2.5,4822694,2.5,"1,000+",Free,0.0,Teen,Action,2024-10-24,6.0 and up
+App_874,LIFESTYLE,2.9,2326739,2.5,"100,000+",Free,1.99,Everyone,Tools,2024-01-15,5.0 and up
+App_875,ENTERTAINMENT,2.6,3907139,2.5,"1,000,000+",Paid,2.99,Everyone,Action,2024-08-21,8.0 and up
+App_876,ENTERTAINMENT,2.9,95566,2.5,"1,000+",Free,2.99,Everyone,Puzzle,2024-03-03,5.0 and up
+App_877,TOOLS,3.0,1897893,2.5,"1,000,000+",Free,4.99,Mature 17+,Health,2024-07-14,4.1 and up
+App_878,LIFESTYLE,3.5,3470002,2.5,"10,000,000+",Free,0.99,Everyone,Tools,2024-01-27,8.0 and up
+App_879,BUSINESS,3.5,1555547,2.5,"10,000+",Free,1.99,Everyone,Education,2024-04-02,5.0 and up
+App_880,EDUCATION,4.7,652765,2.5,"10,000+",Paid,0.99,Everyone,Action,2024-04-14,5.0 and up
+App_881,EDUCATION,3.8,3666354,2.5,"10,000+",Free,1.99,Mature 17+,Music,2024-11-04,6.0 and up
+App_882,LIFESTYLE,4.3,3526372,2.5,"1,000,000+",Free,2.99,Mature 17+,Tools,2024-02-21,8.0 and up
+App_883,LIFESTYLE,2.8,743098,2.5,"1,000,000+",Free,4.99,Mature 17+,Tools,2024-11-14,4.1 and up
+App_884,TOOLS,3.1,4844757,2.5,"100,000+",Free,0.99,Everyone,Health,2024-06-29,4.1 and up
+App_885,LIFESTYLE,4.3,2595844,2.5,"10,000+",Free,2.99,Teen,Health,2024-02-26,8.0 and up
+App_886,ENTERTAINMENT,2.6,59788,2.5,"100,000+",Free,1.99,Teen,Music,2024-04-29,8.0 and up
+App_887,FINANCE,3.7,1094419,2.5,"10,000+",Free,0.99,Teen,Health,2024-11-03,5.0 and up
+App_888,FINANCE,4.0,2653538,2.5,"100,000+",Paid,0.99,Everyone,Action,2024-12-28,6.0 and up
+App_889,ENTERTAINMENT,4.0,4104409,2.5,"100,000+",Free,2.99,Teen,Music,2024-02-12,6.0 and up
+App_890,HEALTH,2.6,1513093,2.5,"10,000,000+",Free,0.99,Teen,Music,2024-05-14,6.0 and up
+App_891,ENTERTAINMENT,3.3,3342113,2.5,"100,000+",Paid,4.99,Teen,Puzzle,2024-09-16,8.0 and up
+App_892,BUSINESS,4.1,2173523,2.5,"1,000,000+",Free,4.99,Everyone,Education,2024-07-15,6.0 and up
+App_893,PRODUCTIVITY,2.9,1398959,2.5,"100,000+",Free,2.99,Teen,Tools,2024-05-12,5.0 and up
+App_894,GAME,4.2,522164,2.5,"10,000+",Free,1.99,Teen,Puzzle,2024-09-11,8.0 and up
+App_895,ENTERTAINMENT,4.4,3468592,2.5,"100,000+",Paid,2.99,Everyone,Education,2024-08-07,8.0 and up
+App_896,LIFESTYLE,5.0,1011940,2.5,"1,000+",Free,4.99,Mature 17+,Music,2024-12-01,6.0 and up
+App_897,LIFESTYLE,3.0,1079535,2.5,"10,000+",Paid,0.0,Teen,Tools,2024-02-10,4.1 and up
+App_898,TOOLS,4.6,1785828,2.5,"1,000+",Free,0.0,Mature 17+,Health,2024-09-11,4.1 and up
+App_899,ENTERTAINMENT,3.8,2951730,2.5,"10,000+",Free,0.99,Teen,Education,2024-01-02,5.0 and up
+App_900,TOOLS,3.4,1160127,2.5,"1,000,000+",Free,0.99,Everyone,Music,2024-07-13,6.0 and up
+App_901,ENTERTAINMENT,2.8,2082973,2.5,"1,000,000+",Free,0.0,Mature 17+,Music,2024-08-29,6.0 and up
+App_902,GAME,4.3,4256156,2.5,"1,000,000+",Free,4.99,Mature 17+,Puzzle,2024-05-28,8.0 and up
+App_903,PRODUCTIVITY,3.1,2585181,2.5,"1,000+",Free,0.99,Mature 17+,Puzzle,2024-07-16,8.0 and up
+App_904,FINANCE,3.4,1281516,2.5,"10,000,000+",Free,2.99,Mature 17+,Health,2024-10-25,6.0 and up
+App_905,EDUCATION,2.7,289144,2.5,"10,000+",Free,2.99,Teen,Business,2024-09-01,8.0 and up
+App_906,ENTERTAINMENT,4.5,2768715,2.5,"1,000,000+",Free,4.99,Teen,Action,2024-12-03,6.0 and up
+App_907,PRODUCTIVITY,4.4,4324670,2.5,"10,000+",Free,0.99,Mature 17+,Business,2024-04-17,5.0 and up
+App_908,FINANCE,4.3,2866079,2.5,"1,000+",Free,2.99,Teen,Business,2024-07-30,8.0 and up
+App_909,HEALTH,3.2,737100,2.5,"10,000,000+",Free,0.99,Mature 17+,Tools,2024-06-04,6.0 and up
+App_910,GAME,2.9,914575,2.5,"1,000+",Free,0.99,Mature 17+,Tools,2024-01-26,8.0 and up
+App_911,TOOLS,4.1,3835608,2.5,"10,000+",Free,2.99,Everyone,Health,2024-03-22,5.0 and up
+App_912,TOOLS,3.7,4982052,2.5,"10,000,000+",Free,0.0,Mature 17+,Tools,2024-03-23,8.0 and up
+App_913,LIFESTYLE,2.9,1052435,2.5,"10,000,000+",Free,2.99,Teen,Education,2024-05-10,6.0 and up
+App_914,FINANCE,4.2,777577,2.5,"1,000+",Paid,4.99,Mature 17+,Health,2024-11-24,8.0 and up
+App_915,HEALTH,5.0,2716217,2.5,"1,000,000+",Free,1.99,Everyone,Health,2024-04-09,8.0 and up
+App_916,PRODUCTIVITY,4.4,1749746,2.5,"10,000+",Free,2.99,Teen,Music,2024-09-12,6.0 and up
+App_917,GAME,4.3,1570244,2.5,"100,000+",Free,0.99,Everyone,Music,2024-02-18,4.1 and up
+App_918,FINANCE,4.9,51717,2.5,"100,000+",Free,0.99,Everyone,Music,2024-03-03,8.0 and up
+App_919,HEALTH,3.0,280843,2.5,"1,000+",Free,2.99,Mature 17+,Action,2024-11-06,8.0 and up
+App_920,EDUCATION,3.9,3699110,2.5,"10,000+",Free,1.99,Everyone,Education,2024-10-16,5.0 and up
+App_921,ENTERTAINMENT,4.9,1088973,2.5,"10,000+",Free,2.99,Everyone,Education,2024-04-14,4.1 and up
+App_922,TOOLS,2.9,1877155,2.5,"1,000+",Free,1.99,Teen,Music,2024-04-14,5.0 and up
+App_923,PRODUCTIVITY,4.3,2283795,2.5,"10,000+",Free,1.99,Everyone,Business,2024-11-20,6.0 and up
+App_924,TOOLS,4.0,3994430,2.5,"1,000,000+",Free,4.99,Mature 17+,Action,2024-01-15,6.0 and up
+App_925,PRODUCTIVITY,4.0,834884,2.5,"1,000+",Free,0.99,Mature 17+,Business,2024-06-23,5.0 and up
+App_926,LIFESTYLE,4.2,889503,2.5,"1,000,000+",Free,0.99,Mature 17+,Puzzle,2024-09-15,8.0 and up
+App_927,PRODUCTIVITY,4.8,778809,2.5,"10,000+",Paid,1.99,Everyone,Education,2024-07-29,4.1 and up
+App_928,TOOLS,4.5,3533726,2.5,"1,000+",Free,0.99,Teen,Education,2024-09-15,5.0 and up
+App_929,PRODUCTIVITY,2.6,3507457,2.5,"10,000+",Free,0.0,Mature 17+,Business,2024-04-11,5.0 and up
+App_930,EDUCATION,4.6,879469,2.5,"1,000+",Paid,1.99,Everyone,Action,2024-09-16,6.0 and up
+App_931,LIFESTYLE,3.1,2181543,2.5,"10,000+",Free,0.99,Mature 17+,Education,2024-12-09,8.0 and up
+App_932,PRODUCTIVITY,3.4,1822754,2.5,"1,000,000+",Free,0.0,Mature 17+,Business,2024-06-07,4.1 and up
+App_933,FINANCE,3.7,2291146,2.5,"1,000,000+",Free,4.99,Teen,Health,2024-02-14,5.0 and up
+App_934,BUSINESS,3.7,3641654,2.5,"10,000+",Paid,0.99,Mature 17+,Health,2024-10-27,4.1 and up
+App_935,HEALTH,3.6,3843149,2.5,"1,000+",Free,0.0,Teen,Tools,2024-09-07,4.1 and up
+App_936,BUSINESS,4.8,3093520,2.5,"100,000+",Free,2.99,Everyone,Action,2024-11-26,5.0 and up
+App_937,BUSINESS,4.3,4932410,2.5,"1,000,000+",Free,2.99,Mature 17+,Business,2024-06-13,4.1 and up
+App_938,GAME,4.1,4185234,2.5,"1,000,000+",Paid,0.0,Everyone,Tools,2024-07-11,6.0 and up
+App_939,EDUCATION,2.6,4447405,2.5,"100,000+",Free,1.99,Everyone,Health,2024-01-09,8.0 and up
+App_940,FINANCE,4.8,852060,2.5,"10,000+",Free,1.99,Everyone,Action,2024-03-05,8.0 and up
+App_941,ENTERTAINMENT,4.8,2361226,2.5,"1,000+",Paid,0.99,Mature 17+,Tools,2024-10-08,8.0 and up
+App_942,PRODUCTIVITY,4.5,2567597,2.5,"10,000+",Free,2.99,Teen,Music,2024-06-29,6.0 and up
+App_943,HEALTH,2.5,4795474,2.5,"10,000,000+",Free,1.99,Mature 17+,Action,2024-10-08,6.0 and up
+App_944,LIFESTYLE,2.6,264247,2.5,"1,000,000+",Free,1.99,Everyone,Puzzle,2024-10-05,6.0 and up
+App_945,FINANCE,3.1,4469363,2.5,"10,000,000+",Free,2.99,Teen,Music,2024-01-30,8.0 and up
+App_946,TOOLS,2.8,4840361,2.5,"1,000,000+",Paid,4.99,Everyone,Tools,2024-09-22,4.1 and up
+App_947,ENTERTAINMENT,3.5,2514729,2.5,"1,000,000+",Free,1.99,Teen,Business,2024-11-23,6.0 and up
+App_948,GAME,4.8,1908921,2.5,"10,000,000+",Free,0.0,Mature 17+,Music,2024-08-04,5.0 and up
+App_949,GAME,3.7,4002991,2.5,"10,000,000+",Free,0.99,Teen,Music,2024-11-15,6.0 and up
+App_950,FINANCE,2.5,1419930,2.5,"10,000+",Free,1.99,Mature 17+,Tools,2024-04-14,5.0 and up
+App_951,BUSINESS,3.2,2179451,2.5,"10,000,000+",Paid,1.99,Everyone,Business,2024-07-02,8.0 and up
+App_952,TOOLS,2.6,2737956,2.5,"10,000+",Free,4.99,Teen,Business,2024-11-25,5.0 and up
+App_953,GAME,2.6,3748539,2.5,"10,000+",Free,0.0,Everyone,Health,2024-05-27,6.0 and up
+App_954,HEALTH,3.2,3558828,2.5,"10,000+",Free,0.99,Teen,Puzzle,2024-04-14,6.0 and up
+App_955,GAME,3.2,1449476,2.5,"1,000,000+",Paid,1.99,Mature 17+,Business,2024-02-16,4.1 and up
+App_956,LIFESTYLE,4.5,1361246,2.5,"1,000,000+",Free,0.99,Teen,Education,2024-03-27,8.0 and up
+App_957,PRODUCTIVITY,4.9,2088072,2.5,"10,000,000+",Free,2.99,Teen,Education,2024-11-04,5.0 and up
+App_958,GAME,3.4,2356642,2.5,"1,000,000+",Free,1.99,Mature 17+,Puzzle,2024-05-08,8.0 and up
+App_959,LIFESTYLE,3.6,1834917,2.5,"10,000,000+",Free,1.99,Mature 17+,Action,2024-09-14,6.0 and up
+App_960,FINANCE,4.6,3861784,2.5,"1,000,000+",Free,2.99,Mature 17+,Tools,2024-11-09,4.1 and up
+App_961,FINANCE,3.2,3633805,2.5,"1,000+",Free,4.99,Teen,Action,2024-05-26,6.0 and up
+App_962,ENTERTAINMENT,2.9,3477094,2.5,"1,000+",Free,1.99,Everyone,Education,2024-03-12,6.0 and up
+App_963,GAME,4.6,4327812,2.5,"10,000,000+",Free,0.99,Teen,Business,2024-05-19,6.0 and up
+App_964,HEALTH,2.6,3399762,2.5,"1,000,000+",Free,0.0,Teen,Puzzle,2024-01-27,5.0 and up
+App_965,GAME,4.0,3800996,2.5,"1,000,000+",Paid,0.99,Everyone,Action,2024-01-29,6.0 and up
+App_966,HEALTH,3.9,723868,2.5,"10,000+",Free,4.99,Mature 17+,Action,2024-09-27,8.0 and up
+App_967,EDUCATION,3.4,2818917,2.5,"100,000+",Paid,0.0,Teen,Tools,2024-06-22,8.0 and up
+App_968,ENTERTAINMENT,3.3,44826,2.5,"10,000,000+",Free,0.99,Everyone,Music,2024-09-09,4.1 and up
+App_969,EDUCATION,4.4,4148,2.5,"100,000+",Free,0.99,Mature 17+,Education,2024-02-29,8.0 and up
+App_970,GAME,2.7,4163970,2.5,"100,000+",Paid,2.99,Mature 17+,Business,2024-04-16,6.0 and up
+App_971,ENTERTAINMENT,3.1,3236914,2.5,"10,000,000+",Free,4.99,Teen,Puzzle,2024-08-07,6.0 and up
+App_972,EDUCATION,4.3,4991197,2.5,"1,000,000+",Free,2.99,Mature 17+,Action,2024-09-15,8.0 and up
+App_973,BUSINESS,3.9,3864054,2.5,"10,000,000+",Paid,0.0,Mature 17+,Tools,2024-05-25,4.1 and up
+App_974,GAME,2.8,221562,2.5,"100,000+",Free,2.99,Everyone,Music,2024-02-21,4.1 and up
+App_975,EDUCATION,4.7,43774,2.5,"1,000,000+",Free,4.99,Everyone,Education,2024-02-29,8.0 and up
+App_976,BUSINESS,3.5,2220192,2.5,"1,000+",Free,1.99,Mature 17+,Education,2024-02-03,5.0 and up
+App_977,BUSINESS,4.6,1897961,2.5,"10,000,000+",Free,1.99,Everyone,Tools,2024-04-05,5.0 and up
+App_978,FINANCE,4.5,316472,2.5,"10,000,000+",Free,0.0,Mature 17+,Puzzle,2024-03-29,5.0 and up
+App_979,GAME,4.1,889865,2.5,"1,000,000+",Free,1.99,Teen,Action,2024-11-11,5.0 and up
+App_980,BUSINESS,3.7,1414728,2.5,"1,000+",Free,2.99,Everyone,Puzzle,2024-08-18,8.0 and up
+App_981,FINANCE,4.9,2157290,2.5,"1,000+",Free,0.0,Mature 17+,Tools,2024-10-01,4.1 and up
+App_982,EDUCATION,2.9,808311,2.5,"1,000,000+",Free,4.99,Mature 17+,Tools,2024-09-02,6.0 and up
+App_983,LIFESTYLE,4.3,4180276,2.5,"10,000+",Free,0.0,Everyone,Puzzle,2024-04-20,6.0 and up
+App_984,GAME,3.0,4346667,2.5,"10,000,000+",Free,0.0,Everyone,Health,2024-08-21,8.0 and up
+App_985,ENTERTAINMENT,3.3,112945,2.5,"10,000,000+",Free,0.99,Teen,Music,2024-10-04,6.0 and up
+App_986,HEALTH,3.3,4051899,2.5,"100,000+",Free,0.99,Mature 17+,Education,2024-06-14,5.0 and up
+App_987,HEALTH,4.9,1338316,2.5,"1,000,000+",Free,0.0,Teen,Health,2024-05-07,4.1 and up
+App_988,EDUCATION,4.9,2150215,2.5,"100,000+",Free,1.99,Teen,Business,2024-08-24,8.0 and up
+App_989,EDUCATION,3.0,4280660,2.5,"100,000+",Free,0.99,Teen,Education,2024-10-17,4.1 and up
+App_990,BUSINESS,2.6,4523545,2.5,"1,000+",Paid,4.99,Everyone,Education,2024-04-16,8.0 and up
+App_991,GAME,4.3,4600155,2.5,"10,000,000+",Free,2.99,Teen,Music,2024-05-07,8.0 and up
+App_992,HEALTH,3.5,4752999,2.5,"100,000+",Free,0.99,Everyone,Business,2024-07-13,8.0 and up
+App_993,HEALTH,2.7,1369401,2.5,"1,000+",Free,0.0,Everyone,Action,2024-12-04,8.0 and up
+App_994,BUSINESS,4.2,4310528,2.5,"1,000,000+",Free,1.99,Teen,Business,2024-05-22,4.1 and up
+App_995,HEALTH,3.9,2582163,2.5,"100,000+",Paid,2.99,Teen,Action,2024-04-20,6.0 and up
+App_996,ENTERTAINMENT,5.0,853339,2.5,"10,000,000+",Paid,0.99,Mature 17+,Business,2024-03-30,8.0 and up
+App_997,GAME,3.1,1730095,2.5,"100,000+",Free,1.99,Teen,Puzzle,2024-09-07,5.0 and up
+App_998,PRODUCTIVITY,3.5,2026120,2.5,"1,000,000+",Free,1.99,Mature 17+,Tools,2024-10-06,8.0 and up
+App_999,HEALTH,3.9,3084572,2.5,"100,000+",Paid,1.99,Teen,Business,2024-11-28,4.1 and up
+App_1000,EDUCATION,4.5,4595140,2.5,"10,000,000+",Paid,0.0,Teen,Health,2024-08-11,8.0 and up
+App_1001,ENTERTAINMENT,3.9,436552,2.5,"1,000+",Free,4.99,Teen,Health,2024-04-10,5.0 and up
+App_1002,HEALTH,4.0,4566711,2.5,"10,000,000+",Free,1.99,Teen,Music,2024-05-11,4.1 and up
+App_1003,ENTERTAINMENT,3.1,4139404,2.5,"1,000+",Free,2.99,Mature 17+,Tools,2024-01-13,8.0 and up
+App_1004,FINANCE,4.6,2980682,2.5,"10,000+",Paid,0.99,Mature 17+,Tools,2024-04-07,5.0 and up
+App_1005,PRODUCTIVITY,3.6,2062097,2.5,"10,000,000+",Free,2.99,Teen,Action,2024-04-29,4.1 and up
+App_1006,TOOLS,2.9,426684,2.5,"10,000,000+",Free,0.0,Teen,Education,2024-10-19,8.0 and up
+App_1007,EDUCATION,4.2,82419,2.5,"1,000,000+",Free,0.0,Mature 17+,Music,2024-10-30,5.0 and up
+App_1008,EDUCATION,3.0,3628114,2.5,"100,000+",Free,2.99,Everyone,Health,2024-07-17,4.1 and up
+App_1009,GAME,2.7,4893190,2.5,"1,000+",Free,4.99,Everyone,Health,2024-01-01,8.0 and up
+App_1010,ENTERTAINMENT,4.7,1995151,2.5,"1,000+",Paid,0.0,Everyone,Action,2024-02-29,4.1 and up
+App_1011,BUSINESS,3.7,3825268,2.5,"1,000,000+",Free,0.0,Mature 17+,Health,2024-09-06,5.0 and up
+App_1012,EDUCATION,4.4,3499711,2.5,"1,000,000+",Free,2.99,Mature 17+,Health,2024-05-19,8.0 and up
+App_1013,ENTERTAINMENT,3.2,1927726,2.5,"100,000+",Free,0.0,Everyone,Action,2024-05-28,8.0 and up
+App_1014,ENTERTAINMENT,4.5,1921682,2.5,"100,000+",Free,4.99,Everyone,Health,2024-02-13,8.0 and up
+App_1015,LIFESTYLE,2.8,1192513,2.5,"10,000,000+",Free,4.99,Teen,Education,2024-07-04,5.0 and up
+App_1016,LIFESTYLE,3.4,1133764,2.5,"10,000+",Free,4.99,Mature 17+,Puzzle,2024-04-17,6.0 and up
+App_1017,TOOLS,4.9,2903619,2.5,"100,000+",Free,0.99,Mature 17+,Music,2024-02-13,8.0 and up
+App_1018,FINANCE,4.5,1446260,2.5,"1,000,000+",Free,4.99,Everyone,Education,2024-03-18,5.0 and up
+App_1019,TOOLS,3.7,1643717,2.5,"100,000+",Free,4.99,Everyone,Education,2024-08-13,4.1 and up
+App_1020,HEALTH,3.3,4893101,2.5,"1,000+",Free,0.99,Mature 17+,Puzzle,2024-06-10,4.1 and up
+App_1021,BUSINESS,4.7,3800325,2.5,"10,000+",Paid,1.99,Teen,Tools,2024-10-07,5.0 and up
+App_1022,HEALTH,3.9,3151406,2.5,"10,000,000+",Paid,0.0,Everyone,Music,2024-09-09,6.0 and up
+App_1023,HEALTH,4.4,3368280,2.5,"1,000+",Free,4.99,Mature 17+,Education,2024-05-11,5.0 and up
+App_1024,GAME,4.4,2252651,2.5,"1,000+",Free,0.0,Mature 17+,Health,2024-05-23,4.1 and up
+App_1025,HEALTH,2.5,344136,2.5,"10,000+",Paid,2.99,Teen,Puzzle,2024-09-22,4.1 and up
+App_1026,TOOLS,2.8,2405524,2.5,"10,000,000+",Free,0.0,Teen,Tools,2024-04-18,8.0 and up
+App_1027,EDUCATION,4.1,1842370,2.5,"1,000,000+",Free,0.99,Everyone,Music,2024-07-12,6.0 and up
+App_1028,EDUCATION,2.9,1137421,2.5,"10,000,000+",Paid,0.0,Everyone,Business,2024-02-04,5.0 and up
+App_1029,LIFESTYLE,3.1,1670367,2.5,"100,000+",Free,0.0,Everyone,Action,2024-10-01,4.1 and up
+App_1030,BUSINESS,4.9,2912521,2.5,"1,000+",Free,0.0,Mature 17+,Health,2024-07-05,4.1 and up
+App_1031,BUSINESS,3.9,3330932,2.5,"100,000+",Paid,1.99,Everyone,Puzzle,2024-08-30,4.1 and up
+App_1032,GAME,4.4,3699519,2.5,"1,000,000+",Free,1.99,Mature 17+,Action,2024-09-20,5.0 and up
+App_1033,TOOLS,3.9,4155489,2.5,"100,000+",Free,2.99,Everyone,Tools,2024-01-10,5.0 and up
+App_1034,LIFESTYLE,3.9,4488165,2.5,"10,000,000+",Free,0.99,Teen,Tools,2024-06-14,6.0 and up
+App_1035,BUSINESS,2.7,3302208,2.5,"100,000+",Free,0.0,Teen,Business,2024-01-29,8.0 and up
+App_1036,EDUCATION,3.4,297996,2.5,"1,000,000+",Free,0.0,Mature 17+,Education,2024-09-27,8.0 and up
+App_1037,HEALTH,3.2,3766011,2.5,"1,000,000+",Free,0.0,Teen,Education,2024-03-27,8.0 and up
+App_1038,HEALTH,3.5,2465922,2.5,"1,000,000+",Paid,0.0,Mature 17+,Music,2024-01-23,4.1 and up
+App_1039,LIFESTYLE,4.5,2022794,2.5,"10,000,000+",Free,1.99,Mature 17+,Puzzle,2024-07-28,8.0 and up
+App_1040,TOOLS,3.4,853615,2.5,"1,000,000+",Free,2.99,Teen,Puzzle,2024-02-15,4.1 and up
+App_1041,TOOLS,3.6,2372958,2.5,"1,000+",Free,4.99,Mature 17+,Tools,2024-01-28,6.0 and up
+App_1042,FINANCE,3.5,1315833,2.5,"1,000,000+",Free,0.99,Teen,Music,2024-01-26,4.1 and up
+App_1043,PRODUCTIVITY,2.7,3433382,2.5,"100,000+",Free,0.0,Everyone,Action,2024-09-22,6.0 and up
+App_1044,BUSINESS,3.6,770702,2.5,"100,000+",Paid,2.99,Everyone,Education,2024-06-23,6.0 and up
+App_1045,TOOLS,3.0,428755,2.5,"100,000+",Paid,4.99,Teen,Education,2024-01-04,8.0 and up
+App_1046,EDUCATION,3.0,4832101,2.5,"10,000,000+",Free,2.99,Teen,Tools,2024-11-06,8.0 and up
+App_1047,LIFESTYLE,2.7,673822,2.5,"100,000+",Free,1.99,Teen,Puzzle,2024-11-17,4.1 and up
+App_1048,FINANCE,3.4,2932987,2.5,"10,000,000+",Free,4.99,Teen,Tools,2024-03-07,5.0 and up
+App_1049,ENTERTAINMENT,4.4,3570128,2.5,"10,000,000+",Free,2.99,Everyone,Puzzle,2024-05-14,8.0 and up
+App_1050,GAME,3.2,1358136,2.5,"1,000,000+",Free,1.99,Mature 17+,Music,2024-02-24,8.0 and up
+App_1051,ENTERTAINMENT,3.3,3817052,2.5,"1,000+",Free,2.99,Mature 17+,Business,2024-01-31,5.0 and up
+App_1052,HEALTH,4.1,4539180,2.5,"1,000,000+",Paid,2.99,Everyone,Action,2024-03-14,5.0 and up
+App_1053,GAME,3.0,4969421,2.5,"1,000,000+",Free,4.99,Mature 17+,Health,2024-01-19,8.0 and up
+App_1054,BUSINESS,4.7,536654,2.5,"10,000,000+",Free,1.99,Everyone,Business,2024-06-04,5.0 and up
+App_1055,EDUCATION,3.8,652426,2.5,"10,000,000+",Free,0.0,Mature 17+,Business,2024-12-02,4.1 and up
+App_1056,GAME,3.6,3147925,2.5,"100,000+",Free,0.99,Teen,Puzzle,2024-06-04,6.0 and up
+App_1057,PRODUCTIVITY,3.9,2773747,2.5,"100,000+",Free,4.99,Teen,Puzzle,2024-05-26,6.0 and up
+App_1058,ENTERTAINMENT,2.9,1707552,2.5,"1,000,000+",Free,1.99,Teen,Puzzle,2024-03-27,8.0 and up
+App_1059,BUSINESS,4.0,4191906,2.5,"10,000+",Free,2.99,Everyone,Business,2024-01-20,8.0 and up
+App_1060,PRODUCTIVITY,3.4,1474630,2.5,"10,000+",Free,1.99,Everyone,Tools,2024-09-25,4.1 and up
+App_1061,HEALTH,4.7,1174856,2.5,"100,000+",Free,0.99,Mature 17+,Action,2024-11-28,5.0 and up
+App_1062,PRODUCTIVITY,2.9,1992579,2.5,"10,000+",Free,0.99,Mature 17+,Tools,2024-02-12,8.0 and up
+App_1063,FINANCE,3.8,1849405,2.5,"100,000+",Free,0.0,Mature 17+,Puzzle,2024-11-01,6.0 and up
+App_1064,FINANCE,4.0,989346,2.5,"10,000,000+",Free,0.0,Everyone,Education,2024-01-28,4.1 and up
+App_1065,LIFESTYLE,2.6,4961600,2.5,"1,000,000+",Free,0.99,Mature 17+,Tools,2024-09-16,4.1 and up
+App_1066,BUSINESS,3.4,3138112,2.5,"1,000+",Free,4.99,Teen,Action,2024-01-22,5.0 and up
+App_1067,HEALTH,4.3,2450989,2.5,"1,000,000+",Free,4.99,Mature 17+,Education,2024-04-10,8.0 and up
+App_1068,TOOLS,4.6,3905523,2.5,"100,000+",Free,2.99,Teen,Action,2024-02-08,8.0 and up
+App_1069,FINANCE,3.3,2032826,2.5,"100,000+",Free,0.0,Everyone,Puzzle,2024-10-16,4.1 and up
+App_1070,BUSINESS,4.5,61763,2.5,"1,000,000+",Free,2.99,Teen,Tools,2024-12-18,6.0 and up
+App_1071,TOOLS,4.9,1071994,2.5,"100,000+",Free,0.0,Teen,Health,2024-10-26,8.0 and up
+App_1072,LIFESTYLE,4.6,4318430,2.5,"10,000+",Free,0.99,Teen,Music,2024-06-18,6.0 and up
+App_1073,PRODUCTIVITY,2.8,655506,2.5,"10,000+",Free,4.99,Everyone,Puzzle,2024-10-22,4.1 and up
+App_1074,FINANCE,4.3,2735100,2.5,"100,000+",Paid,4.99,Everyone,Business,2024-12-18,8.0 and up
+App_1075,BUSINESS,3.3,3205238,2.5,"100,000+",Free,0.99,Everyone,Health,2024-05-09,6.0 and up
+App_1076,GAME,5.0,2163359,2.5,"10,000+",Paid,2.99,Everyone,Business,2024-06-04,4.1 and up
+App_1077,TOOLS,3.7,494002,2.5,"100,000+",Free,2.99,Mature 17+,Action,2024-03-14,6.0 and up
+App_1078,PRODUCTIVITY,2.8,4980147,2.5,"100,000+",Free,1.99,Everyone,Business,2024-12-07,8.0 and up
+App_1079,FINANCE,4.3,76250,2.5,"1,000,000+",Paid,0.0,Teen,Health,2024-03-30,5.0 and up
+App_1080,HEALTH,3.3,4429909,2.5,"1,000+",Free,2.99,Everyone,Health,2024-03-07,6.0 and up
+App_1081,TOOLS,5.0,3891161,2.5,"10,000+",Free,0.99,Mature 17+,Puzzle,2024-08-23,5.0 and up
+App_1082,FINANCE,4.9,1327052,2.5,"1,000,000+",Free,2.99,Mature 17+,Education,2024-07-18,8.0 and up
+App_1083,TOOLS,4.1,1948071,2.5,"1,000+",Free,4.99,Mature 17+,Puzzle,2024-11-27,5.0 and up
+App_1084,PRODUCTIVITY,2.8,4385234,2.5,"100,000+",Free,0.0,Teen,Action,2024-08-14,4.1 and up
+App_1085,FINANCE,4.2,898342,2.5,"100,000+",Free,1.99,Everyone,Business,2024-12-13,5.0 and up
+App_1086,ENTERTAINMENT,2.7,879864,2.5,"1,000,000+",Paid,0.0,Everyone,Education,2024-08-20,6.0 and up
+App_1087,BUSINESS,2.6,4025952,2.5,"100,000+",Free,4.99,Everyone,Tools,2024-09-22,6.0 and up
+App_1088,PRODUCTIVITY,4.6,2534967,2.5,"10,000,000+",Paid,4.99,Teen,Music,2024-03-26,5.0 and up
+App_1089,TOOLS,3.0,163197,2.5,"1,000,000+",Paid,4.99,Teen,Health,2024-04-11,4.1 and up
+App_1090,HEALTH,3.4,4649464,2.5,"1,000+",Free,4.99,Mature 17+,Education,2024-08-01,8.0 and up
+App_1091,GAME,4.9,4703865,2.5,"1,000,000+",Free,0.99,Mature 17+,Tools,2024-04-17,5.0 and up
+App_1092,TOOLS,3.3,1562528,2.5,"10,000+",Paid,1.99,Everyone,Education,2024-06-13,6.0 and up
+App_1093,BUSINESS,3.2,1682688,2.5,"1,000,000+",Paid,4.99,Teen,Puzzle,2024-03-31,6.0 and up
+App_1094,FINANCE,4.8,167537,2.5,"100,000+",Free,4.99,Teen,Tools,2024-07-10,5.0 and up
+App_1095,GAME,2.8,2744814,2.5,"100,000+",Free,2.99,Everyone,Music,2024-11-30,5.0 and up
+App_1096,EDUCATION,4.4,1587829,2.5,"10,000,000+",Free,1.99,Everyone,Health,2024-03-26,5.0 and up
+App_1097,TOOLS,5.0,1520383,2.5,"10,000,000+",Free,0.0,Mature 17+,Action,2024-08-09,8.0 and up
+App_1098,LIFESTYLE,4.8,594567,2.5,"10,000,000+",Free,1.99,Mature 17+,Action,2024-12-28,6.0 and up
+App_1099,EDUCATION,4.1,990131,2.5,"1,000+",Free,1.99,Mature 17+,Education,2024-04-10,6.0 and up
+App_1100,TOOLS,3.3,3449340,2.5,"10,000,000+",Free,1.99,Everyone,Tools,2024-08-13,6.0 and up
+App_1101,ENTERTAINMENT,3.1,1725059,2.5,"1,000+",Free,4.99,Everyone,Education,2024-12-29,8.0 and up
+App_1102,LIFESTYLE,4.5,3245715,2.5,"10,000,000+",Free,4.99,Mature 17+,Business,2024-02-29,4.1 and up
+App_1103,GAME,4.7,483452,2.5,"1,000+",Free,0.99,Mature 17+,Music,2024-09-06,6.0 and up
+App_1104,HEALTH,3.8,4109555,2.5,"1,000,000+",Free,0.0,Teen,Health,2024-02-17,6.0 and up
+App_1105,ENTERTAINMENT,3.1,1420837,2.5,"1,000,000+",Free,2.99,Teen,Education,2024-04-26,4.1 and up
+App_1106,EDUCATION,2.8,1956884,2.5,"100,000+",Free,1.99,Mature 17+,Business,2024-08-14,8.0 and up
+App_1107,FINANCE,2.7,3931824,2.5,"1,000+",Free,0.0,Mature 17+,Tools,2024-12-27,4.1 and up
+App_1108,BUSINESS,4.3,4688128,2.5,"10,000+",Free,0.0,Teen,Music,2024-02-02,4.1 and up
+App_1109,HEALTH,3.6,1751807,2.5,"100,000+",Paid,0.99,Mature 17+,Health,2024-02-13,4.1 and up
+App_1110,ENTERTAINMENT,4.8,97416,2.5,"1,000,000+",Free,2.99,Teen,Action,2024-06-13,4.1 and up
+App_1111,FINANCE,4.3,3452824,2.5,"1,000+",Free,1.99,Teen,Business,2024-12-10,8.0 and up
+App_1112,FINANCE,3.0,3772837,2.5,"10,000,000+",Free,2.99,Teen,Tools,2024-10-18,8.0 and up
+App_1113,TOOLS,4.0,4578897,2.5,"10,000+",Paid,0.99,Everyone,Music,2024-12-02,4.1 and up
+App_1114,ENTERTAINMENT,3.6,1021446,2.5,"1,000,000+",Free,4.99,Everyone,Business,2024-12-09,5.0 and up
+App_1115,GAME,3.9,2891922,2.5,"100,000+",Free,0.0,Mature 17+,Education,2024-10-13,5.0 and up
+App_1116,LIFESTYLE,4.3,1609194,2.5,"1,000+",Free,1.99,Teen,Puzzle,2024-12-29,5.0 and up
+App_1117,LIFESTYLE,4.5,4798803,2.5,"10,000+",Free,4.99,Everyone,Action,2024-08-12,5.0 and up
+App_1118,EDUCATION,4.6,4184248,2.5,"1,000+",Free,0.99,Mature 17+,Education,2024-10-12,6.0 and up
+App_1119,EDUCATION,3.1,2328486,2.5,"10,000,000+",Free,2.99,Mature 17+,Education,2024-07-22,8.0 and up
+App_1120,LIFESTYLE,2.6,484283,2.5,"100,000+",Free,0.0,Mature 17+,Tools,2024-06-20,8.0 and up
+App_1121,GAME,4.3,2403243,2.5,"1,000+",Free,1.99,Mature 17+,Tools,2024-01-12,4.1 and up
+App_1122,BUSINESS,2.8,2822246,2.5,"1,000,000+",Free,4.99,Mature 17+,Music,2024-11-02,6.0 and up
+App_1123,PRODUCTIVITY,3.3,688342,2.5,"100,000+",Free,4.99,Teen,Tools,2024-04-30,4.1 and up
+App_1124,BUSINESS,2.5,726458,2.5,"1,000,000+",Free,0.0,Mature 17+,Business,2024-08-31,4.1 and up
+App_1125,TOOLS,4.2,70473,2.5,"1,000+",Free,2.99,Teen,Action,2024-05-31,8.0 and up
+App_1126,PRODUCTIVITY,2.9,1133193,2.5,"100,000+",Free,0.99,Everyone,Education,2024-05-31,6.0 and up
+App_1127,PRODUCTIVITY,4.1,2866467,2.5,"1,000,000+",Free,2.99,Mature 17+,Music,2024-07-06,5.0 and up
+App_1128,ENTERTAINMENT,5.0,2431002,2.5,"10,000,000+",Free,2.99,Everyone,Action,2024-01-13,8.0 and up
+App_1129,GAME,2.7,4314390,2.5,"10,000,000+",Free,2.99,Teen,Tools,2024-03-31,6.0 and up
+App_1130,GAME,2.7,4849443,2.5,"1,000+",Paid,0.0,Teen,Tools,2024-07-18,6.0 and up
+App_1131,PRODUCTIVITY,3.4,4911418,2.5,"100,000+",Free,0.0,Everyone,Business,2024-03-14,8.0 and up
+App_1132,ENTERTAINMENT,4.7,4996556,2.5,"10,000+",Free,0.99,Mature 17+,Tools,2024-09-12,8.0 and up
+App_1133,PRODUCTIVITY,3.0,1160304,2.5,"100,000+",Free,2.99,Mature 17+,Education,2024-10-02,4.1 and up
+App_1134,HEALTH,3.4,4718794,2.5,"10,000,000+",Free,0.0,Everyone,Health,2024-11-23,4.1 and up
+App_1135,EDUCATION,2.7,2344698,2.5,"1,000,000+",Free,0.99,Everyone,Education,2024-11-24,4.1 and up
+App_1136,EDUCATION,4.4,36423,2.5,"10,000+",Free,0.99,Everyone,Education,2024-03-11,5.0 and up
+App_1137,BUSINESS,3.5,2948642,2.5,"1,000+",Free,2.99,Mature 17+,Tools,2024-03-18,8.0 and up
+App_1138,TOOLS,4.4,564440,2.5,"10,000+",Free,1.99,Mature 17+,Action,2024-10-10,6.0 and up
+App_1139,EDUCATION,4.8,3668518,2.5,"1,000+",Free,2.99,Mature 17+,Tools,2024-05-09,8.0 and up
+App_1140,FINANCE,3.1,4860329,2.5,"10,000+",Free,1.99,Everyone,Action,2024-02-12,6.0 and up
+App_1141,BUSINESS,4.5,3024025,2.5,"1,000+",Free,0.99,Mature 17+,Action,2024-01-08,5.0 and up
+App_1142,EDUCATION,2.6,915490,2.5,"1,000+",Free,0.0,Teen,Action,2024-01-13,8.0 and up
+App_1143,TOOLS,4.7,3641151,2.5,"10,000+",Free,4.99,Everyone,Music,2024-07-31,6.0 and up
+App_1144,GAME,4.1,3381925,2.5,"10,000+",Free,0.99,Mature 17+,Puzzle,2024-04-20,6.0 and up
+App_1145,GAME,4.7,42066,2.5,"1,000+",Paid,0.0,Everyone,Tools,2024-10-17,4.1 and up
+App_1146,PRODUCTIVITY,2.5,2148993,2.5,"10,000,000+",Paid,0.99,Teen,Music,2024-01-23,5.0 and up
+App_1147,HEALTH,2.9,2942785,2.5,"10,000+",Free,2.99,Teen,Education,2024-10-28,8.0 and up
+App_1148,GAME,3.5,773962,2.5,"100,000+",Free,1.99,Everyone,Music,2024-09-10,4.1 and up
+App_1149,ENTERTAINMENT,3.4,908390,2.5,"1,000,000+",Free,0.99,Everyone,Business,2024-01-15,5.0 and up
+App_1150,EDUCATION,3.1,4620802,2.5,"1,000+",Free,0.0,Teen,Health,2024-05-09,4.1 and up
+App_1151,ENTERTAINMENT,3.5,4826719,2.5,"1,000+",Free,2.99,Everyone,Action,2024-03-01,8.0 and up
+App_1152,TOOLS,2.8,1337778,2.5,"1,000,000+",Free,4.99,Teen,Tools,2024-04-24,6.0 and up
+App_1153,GAME,3.5,3090940,2.5,"10,000,000+",Free,2.99,Teen,Business,2024-11-15,8.0 and up
+App_1154,HEALTH,4.5,1860981,2.5,"1,000,000+",Paid,1.99,Mature 17+,Tools,2024-11-03,5.0 and up
+App_1155,TOOLS,3.7,1514111,2.5,"10,000+",Free,2.99,Everyone,Health,2024-11-20,8.0 and up
+App_1156,FINANCE,2.5,2330354,2.5,"1,000,000+",Free,4.99,Everyone,Business,2024-03-07,5.0 and up
+App_1157,FINANCE,3.6,1406160,2.5,"1,000+",Free,0.0,Mature 17+,Tools,2024-09-05,4.1 and up
+App_1158,ENTERTAINMENT,2.6,525015,2.5,"1,000,000+",Free,0.99,Teen,Education,2024-06-23,5.0 and up
+App_1159,PRODUCTIVITY,4.9,3419558,2.5,"100,000+",Free,1.99,Everyone,Action,2024-12-04,6.0 and up
+App_1160,BUSINESS,2.8,1229468,2.5,"10,000+",Free,4.99,Mature 17+,Business,2024-01-02,6.0 and up
+App_1161,PRODUCTIVITY,4.3,1167282,2.5,"1,000,000+",Free,1.99,Mature 17+,Education,2024-06-20,6.0 and up
+App_1162,PRODUCTIVITY,4.9,4756007,2.5,"1,000+",Free,2.99,Everyone,Action,2024-11-29,4.1 and up
+App_1163,HEALTH,4.6,3450097,2.5,"10,000+",Free,1.99,Mature 17+,Puzzle,2024-10-10,5.0 and up
+App_1164,GAME,4.2,1493561,2.5,"1,000+",Free,4.99,Teen,Education,2024-02-23,4.1 and up
+App_1165,HEALTH,4.6,3973323,2.5,"10,000,000+",Free,0.99,Mature 17+,Music,2024-03-07,8.0 and up
+App_1166,TOOLS,5.0,2436841,2.5,"100,000+",Free,0.99,Teen,Tools,2024-04-11,8.0 and up
+App_1167,FINANCE,4.1,4165265,2.5,"10,000,000+",Free,1.99,Teen,Action,2024-04-29,8.0 and up
+App_1168,HEALTH,3.9,1706527,2.5,"100,000+",Free,0.0,Everyone,Business,2024-07-09,8.0 and up
+App_1169,TOOLS,4.1,3197455,2.5,"1,000,000+",Free,1.99,Mature 17+,Health,2024-10-30,6.0 and up
+App_1170,HEALTH,3.8,3148501,2.5,"10,000+",Free,2.99,Teen,Business,2024-02-16,5.0 and up
+App_1171,PRODUCTIVITY,4.1,355064,2.5,"1,000,000+",Free,0.99,Teen,Music,2024-08-09,6.0 and up
+App_1172,EDUCATION,3.6,3201218,2.5,"100,000+",Paid,0.99,Mature 17+,Tools,2024-01-21,5.0 and up
+App_1173,ENTERTAINMENT,3.0,3839857,2.5,"100,000+",Free,0.99,Teen,Music,2024-06-06,5.0 and up
+App_1174,BUSINESS,2.8,1166680,2.5,"100,000+",Free,0.0,Mature 17+,Business,2024-12-13,4.1 and up
+App_1175,HEALTH,2.7,680677,2.5,"1,000+",Free,0.0,Everyone,Tools,2024-06-07,8.0 and up
+App_1176,BUSINESS,3.2,2848893,2.5,"10,000+",Paid,4.99,Teen,Health,2024-08-22,5.0 and up
+App_1177,LIFESTYLE,2.6,2014027,2.5,"1,000,000+",Free,1.99,Teen,Action,2024-05-29,8.0 and up
+App_1178,HEALTH,3.9,4639286,2.5,"1,000,000+",Free,1.99,Mature 17+,Tools,2024-09-13,8.0 and up
+App_1179,EDUCATION,3.2,4022271,2.5,"10,000,000+",Free,2.99,Mature 17+,Education,2024-06-13,8.0 and up
+App_1180,BUSINESS,4.6,4637213,2.5,"100,000+",Free,0.99,Mature 17+,Tools,2024-03-17,6.0 and up
+App_1181,HEALTH,2.7,4675529,2.5,"100,000+",Free,0.0,Mature 17+,Music,2024-03-25,8.0 and up
+App_1182,GAME,3.1,4894950,2.5,"100,000+",Free,2.99,Teen,Music,2024-02-15,5.0 and up
+App_1183,ENTERTAINMENT,4.3,1999492,2.5,"1,000,000+",Free,2.99,Everyone,Music,2024-02-16,6.0 and up
+App_1184,EDUCATION,4.0,3649254,2.5,"10,000,000+",Paid,0.0,Everyone,Health,2024-07-31,8.0 and up
+App_1185,BUSINESS,2.7,4614476,2.5,"1,000+",Free,1.99,Everyone,Tools,2024-02-28,4.1 and up
+App_1186,EDUCATION,4.7,3913407,2.5,"10,000+",Free,0.99,Everyone,Tools,2024-02-23,8.0 and up
+App_1187,TOOLS,4.7,3088599,2.5,"1,000+",Free,1.99,Mature 17+,Puzzle,2024-12-07,8.0 and up
+App_1188,ENTERTAINMENT,3.3,4239409,2.5,"1,000,000+",Free,2.99,Teen,Health,2024-01-12,6.0 and up
+App_1189,HEALTH,3.4,1521732,2.5,"100,000+",Free,0.99,Teen,Action,2024-07-10,5.0 and up
+App_1190,HEALTH,5.0,1862215,2.5,"10,000+",Free,4.99,Teen,Action,2024-01-06,8.0 and up
+App_1191,HEALTH,4.1,1465925,2.5,"1,000,000+",Free,2.99,Mature 17+,Action,2024-11-04,6.0 and up
+App_1192,ENTERTAINMENT,3.8,350077,2.5,"1,000,000+",Free,1.99,Teen,Action,2024-05-23,6.0 and up
+App_1193,GAME,4.6,1706836,2.5,"1,000,000+",Free,1.99,Mature 17+,Action,2024-12-11,5.0 and up
+App_1194,LIFESTYLE,3.2,2059395,2.5,"10,000+",Free,1.99,Teen,Business,2024-09-17,6.0 and up
+App_1195,FINANCE,3.6,1441256,2.5,"10,000+",Free,0.0,Everyone,Music,2024-03-13,5.0 and up
+App_1196,PRODUCTIVITY,3.2,2367332,2.5,"10,000,000+",Free,2.99,Mature 17+,Health,2024-06-22,4.1 and up
+App_1197,BUSINESS,4.5,1375655,2.5,"10,000,000+",Free,0.99,Teen,Business,2024-08-19,8.0 and up
+App_1198,GAME,3.9,3738868,2.5,"1,000+",Paid,1.99,Everyone,Health,2024-09-26,6.0 and up
+App_1199,BUSINESS,4.1,2270473,2.5,"10,000+",Paid,1.99,Everyone,Puzzle,2024-12-27,4.1 and up
+App_1200,HEALTH,3.1,834450,2.5,"10,000+",Free,0.0,Everyone,Tools,2024-08-09,6.0 and up
