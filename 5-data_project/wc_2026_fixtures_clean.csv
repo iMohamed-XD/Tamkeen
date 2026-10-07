@@ -1,0 +1,105 @@
+group,stage,team1,team2,venue,city,country,date,kickoff_et,team1_confederation,team1_fifa_rank,team1_coach,team2_confederation,team2_fifa_rank,team2_coach,manually_corrected
+A,Group Stage,Mexico,South Africa,Estadio Azteca,Mexico City,Mexico,2026-06-11,20:00 ET,CONCACAF,15.0,Javier Aguirre,CAF,60.0,Hugo Broos,False
+A,Group Stage,South Korea,Czechia,Estadio Akron,Guadalajara,Mexico,2026-06-11,22:00 ET,AFC,25.0,Hong Myung-bo,UEFA,41.0,Ivan Hasek,False
+A,Group Stage,South Korea,Mexico,Estadio Akron,Guadalajara,Mexico,2026-06-18,21:00 ET,AFC,25.0,Hong Myung-bo,CONCACAF,15.0,Javier Aguirre,False
+A,Group Stage,Czechia,South Africa,Estadio Akron,Guadalajara,Mexico,2026-06-18,18:00 ET,UEFA,41.0,Ivan Hasek,CAF,60.0,Hugo Broos,False
+A,Group Stage,Czechia,Mexico,Estadio Azteca,Mexico City,Mexico,2026-06-24,21:00 ET,UEFA,41.0,Ivan Hasek,CONCACAF,15.0,Javier Aguirre,True
+A,Group Stage,South Africa,South Korea,Estadio BBVA,Monterrey,Mexico,2026-06-24,21:00 ET,CAF,60.0,Hugo Broos,AFC,25.0,Hong Myung-bo,True
+B,Group Stage,Canada,Bosnia and Herzegovina,BMO Field,Toronto,Canada,2026-06-12,15:00 ET,CONCACAF,30.0,Jesse Marsch,UEFA,52.0,Sergej Barbarez,False
+B,Group Stage,Qatar,Switzerland,Lumen Field,Seattle,USA,2026-06-13,15:00 ET,AFC,35.0,Marquez Lopez,UEFA,19.0,Murat Yakin,False
+B,Group Stage,Switzerland,Bosnia and Herzegovina,BC Place,Vancouver,Canada,2026-06-18,15:00 ET,UEFA,19.0,Murat Yakin,UEFA,52.0,Sergej Barbarez,False
+B,Group Stage,Canada,Qatar,BC Place,Vancouver,Canada,2026-06-19,18:00 ET,CONCACAF,30.0,Jesse Marsch,AFC,35.0,Marquez Lopez,False
+B,Group Stage,Switzerland,Canada,BC Place,Vancouver,Canada,2026-06-24,18:00 ET,UEFA,19.0,Murat Yakin,CONCACAF,30.0,Jesse Marsch,False
+B,Group Stage,Bosnia and Herzegovina,Qatar,BMO Field,Toronto,Canada,2026-06-24,18:00 ET,UEFA,52.0,Sergej Barbarez,AFC,35.0,Marquez Lopez,False
+C,Group Stage,Brazil,Morocco,MetLife Stadium,East Rutherford,USA,2026-06-13,18:00 ET,CONMEBOL,6.0,Dorival Júnior,CAF,8.0,Walid Regragui,False
+C,Group Stage,Haiti,Scotland,Gillette Stadium,Foxborough,USA,2026-06-13,21:00 ET,CONCACAF,83.0,Marc Collat,UEFA,47.0,Steve Clarke,False
+C,Group Stage,Brazil,Haiti,Lincoln Financial Field,Philadelphia,USA,2026-06-19,21:00 ET,CONMEBOL,6.0,Dorival Júnior,CONCACAF,83.0,Marc Collat,True
+C,Group Stage,Scotland,Morocco,Gillette Stadium,Foxborough,USA,2026-06-19,18:00 ET,UEFA,47.0,Steve Clarke,CAF,8.0,Walid Regragui,True
+C,Group Stage,Scotland,Brazil,Hard Rock Stadium,Miami,USA,2026-06-24,18:00 ET,UEFA,47.0,Steve Clarke,CONMEBOL,6.0,Dorival Júnior,True
+C,Group Stage,Morocco,Haiti,Mercedes-Benz Stadium,Atlanta,USA,2026-06-24,18:00 ET,CAF,8.0,Walid Regragui,CONCACAF,83.0,Marc Collat,True
+D,Group Stage,USA,Paraguay,SoFi Stadium,Inglewood,USA,2026-06-12,21:00 ET,CONCACAF,16.0,Mauricio Pochettino,CONMEBOL,64.0,Gustavo Alfaro,False
+D,Group Stage,Australia,Türkiye,MetLife Stadium,East Rutherford,USA,2026-06-13,12:00 ET,AFC,26.0,Tony Popovic,UEFA,42.0,Vincenzo Montella,False
+D,Group Stage,USA,Australia,Lincoln Financial Field,Philadelphia,USA,2026-06-19,15:00 ET,CONCACAF,16.0,Mauricio Pochettino,AFC,26.0,Tony Popovic,False
+D,Group Stage,Türkiye,Paraguay,MetLife Stadium,East Rutherford,USA,2026-06-20,00:00 ET,UEFA,42.0,Vincenzo Montella,CONMEBOL,64.0,Gustavo Alfaro,False
+D,Group Stage,Türkiye,USA,SoFi Stadium,Inglewood,USA,2026-06-25,22:00 ET,UEFA,42.0,Vincenzo Montella,CONCACAF,16.0,Mauricio Pochettino,True
+D,Group Stage,Paraguay,Australia,Levi's Stadium,San Francisco,USA,2026-06-25,22:00 ET,CONMEBOL,64.0,Gustavo Alfaro,AFC,26.0,Tony Popovic,True
+E,Group Stage,Germany,Curaçao,NRG Stadium,Houston,USA,2026-06-14,13:00 ET,UEFA,10.0,Julian Nagelsmann,CONCACAF,81.0,Dick Advocaat,False
+E,Group Stage,Ivory Coast,Ecuador,Lincoln Financial Field,Philadelphia,USA,2026-06-14,19:00 ET,CAF,33.0,Emerse Faé,CONMEBOL,24.0,Sebastián Beccacece,False
+E,Group Stage,Germany,Ivory Coast,BMO Field,Toronto,Canada,2026-06-20,16:00 ET,UEFA,10.0,Julian Nagelsmann,CAF,33.0,Emerse Faé,True
+E,Group Stage,Ecuador,Curaçao,Mercedes-Benz Stadium,Atlanta,USA,2026-06-20,22:00 ET,CONMEBOL,24.0,Sebastián Beccacece,CONCACAF,81.0,Dick Advocaat,False
+E,Group Stage,Ecuador,Germany,MetLife Stadium,East Rutherford,USA,2026-06-25,16:00 ET,CONMEBOL,24.0,Sebastián Beccacece,UEFA,10.0,Julian Nagelsmann,True
+E,Group Stage,Curaçao,Ivory Coast,Lincoln Financial Field,Philadelphia,USA,2026-06-25,16:00 ET,CONCACAF,81.0,Dick Advocaat,CAF,33.0,Emerse Faé,True
+F,Group Stage,Netherlands,Japan,AT&T Stadium,Arlington,USA,2026-06-14,16:00 ET,UEFA,7.0,Ronald Koeman,AFC,18.0,Hajime Moriyasu,False
+F,Group Stage,Sweden,Tunisia,Estadio BBVA,Monterrey,Mexico,2026-06-14,20:00 ET,UEFA,39.0,Jon Dahl Tomasson,CAF,40.0,Faouzi Benzarti,False
+F,Group Stage,Netherlands,Sweden,NRG Stadium,Houston,USA,2026-06-20,17:00 ET,UEFA,7.0,Ronald Koeman,UEFA,39.0,Jon Dahl Tomasson,True
+F,Group Stage,Tunisia,Japan,Estadio BBVA,Monterrey,Mexico,2026-06-20,14:00 ET,CAF,40.0,Faouzi Benzarti,AFC,18.0,Hajime Moriyasu,False
+F,Group Stage,Japan,Sweden,AT&T Stadium,Arlington,USA,2026-06-26,19:00 ET,AFC,18.0,Hajime Moriyasu,UEFA,39.0,Jon Dahl Tomasson,True
+F,Group Stage,Tunisia,Netherlands,Arrowhead Stadium,Kansas City,USA,2026-06-26,19:00 ET,CAF,40.0,Faouzi Benzarti,UEFA,7.0,Ronald Koeman,True
+G,Group Stage,Belgium,Egypt,Lumen Field,Seattle,USA,2026-06-15,15:00 ET,UEFA,9.0,Domenico Tedesco,CAF,29.0,Hossam El-Badry,False
+G,Group Stage,Iran,New Zealand,SoFi Stadium,Inglewood,USA,2026-06-15,18:00 ET,AFC,21.0,Amir Ghalenoei,OFC,95.0,Darren Bazeley,False
+G,Group Stage,Belgium,Iran,SoFi Stadium,Inglewood,USA,2026-06-21,18:00 ET,UEFA,9.0,Domenico Tedesco,AFC,21.0,Amir Ghalenoei,False
+G,Group Stage,New Zealand,Egypt,Lumen Field,Seattle,USA,2026-06-21,15:00 ET,OFC,95.0,Darren Bazeley,CAF,29.0,Hossam El-Badry,False
+G,Group Stage,Egypt,Iran,Lumen Field,Seattle,USA,2026-06-26,18:00 ET,CAF,29.0,Hossam El-Badry,AFC,21.0,Amir Ghalenoei,False
+G,Group Stage,New Zealand,Belgium,SoFi Stadium,Inglewood,USA,2026-06-26,18:00 ET,OFC,95.0,Darren Bazeley,UEFA,9.0,Domenico Tedesco,False
+H,Group Stage,Spain,Cape Verde,Mercedes-Benz Stadium,Atlanta,USA,2026-06-15,12:00 ET,UEFA,2.0,Luis de la Fuente,CAF,70.0,Pedro Brito,False
+H,Group Stage,Saudi Arabia,Uruguay,Hard Rock Stadium,Miami,USA,2026-06-15,15:00 ET,AFC,57.0,Roberto Mancini,CONMEBOL,17.0,Marcelo Bielsa,False
+H,Group Stage,Spain,Saudi Arabia,Estadio Akron,Guadalajara,Mexico,2026-06-21,21:00 ET,UEFA,2.0,Luis de la Fuente,AFC,57.0,Roberto Mancini,False
+H,Group Stage,Uruguay,Cape Verde,Hard Rock Stadium,Miami,USA,2026-06-21,18:00 ET,CONMEBOL,17.0,Marcelo Bielsa,CAF,70.0,Pedro Brito,False
+H,Group Stage,Cape Verde,Saudi Arabia,NRG Stadium,Houston,USA,2026-06-26,20:00 ET,CAF,70.0,Pedro Brito,AFC,57.0,Roberto Mancini,True
+H,Group Stage,Uruguay,Spain,Estadio Akron,Guadalajara,Mexico,2026-06-26,20:00 ET,CONMEBOL,17.0,Marcelo Bielsa,UEFA,2.0,Luis de la Fuente,True
+I,Group Stage,France,Senegal,MetLife Stadium,East Rutherford,USA,2026-06-16,15:00 ET,UEFA,1.0,Didier Deschamps,CAF,14.0,Aliou Cissé,False
+I,Group Stage,Iraq,Norway,Gillette Stadium,Foxborough,USA,2026-06-16,18:00 ET,AFC,61.0,Graham Arnold,UEFA,44.0,Ståle Solbakken,False
+I,Group Stage,France,Iraq,Lincoln Financial Field,Philadelphia,USA,2026-06-22,17:00 ET,UEFA,1.0,Didier Deschamps,AFC,61.0,Graham Arnold,False
+I,Group Stage,Norway,Senegal,Gillette Stadium,Foxborough,USA,2026-06-22,20:00 ET,UEFA,44.0,Ståle Solbakken,CAF,14.0,Aliou Cissé,False
+I,Group Stage,Norway,France,Gillette Stadium,Foxborough,USA,2026-06-26,15:00 ET,UEFA,44.0,Ståle Solbakken,UEFA,1.0,Didier Deschamps,True
+I,Group Stage,Senegal,Iraq,BMO Field,Toronto,Canada,2026-06-26,15:00 ET,CAF,14.0,Aliou Cissé,AFC,61.0,Graham Arnold,True
+J,Group Stage,Argentina,Algeria,Arrowhead Stadium,Kansas City,USA,2026-06-16,21:00 ET,CONMEBOL,3.0,Lionel Scaloni,CAF,36.0,Vladimir Petkovic,False
+J,Group Stage,Austria,Jordan,AT&T Stadium,Arlington,USA,2026-06-17,00:00 ET,UEFA,23.0,Ralf Rangnick,AFC,68.0,Hussain Ammouta,False
+J,Group Stage,Argentina,Austria,AT&T Stadium,Arlington,USA,2026-06-22,13:00 ET,CONMEBOL,3.0,Lionel Scaloni,UEFA,23.0,Ralf Rangnick,False
+J,Group Stage,Jordan,Algeria,AT&T Stadium,Arlington,USA,2026-06-23,23:00 ET,AFC,68.0,Hussain Ammouta,CAF,36.0,Vladimir Petkovic,False
+J,Group Stage,Algeria,Austria,Arrowhead Stadium,Kansas City,USA,2026-06-27,22:00 ET,CAF,36.0,Vladimir Petkovic,UEFA,23.0,Ralf Rangnick,False
+J,Group Stage,Jordan,Argentina,AT&T Stadium,Arlington,USA,2026-06-27,22:00 ET,AFC,68.0,Hussain Ammouta,CONMEBOL,3.0,Lionel Scaloni,False
+K,Group Stage,Portugal,DR Congo,NRG Stadium,Houston,USA,2026-06-17,13:00 ET,UEFA,5.0,Roberto Martínez,CAF,51.0,Sébastien Desabre,False
+K,Group Stage,Uzbekistan,Colombia,Estadio Azteca,Mexico City,Mexico,2026-06-17,22:00 ET,AFC,62.0,Srecko Katanec,CONMEBOL,13.0,Néstor Lorenzo,False
+K,Group Stage,Portugal,Uzbekistan,Arrowhead Stadium,Kansas City,USA,2026-06-23,13:00 ET,UEFA,5.0,Roberto Martínez,AFC,62.0,Srecko Katanec,False
+K,Group Stage,Colombia,DR Congo,Arrowhead Stadium,Kansas City,USA,2026-06-23,16:00 ET,CONMEBOL,13.0,Néstor Lorenzo,CAF,51.0,Sébastien Desabre,False
+K,Group Stage,Colombia,Portugal,Hard Rock Stadium,Miami,USA,2026-06-27,19:30 ET,CONMEBOL,13.0,Néstor Lorenzo,UEFA,5.0,Roberto Martínez,True
+K,Group Stage,DR Congo,Uzbekistan,Mercedes-Benz Stadium,Atlanta,USA,2026-06-27,19:30 ET,CAF,51.0,Sébastien Desabre,AFC,62.0,Srecko Katanec,True
+L,Group Stage,England,Croatia,AT&T Stadium,Arlington,USA,2026-06-17,15:00 ET,UEFA,4.0,Thomas Tuchel,UEFA,11.0,Zlatko Dalić,False
+L,Group Stage,Ghana,Panama,BMO Field,Toronto,Canada,2026-06-17,18:00 ET,CAF,65.0,Otto Addo,CONCACAF,53.0,Thomas Christiansen,False
+L,Group Stage,England,Ghana,Gillette Stadium,Foxborough,USA,2026-06-23,19:00 ET,UEFA,4.0,Thomas Tuchel,CAF,65.0,Otto Addo,False
+L,Group Stage,Croatia,Panama,BMO Field,Toronto,Canada,2026-06-23,21:00 ET,UEFA,11.0,Zlatko Dalić,CONCACAF,53.0,Thomas Christiansen,False
+L,Group Stage,Panama,England,MetLife Stadium,East Rutherford,USA,2026-06-27,17:00 ET,CONCACAF,53.0,Thomas Christiansen,UEFA,4.0,Thomas Tuchel,True
+L,Group Stage,Croatia,Ghana,Lincoln Financial Field,Philadelphia,USA,2026-06-27,17:00 ET,UEFA,11.0,Zlatko Dalić,CAF,65.0,Otto Addo,True
+,Round of 32,1A,2B,MetLife Stadium,East Rutherford,USA,2026-06-28,TBD,,,,,,,False
+,Round of 32,1B,2A,AT&T Stadium,Arlington,USA,2026-06-28,TBD,,,,,,,False
+,Round of 32,1C,2D,NRG Stadium,Houston,USA,2026-06-29,TBD,,,,,,,False
+,Round of 32,1D,2C,Estadio BBVA,Monterrey,Mexico,2026-06-29,TBD,,,,,,,False
+,Round of 32,1E,2F,SoFi Stadium,Inglewood,USA,2026-06-30,TBD,,,,,,,False
+,Round of 32,1F,2E,Lumen Field,Seattle,USA,2026-06-30,TBD,,,,,,,False
+,Round of 32,1G,2H,Mercedes-Benz Stadium,Atlanta,USA,2026-07-01,TBD,,,,,,,False
+,Round of 32,1H,2G,Hard Rock Stadium,Miami,USA,2026-07-01,TBD,,,,,,,False
+,Round of 32,1I,2J,Lincoln Financial Field,Philadelphia,USA,2026-07-02,TBD,,,,,,,False
+,Round of 32,1J,2I,Arrowhead Stadium,Kansas City,USA,2026-07-02,TBD,,,,,,,False
+,Round of 32,1K,2L,Gillette Stadium,Foxborough,USA,2026-07-03,TBD,,,,,,,False
+,Round of 32,1L,2K,BC Place,Vancouver,Canada,2026-07-03,TBD,,,,,,,False
+,Round of 32,Best 3rd #1,Best 3rd #2,BMO Field,Toronto,Canada,2026-07-03,TBD,,,,,,,False
+,Round of 32,Best 3rd #3,Best 3rd #4,Estadio BBVA,Monterrey,Mexico,2026-07-03,TBD,,,,,,,False
+,Round of 32,Best 3rd #5,Best 3rd #6,Estadio Akron,Guadalajara,Mexico,2026-07-04,TBD,,,,,,,False
+,Round of 32,Best 3rd #7,Best 3rd #8,Estadio Azteca,Mexico City,Mexico,2026-07-04,TBD,,,,,,,False
+,Round of 16,R32 W1,R32 W2,AT&T Stadium,Arlington,USA,2026-07-04,TBD,,,,,,,False
+,Round of 16,R32 W3,R32 W4,MetLife Stadium,East Rutherford,USA,2026-07-05,TBD,,,,,,,False
+,Round of 16,R32 W5,R32 W6,NRG Stadium,Houston,USA,2026-07-05,TBD,,,,,,,False
+,Round of 16,R32 W7,R32 W8,NRG Stadium,Houston,USA,2026-07-06,TBD,,,,,,,False
+,Round of 16,R32 W9,R32 W10,SoFi Stadium,Inglewood,USA,2026-07-06,TBD,,,,,,,False
+,Round of 16,R32 W11,R32 W12,Lumen Field,Seattle,USA,2026-07-07,TBD,,,,,,,False
+,Round of 16,R32 W13,R32 W14,Hard Rock Stadium,Miami,USA,2026-07-07,TBD,,,,,,,False
+,Round of 16,R32 W15,R32 W16,Mercedes-Benz Stadium,Atlanta,USA,2026-07-07,TBD,,,,,,,False
+,Quarter-final,QF1,QF2,AT&T Stadium,Arlington,USA,2026-07-09,TBD,,,,,,,False
+,Quarter-final,QF3,QF4,MetLife Stadium,East Rutherford,USA,2026-07-10,TBD,,,,,,,False
+,Quarter-final,QF5,QF6,SoFi Stadium,Inglewood,USA,2026-07-10,TBD,,,,,,,False
+,Quarter-final,QF7,QF8,NRG Stadium,Houston,USA,2026-07-11,TBD,,,,,,,False
+,Semi-final,SF1,SF2,AT&T Stadium,Arlington,USA,2026-07-14,TBD,,,,,,,False
+,Semi-final,SF3,SF4,MetLife Stadium,East Rutherford,USA,2026-07-15,TBD,,,,,,,False
+,3rd Place Match,3rd Place,3rd Place,Hard Rock Stadium,Miami,USA,2026-07-18,TBD,,,,,,,False
+,Final,Finalist 1,Finalist 2,MetLife Stadium,East Rutherford,USA,2026-07-19,TBD,,,,,,,False
