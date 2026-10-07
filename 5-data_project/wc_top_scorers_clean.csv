@@ -1,0 +1,23 @@
+edition,year,player,country,goals,assists,matches_played,team_result,manually_corrected,country_canon,player_all,n_co_leaders,is_tie
+1,1930,Guillermo Stábile,Argentina,8,,4,Runner-up,True,Argentina,Guillermo Stábile,1,False
+2,1934,Oldřich Nejedlý,Czechoslovakia,5,,4,Runner-up,True,Czechia,Oldřich Nejedlý,1,False
+3,1938,Leônidas,Brazil,7,,5,Third place,False,Brazil,Leônidas,1,False
+4,1950,Ademir,Brazil,8,,6,Runner-up,False,Brazil,Ademir,1,False
+5,1954,Sándor Kocsis,Hungary,11,,5,Runner-up,False,Hungary,Sándor Kocsis,1,False
+6,1958,Just Fontaine,France,13,,6,Third place,False,France,Just Fontaine,1,False
+7,1962,Multiple Winners,Multiple,4,,,,False,,Florian Albert / Garrincha / Valentin Ivanov / Leonel Sánchez / Dražan Jerković / Vavá,6,True
+8,1966,Eusébio,Portugal,9,,6,Third place,False,Portugal,Eusébio,1,False
+9,1970,Gerd Müller,West Germany,10,,6,Third place,False,Germany,Gerd Müller,1,False
+10,1974,Grzegorz Lato,Poland,7,,7,Third place,False,Poland,Grzegorz Lato,1,False
+11,1978,Mario Kempes,Argentina,6,,7,Champions,False,Argentina,Mario Kempes,1,False
+12,1982,Paolo Rossi,Italy,6,,7,Champions,False,Italy,Paolo Rossi,1,False
+13,1986,Gary Lineker,England,6,,5,Quarter-final,False,England,Gary Lineker,1,False
+14,1990,Salvatore Schillaci,Italy,6,,7,Third place,False,Italy,Salvatore Schillaci,1,False
+15,1994,Hristo Stoichkov,Bulgaria,6,,6,Fourth place,True,Bulgaria,Hristo Stoichkov / Oleg Salenko,2,True
+16,1998,Davor Šuker,Croatia,6,,6,Third place,False,Croatia,Davor Šuker,1,False
+17,2002,Ronaldo,Brazil,8,,7,Champions,False,Brazil,Ronaldo,1,False
+18,2006,Miroslav Klose,Germany,5,,7,Third place,False,Germany,Miroslav Klose,1,False
+19,2010,Thomas Müller,Germany,5,3,6,Third place,False,Germany,Thomas Müller / Wesley Sneijder / David Villa / Diego Forlán,4,True
+20,2014,James Rodríguez,Colombia,6,2,5,Quarter-final,False,Colombia,James Rodríguez,1,False
+21,2018,Harry Kane,England,6,0,6,Fourth place,False,England,Harry Kane,1,False
+22,2022,Kylian Mbappé,France,8,2,7,Runner-up,False,France,Kylian Mbappé,1,False
