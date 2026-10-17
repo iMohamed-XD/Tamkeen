@@ -23,6 +23,7 @@ dependencies = [
     { name = "pandas" },
     { name = "plotly-express" },
     { name = "scipy" },
+    { name = "statsmodels" },
 ]
 
 [package.metadata]
@@ -32,6 +33,7 @@ requires-dist = [
     { name = "pandas", specifier = ">=3.0.6" },
     { name = "plotly-express", specifier = ">=0.4.1" },
     { name = "scipy", specifier = ">=1.18.1" },
+    { name = "statsmodels", specifier = ">=0.15.0" },
 ]
 
 [[package]]
