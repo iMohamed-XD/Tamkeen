@@ -3,7 +3,7 @@ import uuid
 
 DATA_DIR = Path("C:\\Tamkeen\\9-DL_project\\data")          # path to your data folder
 SEPARATOR = "_"                  # "pencil_1"; use " " for "pencil 1"
-EXTS = {".jpg", ".jpeg", ".png", ".webp", ".bmp", ".gif", ".heif"}
+EXTS = {".jpg", ".jpeg", ".png", ".webp", ".bmp", ".gif", ".heif", ".tiff", ".tif"}  # file extensions to rename
 DRY_RUN = False                   # set to False to actually rename
 
 for folder in sorted(p for p in DATA_DIR.iterdir() if p.is_dir()):
